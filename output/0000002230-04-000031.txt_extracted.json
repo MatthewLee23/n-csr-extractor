@@ -1,0 +1,2365 @@
+[
+    {
+        "filename": "0000002230-04-000031.txt",
+        "extracted_tables": [
+            {
+                "table_type": "Operations",
+                "headers": [
+                    "Description",
+                    "2003",
+                    "2002"
+                ],
+                "rows": [
+                    {
+                        "Description": "Net asset value per share",
+                        "2003": "$14.36",
+                        "2002": "$12.12"
+                    },
+                    {
+                        "Description": "Total net assets",
+                        "2003": "1,218,862,456",
+                        "2002": "1,024,810,092"
+                    },
+                    {
+                        "Description": "Unrealized appreciation",
+                        "2003": "282,112,491",
+                        "2002": "94,587,538"
+                    },
+                    {
+                        "Description": "Net investment income",
+                        "2003": "15,613,355",
+                        "2002": "16,738,360"
+                    },
+                    {
+                        "Description": "Total realized gain",
+                        "2003": "49,120,443",
+                        "2002": "44,530,335"
+                    },
+                    {
+                        "Description": "Total return (based on market value)",
+                        "2003": "25.2%",
+                        "2002": "(20.6)%"
+                    },
+                    {
+                        "Description": "Total return (based on net asset value)",
+                        "2003": "26.3%",
+                        "2002": "(19.4)%"
+                    },
+                    {
+                        "Description": "Expense ratio",
+                        "2003": "0.47%",
+                        "2002": "0.34%"
+                    }
+                ]
+            },
+            {
+                "table_type": "Other",
+                "headers": [
+                    "Date",
+                    "Amount (per share)",
+                    "Type"
+                ],
+                "rows": [
+                    {
+                        "Date": "March 1, 2003",
+                        "Amount (per share)": "$0.03",
+                        "Type": "Long-term capital gain"
+                    },
+                    {
+                        "Date": "March 1, 2003",
+                        "Amount (per share)": "0.02",
+                        "Type": "Investment income"
+                    },
+                    {
+                        "Date": "June 1, 2003",
+                        "Amount (per share)": "0.05",
+                        "Type": "Investment income"
+                    },
+                    {
+                        "Date": "September 1, 2003",
+                        "Amount (per share)": "0.05",
+                        "Type": "Investment income"
+                    },
+                    {
+                        "Date": "December 27, 2003",
+                        "Amount (per share)": "0.54",
+                        "Type": "Long-term capital gain"
+                    },
+                    {
+                        "Date": "December 27, 2003",
+                        "Amount (per share)": "0.04",
+                        "Type": "Short-term capital gain"
+                    },
+                    {
+                        "Date": "December 27, 2003",
+                        "Amount (per share)": "0.05",
+                        "Type": "Investment income"
+                    }
+                ],
+                "total_amount": "$0.78"
+            },
+            {
+                "table_type": "Schedule of Investments",
+                "headers": [
+                    "Company",
+                    "Market Value",
+                    "% of Net Assets"
+                ],
+                "rows": [
+                    {
+                        "Company": "American International Group, Inc.",
+                        "Market Value": "$48,959,380",
+                        "% of Net Assets": "4.0"
+                    },
+                    {
+                        "Company": "Petroleum & Resources Corporation*",
+                        "Market Value": "$47,147,557",
+                        "% of Net Assets": "3.9"
+                    },
+                    {
+                        "Company": "Pfizer Inc.",
+                        "Market Value": "$38,863,000",
+                        "% of Net Assets": "3.2"
+                    },
+                    {
+                        "Company": "General Electric Co.",
+                        "Market Value": "$34,471,447",
+                        "% of Net Assets": "2.8"
+                    },
+                    {
+                        "Company": "United Technologies Corp.",
+                        "Market Value": "$32,695,650",
+                        "% of Net Assets": "2.7"
+                    },
+                    {
+                        "Company": "Cisco Systems, Inc.",
+                        "Market Value": "$29,148,000",
+                        "% of Net Assets": "2.4"
+                    },
+                    {
+                        "Company": "AMBAC Financial Group, Inc.",
+                        "Market Value": "$27,756,000",
+                        "% of Net Assets": "2.3"
+                    },
+                    {
+                        "Company": "Philadelphia Suburban Corp.",
+                        "Market Value": "$24,171,875",
+                        "% of Net Assets": "2.0"
+                    },
+                    {
+                        "Company": "Wells Fargo & Co.",
+                        "Market Value": "$23,556,000",
+                        "% of Net Assets": "1.9"
+                    },
+                    {
+                        "Company": "Microsoft Corp.",
+                        "Market Value": "$22,032,000",
+                        "% of Net Assets": "1.8"
+                    }
+                ],
+                "total": {
+                    "Market Value": "$328,800,909",
+                    "% of Net Assets": "27.0%"
+                }
+            },
+            {
+                "table_type": "Other",
+                "headers": [
+                    "Calendar Years",
+                    "Market value of original shares",
+                    "Cumulative market value of capital gains distributions taken in shares",
+                    "Cumulative market value of income dividends taken in shares",
+                    "Total market value",
+                    "Total net asset value"
+                ],
+                "rows": [
+                    {
+                        "Calendar Years": 1989,
+                        "Market value of original shares": "$10,542",
+                        "Cumulative market value of capital gains distributions taken in shares": "$950",
+                        "Cumulative market value of income dividends taken in shares": "$467",
+                        "Total market value": "$11,959",
+                        "Total net asset value": "$14,040"
+                    },
+                    {
+                        "Calendar Years": 1990,
+                        "Market value of original shares": "$9,951",
+                        "Cumulative market value of capital gains distributions taken in shares": "$1,720",
+                        "Cumulative market value of income dividends taken in shares": "$925",
+                        "Total market value": "$12,596",
+                        "Total net asset value": "$14,364"
+                    },
+                    {
+                        "Calendar Years": 1991,
+                        "Market value of original shares": "$12,819",
+                        "Cumulative market value of capital gains distributions taken in shares": "$3,217",
+                        "Cumulative market value of income dividends taken in shares": "$1,672",
+                        "Total market value": "$17,708",
+                        "Total net asset value": "$18,831"
+                    },
+                    {
+                        "Calendar Years": 1992,
+                        "Market value of original shares": "$13,493",
+                        "Cumulative market value of capital gains distributions taken in shares": "$4,498",
+                        "Cumulative market value of income dividends taken in shares": "$2,195",
+                        "Total market value": "$20,186",
+                        "Total net asset value": "$20,671"
+                    },
+                    {
+                        "Calendar Years": 1993,
+                        "Market value of original shares": "$12,060",
+                        "Cumulative market value of capital gains distributions taken in shares": "$5,219",
+                        "Cumulative market value of income dividends taken in shares": "$2,360",
+                        "Total market value": "$19,639",
+                        "Total net asset value": "$21,732"
+                    },
+                    {
+                        "Calendar Years": 1994,
+                        "Market value of original shares": "$10,542",
+                        "Cumulative market value of capital gains distributions taken in shares": "$5,778",
+                        "Cumulative market value of income dividends taken in shares": "$2,566",
+                        "Total market value": "$18,886",
+                        "Total net asset value": "$21,738"
+                    },
+                    {
+                        "Calendar Years": 1995,
+                        "Market value of original shares": "$12,478",
+                        "Cumulative market value of capital gains distributions taken in shares": "$8,251",
+                        "Cumulative market value of income dividends taken in shares": "$3,697",
+                        "Total market value": "$24,426",
+                        "Total net asset value": "$28,209"
+                    },
+                    {
+                        "Calendar Years": 1996,
+                        "Market value of original shares": "$13,325",
+                        "Cumulative market value of capital gains distributions taken in shares": "$10,447",
+                        "Cumulative market value of income dividends taken in shares": "$4,642",
+                        "Total market value": "$28,414",
+                        "Total net asset value": "$34,096"
+                    },
+                    {
+                        "Calendar Years": 1997,
+                        "Market value of original shares": "$16,319",
+                        "Cumulative market value of capital gains distributions taken in shares": "$15,023",
+                        "Cumulative market value of income dividends taken in shares": "$6,456",
+                        "Total market value": "$37,798",
+                        "Total net asset value": "$44,559"
+                    },
+                    {
+                        "Calendar Years": 1998,
+                        "Market value of original shares": "$17,963",
+                        "Cumulative market value of capital gains distributions taken in shares": "$19,243",
+                        "Cumulative market value of income dividends taken in shares": "$7,844",
+                        "Total market value": "$45,050",
+                        "Total net asset value": "$55,049"
+                    },
+                    {
+                        "Calendar Years": 1999,
+                        "Market value of original shares": "$22,644",
+                        "Cumulative market value of capital gains distributions taken in shares": "$27,988",
+                        "Cumulative market value of income dividends taken in shares": "$10,653",
+                        "Total market value": "$61,285",
+                        "Total net asset value": "$73,542"
+                    },
+                    {
+                        "Calendar Years": 2000,
+                        "Market value of original shares": "$21,252",
+                        "Cumulative market value of capital gains distributions taken in shares": "$30,554",
+                        "Cumulative market value of income dividends taken in shares": "$10,522",
+                        "Total market value": "$62,328",
+                        "Total net asset value": "$70,401"
+                    },
+                    {
+                        "Calendar Years": 2001,
+                        "Market value of original shares": "$14,391",
+                        "Cumulative market value of capital gains distributions taken in shares": "$24,791",
+                        "Cumulative market value of income dividends taken in shares": "$7,773",
+                        "Total market value": "$46,955",
+                        "Total net asset value": "$52,997"
+                    },
+                    {
+                        "Calendar Years": 2002,
+                        "Market value of original shares": "$10,697",
+                        "Cumulative market value of capital gains distributions taken in shares": "$20,260",
+                        "Cumulative market value of income dividends taken in shares": "$6,313",
+                        "Total market value": "$37,270",
+                        "Total net asset value": "$42,735"
+                    },
+                    {
+                        "Calendar Years": 2003,
+                        "Market value of original shares": "$12,559",
+                        "Cumulative market value of capital gains distributions taken in shares": "$26,039",
+                        "Cumulative market value of income dividends taken in shares": "$8,039",
+                        "Total market value": "$46,637",
+                        "Total net asset value": "$53,965"
+                    }
+                ]
+            },
+            {
+                "table_type": "Other",
+                "headers": [
+                    "Year",
+                    "Market Value of Original Shares",
+                    "Cumulative Market Value of Capital Gains Distributions",
+                    "Cumulative Market Value of Income Dividends",
+                    "Total Market Value",
+                    "Total Net Asset Value"
+                ],
+                "rows": [
+                    {
+                        "Year": "1989",
+                        "Market Value of Original Shares": "$10,542",
+                        "Cumulative Market Value of Capital Gains Distributions": "$950",
+                        "Cumulative Market Value of Income Dividends": "$467",
+                        "Total Market Value": "$11,959",
+                        "Total Net Asset Value": "$14,040"
+                    },
+                    {
+                        "Year": "1990",
+                        "Market Value of Original Shares": "$9,951",
+                        "Cumulative Market Value of Capital Gains Distributions": "$1,720",
+                        "Cumulative Market Value of Income Dividends": "$925",
+                        "Total Market Value": "$12,596",
+                        "Total Net Asset Value": "$14,364"
+                    },
+                    {
+                        "Year": "1991",
+                        "Market Value of Original Shares": "$12,819",
+                        "Cumulative Market Value of Capital Gains Distributions": "$3,217",
+                        "Cumulative Market Value of Income Dividends": "$1,672",
+                        "Total Market Value": "$17,708",
+                        "Total Net Asset Value": "$18,831"
+                    },
+                    {
+                        "Year": "1992",
+                        "Market Value of Original Shares": "$13,493",
+                        "Cumulative Market Value of Capital Gains Distributions": "$4,498",
+                        "Cumulative Market Value of Income Dividends": "$2,195",
+                        "Total Market Value": "$20,186",
+                        "Total Net Asset Value": "$20,671"
+                    },
+                    {
+                        "Year": "1993",
+                        "Market Value of Original Shares": "$12,060",
+                        "Cumulative Market Value of Capital Gains Distributions": "$5,219",
+                        "Cumulative Market Value of Income Dividends": "$2,360",
+                        "Total Market Value": "$19,639",
+                        "Total Net Asset Value": "$21,732"
+                    },
+                    {
+                        "Year": "1994",
+                        "Market Value of Original Shares": "$10,542",
+                        "Cumulative Market Value of Capital Gains Distributions": "$5,778",
+                        "Cumulative Market Value of Income Dividends": "$2,566",
+                        "Total Market Value": "$18,886",
+                        "Total Net Asset Value": "$21,738"
+                    },
+                    {
+                        "Year": "1995",
+                        "Market Value of Original Shares": "$12,478",
+                        "Cumulative Market Value of Capital Gains Distributions": "$8,251",
+                        "Cumulative Market Value of Income Dividends": "$3,697",
+                        "Total Market Value": "$24,426",
+                        "Total Net Asset Value": "$28,209"
+                    },
+                    {
+                        "Year": "1996",
+                        "Market Value of Original Shares": "$13,325",
+                        "Cumulative Market Value of Capital Gains Distributions": "$10,447",
+                        "Cumulative Market Value of Income Dividends": "$4,642",
+                        "Total Market Value": "$28,414",
+                        "Total Net Asset Value": "$34,096"
+                    },
+                    {
+                        "Year": "1997",
+                        "Market Value of Original Shares": "$16,319",
+                        "Cumulative Market Value of Capital Gains Distributions": "$15,023",
+                        "Cumulative Market Value of Income Dividends": "$6,456",
+                        "Total Market Value": "$37,798",
+                        "Total Net Asset Value": "$44,559"
+                    },
+                    {
+                        "Year": "1998",
+                        "Market Value of Original Shares": "$17,963",
+                        "Cumulative Market Value of Capital Gains Distributions": "$19,243",
+                        "Cumulative Market Value of Income Dividends": "$7,844",
+                        "Total Market Value": "$45,050",
+                        "Total Net Asset Value": "$55,049"
+                    },
+                    {
+                        "Year": "1999",
+                        "Market Value of Original Shares": "$22,644",
+                        "Cumulative Market Value of Capital Gains Distributions": "$27,988",
+                        "Cumulative Market Value of Income Dividends": "$10,653",
+                        "Total Market Value": "$61,285",
+                        "Total Net Asset Value": "$73,542"
+                    },
+                    {
+                        "Year": "2000",
+                        "Market Value of Original Shares": "$21,252",
+                        "Cumulative Market Value of Capital Gains Distributions": "$30,554",
+                        "Cumulative Market Value of Income Dividends": "$10,522",
+                        "Total Market Value": "$62,328",
+                        "Total Net Asset Value": "$70,401"
+                    },
+                    {
+                        "Year": "2001",
+                        "Market Value of Original Shares": "$14,391",
+                        "Cumulative Market Value of Capital Gains Distributions": "$24,791",
+                        "Cumulative Market Value of Income Dividends": "$7,773",
+                        "Total Market Value": "$46,955",
+                        "Total Net Asset Value": "$52,997"
+                    },
+                    {
+                        "Year": "2002",
+                        "Market Value of Original Shares": "$10,697",
+                        "Cumulative Market Value of Capital Gains Distributions": "$20,260",
+                        "Cumulative Market Value of Income Dividends": "$6,313",
+                        "Total Market Value": "$37,270",
+                        "Total Net Asset Value": "$42,735"
+                    },
+                    {
+                        "Year": "2003",
+                        "Market Value of Original Shares": "$12,559",
+                        "Cumulative Market Value of Capital Gains Distributions": "$26,039",
+                        "Cumulative Market Value of Income Dividends": "$8,039",
+                        "Total Market Value": "$46,637",
+                        "Total Net Asset Value": "$53,965"
+                    }
+                ]
+            },
+            {
+                "table_type": "Balance Sheet",
+                "headers": [
+                    "Description",
+                    "Amount"
+                ],
+                "rows": [
+                    {
+                        "Description": "Common stocks and convertible securities (cost $859,717,708)",
+                        "Amount": "$1,123,233,243"
+                    },
+                    {
+                        "Description": "Non-controlled affiliate, Petroleum & Resources Corporation (cost $27,963,162)",
+                        "Amount": "$47,147,557"
+                    },
+                    {
+                        "Description": "Short-term investments (cost $47,772,127)",
+                        "Amount": "$47,772,127"
+                    },
+                    {
+                        "Description": "Securities lending collateral (cost $117,594,815)",
+                        "Amount": "$117,594,815"
+                    },
+                    {
+                        "Description": "Total Investments at value",
+                        "Amount": "$1,335,747,742"
+                    },
+                    {
+                        "Description": "Cash",
+                        "Amount": "$318,385"
+                    },
+                    {
+                        "Description": "Receivables: Investment securities sold",
+                        "Amount": "$20,999"
+                    },
+                    {
+                        "Description": "Receivables: Dividends and interest",
+                        "Amount": "$1,024,767"
+                    },
+                    {
+                        "Description": "Prepaid expenses and other assets",
+                        "Amount": "$7,042,685"
+                    },
+                    {
+                        "Description": "Total Assets",
+                        "Amount": "$1,344,154,578"
+                    },
+                    {
+                        "Description": "Investment securities purchased",
+                        "Amount": "$3,091,310"
+                    },
+                    {
+                        "Description": "Open written option contracts at value (proceeds $614,311)",
+                        "Amount": "$1,201,750"
+                    },
+                    {
+                        "Description": "Obligations to return securities lending collateral",
+                        "Amount": "$117,594,815"
+                    },
+                    {
+                        "Description": "Accrued expenses and other liabilities",
+                        "Amount": "$3,404,247"
+                    },
+                    {
+                        "Description": "Total Liabilities",
+                        "Amount": "$125,292,122"
+                    },
+                    {
+                        "Description": "Net Assets",
+                        "Amount": "$1,218,862,456"
+                    },
+                    {
+                        "Description": "Common Stock at par value $1.00 per share, authorized 150,000,000 shares; issued and outstanding 84,886,412 shares",
+                        "Amount": "$84,886,412"
+                    },
+                    {
+                        "Description": "Additional capital surplus",
+                        "Amount": "$843,752,081"
+                    },
+                    {
+                        "Description": "Undistributed net investment income",
+                        "Amount": "$6,386,461"
+                    },
+                    {
+                        "Description": "Undistributed net realized gain on investments",
+                        "Amount": "$1,725,011"
+                    },
+                    {
+                        "Description": "Unrealized appreciation on investments",
+                        "Amount": "$282,112,491"
+                    },
+                    {
+                        "Description": "Net Assets Applicable to Common Stock",
+                        "Amount": "$1,218,862,456"
+                    },
+                    {
+                        "Description": "Net Asset Value Per Share of Common Stock",
+                        "Amount": "$14.36"
+                    }
+                ]
+            },
+            {
+                "table_type": "Operations",
+                "headers": [
+                    "Description",
+                    "Amount"
+                ],
+                "rows": [
+                    {
+                        "Description": "Dividends: From unaffiliated issuers",
+                        "Amount": "$18,180,105"
+                    },
+                    {
+                        "Description": "Dividends: From non-controlled affiliate",
+                        "Amount": "$774,539"
+                    },
+                    {
+                        "Description": "Interest and other income",
+                        "Amount": "$1,736,467"
+                    },
+                    {
+                        "Description": "Total income",
+                        "Amount": "$20,691,111"
+                    },
+                    {
+                        "Description": "Investment research",
+                        "Amount": "$2,138,942"
+                    },
+                    {
+                        "Description": "Administration and operations",
+                        "Amount": "$1,179,497"
+                    },
+                    {
+                        "Description": "Directors' fees",
+                        "Amount": "$215,334"
+                    },
+                    {
+                        "Description": "Reports and stockholder communications",
+                        "Amount": "$420,894"
+                    },
+                    {
+                        "Description": "Transfer agent, registrar and custodian expenses",
+                        "Amount": "$383,992"
+                    },
+                    {
+                        "Description": "Auditing and accounting services",
+                        "Amount": "$98,956"
+                    },
+                    {
+                        "Description": "Legal services",
+                        "Amount": "$46,760"
+                    },
+                    {
+                        "Description": "Occupancy and other office expenses",
+                        "Amount": "$314,835"
+                    },
+                    {
+                        "Description": "Travel, telephone and postage",
+                        "Amount": "$98,253"
+                    },
+                    {
+                        "Description": "Other",
+                        "Amount": "$180,293"
+                    },
+                    {
+                        "Description": "Total expenses",
+                        "Amount": "$5,077,756"
+                    },
+                    {
+                        "Description": "Net Investment Income",
+                        "Amount": "$15,613,355"
+                    },
+                    {
+                        "Description": "Net realized gain on security transactions",
+                        "Amount": "$47,531,646"
+                    },
+                    {
+                        "Description": "Net realized gain distributed by regulated investment company (non-controlled affiliate)",
+                        "Amount": "$1,588,797"
+                    },
+                    {
+                        "Description": "Change in unrealized appreciation on investments",
+                        "Amount": "$187,524,953"
+                    },
+                    {
+                        "Description": "Net Gain on Investments",
+                        "Amount": "$236,645,396"
+                    },
+                    {
+                        "Description": "Change in Net Assets Resulting from Operations",
+                        "Amount": "$252,258,751"
+                    }
+                ]
+            },
+            {
+                "table_type": "Operations",
+                "headers": [
+                    "Description",
+                    "Dec. 31, 2003",
+                    "Dec. 31, 2002"
+                ],
+                "rows": [
+                    {
+                        "Description": "Net investment income",
+                        "Dec. 31, 2003": "$15,613,355",
+                        "Dec. 31, 2002": "$16,738,360"
+                    },
+                    {
+                        "Description": "Net realized gain on investments",
+                        "Dec. 31, 2003": "$49,120,443",
+                        "Dec. 31, 2002": "$44,530,335"
+                    },
+                    {
+                        "Description": "Change in unrealized appreciation on investments",
+                        "Dec. 31, 2003": "$187,524,953",
+                        "Dec. 31, 2002": "($330,406,021)"
+                    },
+                    {
+                        "Description": "Change in net assets resulting from operations",
+                        "Dec. 31, 2003": "$252,258,751",
+                        "Dec. 31, 2002": "($269,137,326)"
+                    },
+                    {
+                        "Description": "Net investment income (Distributions to Stockholders)",
+                        "Dec. 31, 2003": "($14,099,163)",
+                        "Dec. 31, 2002": "($15,955,830)"
+                    },
+                    {
+                        "Description": "Net realized gain from investment transactions (Distributions to Stockholders)",
+                        "Dec. 31, 2003": "($50,229,205)",
+                        "Dec. 31, 2002": "($47,121,926)"
+                    },
+                    {
+                        "Description": "Decrease in net assets from distributions",
+                        "Dec. 31, 2003": "($64,328,368)",
+                        "Dec. 31, 2002": "($63,077,756)"
+                    },
+                    {
+                        "Description": "Value of shares issued in payment of distributions",
+                        "Dec. 31, 2003": "$32,667,930",
+                        "Dec. 31, 2002": "$26,003,033"
+                    },
+                    {
+                        "Description": "Cost of shares purchased (note 4)",
+                        "Dec. 31, 2003": "($26,545,949)",
+                        "Dec. 31, 2002": "($37,344,175)"
+                    },
+                    {
+                        "Description": "Change in net assets from capital share transactions",
+                        "Dec. 31, 2003": "$6,121,981",
+                        "Dec. 31, 2002": "($11,341,142)"
+                    },
+                    {
+                        "Description": "Total Change in Net Assets",
+                        "Dec. 31, 2003": "$194,052,364",
+                        "Dec. 31, 2002": "($343,556,224)"
+                    },
+                    {
+                        "Description": "Net Assets - Beginning of year",
+                        "Dec. 31, 2003": "$1,024,810,092",
+                        "Dec. 31, 2002": "$1,368,366,316"
+                    },
+                    {
+                        "Description": "Net Assets - End of year (including undistributed net investment income)",
+                        "Dec. 31, 2003": "$1,218,862,456",
+                        "Dec. 31, 2002": "$1,024,810,092"
+                    }
+                ]
+            },
+            {
+                "table_type": "Other",
+                "headers": [
+                    "Covered Calls",
+                    "Collateralized Puts"
+                ],
+                "sub_headers": [
+                    "Contracts",
+                    "Premiums",
+                    "Contracts",
+                    "Premiums"
+                ],
+                "rows": [
+                    {
+                        "description": "Options outstanding, December 31, 2002",
+                        "covered_calls_contracts": 6047,
+                        "covered_calls_premiums": 564056,
+                        "collateralized_puts_contracts": 6195,
+                        "collateralized_puts_premiums": 663944
+                    },
+                    {
+                        "description": "Options written",
+                        "covered_calls_contracts": 6645,
+                        "covered_calls_premiums": 838748,
+                        "collateralized_puts_contracts": 17850,
+                        "collateralized_puts_premiums": 1973018
+                    },
+                    {
+                        "description": "Options terminated in closing purchase transactions",
+                        "covered_calls_contracts": -2595,
+                        "covered_calls_premiums": -259291,
+                        "collateralized_puts_contracts": -1450,
+                        "collateralized_puts_premiums": -170477
+                    },
+                    {
+                        "description": "Options expired",
+                        "covered_calls_contracts": -6147,
+                        "covered_calls_premiums": -612333,
+                        "collateralized_puts_contracts": -18515,
+                        "collateralized_puts_premiums": -1975790
+                    },
+                    {
+                        "description": "Options exercised",
+                        "covered_calls_contracts": -2100,
+                        "covered_calls_premiums": -301891,
+                        "collateralized_puts_contracts": -980,
+                        "collateralized_puts_premiums": -105673
+                    },
+                    {
+                        "description": "Options outstanding, December 31, 2003",
+                        "covered_calls_contracts": 1850,
+                        "covered_calls_premiums": 229289,
+                        "collateralized_puts_contracts": 3100,
+                        "collateralized_puts_premiums": 385022
+                    }
+                ]
+            },
+            {
+                "table_type": "Other",
+                "headers": [
+                    "Description",
+                    "Shares 2003",
+                    "Shares 2002",
+                    "Amount 2003",
+                    "Amount 2002"
+                ],
+                "rows": [
+                    {
+                        "Description": "Shares issued in payment of distributions",
+                        "Shares 2003": "2,702,062",
+                        "Shares 2002": "2,426,788",
+                        "Amount 2003": "$32,667,930",
+                        "Amount 2002": "$26,003,033"
+                    },
+                    {
+                        "Description": "Shares purchased (at a weighted average discount from net asset value of 11.2% and 10.0%, respectively)",
+                        "Shares 2003": "(2,351,900)",
+                        "Shares 2002": "(3,123,800)",
+                        "Amount 2003": "($26,545,949)",
+                        "Amount 2002": "($37,344,175)"
+                    },
+                    {
+                        "Description": "Net change",
+                        "Shares 2003": "350,162",
+                        "Shares 2002": "(697,012)",
+                        "Amount 2003": "$6,121,981",
+                        "Amount 2002": "($11,341,142)"
+                    }
+                ]
+            },
+            {
+                "table_type": "Per Share Operating Performance",
+                "headers": [
+                    "Description",
+                    "2003",
+                    "2002",
+                    "2001",
+                    "2000",
+                    "1999"
+                ],
+                "rows": [
+                    {
+                        "Description": "Net asset value, beginning of year",
+                        "2003": "$12.12",
+                        "2002": "$16.05",
+                        "2001": "$23.72",
+                        "2000": "$26.85",
+                        "1999": "$21.69"
+                    },
+                    {
+                        "Description": "Net investment income",
+                        "2003": "0.19",
+                        "2002": "0.20",
+                        "2001": "0.26",
+                        "2000": "0.26",
+                        "1999": "0.25"
+                    },
+                    {
+                        "Description": "Net realized gains and change in unrealized appreciation",
+                        "2003": "2.85",
+                        "2002": "(3.38)",
+                        "2001": "(6.21)",
+                        "2000": "(1.51)",
+                        "1999": "6.71"
+                    },
+                    {
+                        "Description": "Total from investment operations",
+                        "2003": "3.04",
+                        "2002": "(3.18)",
+                        "2001": "(5.95)",
+                        "2000": "(1.25)",
+                        "1999": "6.96"
+                    },
+                    {
+                        "Description": "Dividends from net investment income",
+                        "2003": "(0.17)",
+                        "2002": "(0.19)",
+                        "2001": "(0.26)",
+                        "2000": "(0.22)",
+                        "1999": "(0.26)"
+                    },
+                    {
+                        "Description": "Distributions from net realized gains",
+                        "2003": "(0.61)",
+                        "2002": "(0.57)",
+                        "2001": "(1.39)",
+                        "2000": "(1.63)",
+                        "1999": "(1.37)"
+                    },
+                    {
+                        "Description": "Total distributions",
+                        "2003": "(0.78)",
+                        "2002": "(0.76)",
+                        "2001": "(1.65)",
+                        "2000": "(1.85)",
+                        "1999": "(1.63)"
+                    },
+                    {
+                        "Description": "Capital share repurchases",
+                        "2003": "0.04",
+                        "2002": "0.05",
+                        "2001": "0.04",
+                        "2000": "0.10",
+                        "1999": "--"
+                    },
+                    {
+                        "Description": "Reinvestment of distributions",
+                        "2003": "(0.06)",
+                        "2002": "(0.04)",
+                        "2001": "(0.11)",
+                        "2000": "(0.13)",
+                        "1999": "(0.17)"
+                    },
+                    {
+                        "Description": "Total capital share transactions",
+                        "2003": "(0.02)",
+                        "2002": "0.01",
+                        "2001": "(0.07)",
+                        "2000": "(0.03)",
+                        "1999": "(0.17)"
+                    },
+                    {
+                        "Description": "Net asset value, end of year",
+                        "2003": "$14.36",
+                        "2002": "$12.12",
+                        "2001": "$16.05",
+                        "2000": "$23.72",
+                        "1999": "$26.85"
+                    },
+                    {
+                        "Description": "Per share market price, end of year",
+                        "2003": "$12.41",
+                        "2002": "$10.57",
+                        "2001": "$14.22",
+                        "2000": "$21.00",
+                        "1999": "$22.38"
+                    },
+                    {
+                        "Description": "Total Investment Return Based on market price",
+                        "2003": "25.2%",
+                        "2002": "(20.6)%",
+                        "2001": "(24.7)%",
+                        "2000": "1.7%",
+                        "1999": "36.1%"
+                    },
+                    {
+                        "Description": "Total Investment Return Based on net asset value",
+                        "2003": "26.3%",
+                        "2002": "(19.4)%",
+                        "2001": "(24.7)%",
+                        "2000": "(4.3)%",
+                        "1999": "33.6%"
+                    },
+                    {
+                        "Description": "Net assets, end of year (in 000's)",
+                        "2003": "$1,218,862",
+                        "2002": "$1,024,810",
+                        "2001": "$1,368,366",
+                        "2000": "$1,951,563",
+                        "1999": "$2,170,802"
+                    },
+                    {
+                        "Description": "Ratio of expenses to average net assets",
+                        "2003": "0.47%",
+                        "2002": "0.34%",
+                        "2001": "0.19%",
+                        "2000": "0.24%",
+                        "1999": "0.32%"
+                    },
+                    {
+                        "Description": "Ratio of net investment income to average net assets",
+                        "2003": "1.45%",
+                        "2002": "1.42%",
+                        "2001": "1.33%",
+                        "2000": "0.97%",
+                        "1999": "1.06%"
+                    },
+                    {
+                        "Description": "Portfolio turnover",
+                        "2003": "12.74%",
+                        "2002": "17.93%",
+                        "2001": "19.15%",
+                        "2000": "12.74%",
+                        "1999": "15.94%"
+                    },
+                    {
+                        "Description": "Number of shares outstanding at end of year (in 000's)",
+                        "2003": "84,886",
+                        "2002": "84,536",
+                        "2001": "85,233",
+                        "2000": "82,292",
+                        "1999": "80,842"
+                    }
+                ]
+            },
+            {
+                "table_type": "Schedule of Investments",
+                "headers": [
+                    "Prin. Amt. or Shares",
+                    "Value (A)"
+                ],
+                "rows": [
+                    {
+                        "category": "Consumer",
+                        "subcategory": "Consumer Discretionary",
+                        "percentage": "6.3%",
+                        "investments": [
+                            {
+                                "name": "BJ's Wholesale Club, Inc. (B) (C)",
+                                "shares": 500000,
+                                "value": 11480000
+                            },
+                            {
+                                "name": "Brinker International Inc. (B)",
+                                "shares": 515000,
+                                "value": 17077400
+                            },
+                            {
+                                "name": "Gannett Co., Inc.",
+                                "shares": 87500,
+                                "value": 7801500
+                            },
+                            {
+                                "name": "Mattel, Inc.",
+                                "shares": 575000,
+                                "value": 11080250
+                            },
+                            {
+                                "name": "Newell Rubbermaid Inc. (C)",
+                                "shares": 515000,
+                                "value": 11726550
+                            },
+                            {
+                                "name": "Target Corp",
+                                "shares": 460000,
+                                "value": 17664000
+                            }
+                        ],
+                        "total_value": 76829700
+                    },
+                    {
+                        "category": "Consumer",
+                        "subcategory": "Consumer Staples",
+                        "percentage": "6.6%",
+                        "investments": [
+                            {
+                                "name": "Coca-Cola Co",
+                                "shares": 200000,
+                                "value": 10150000
+                            },
+                            {
+                                "name": "Dean Foods Co. (B)",
+                                "shares": 562500,
+                                "value": 18489375
+                            },
+                            {
+                                "name": "Hershey Foods Corp",
+                                "shares": 70000,
+                                "value": 5389300
+                            },
+                            {
+                                "name": "PepsiCo, Inc.",
+                                "shares": 440000,
+                                "value": 20512800
+                            },
+                            {
+                                "name": "Procter & Gamble Co",
+                                "shares": 170000,
+                                "value": 16979600
+                            },
+                            {
+                                "name": "Safeway, Inc. (B)",
+                                "shares": 423000,
+                                "value": 9267930
+                            }
+                        ],
+                        "total_value": 80789005
+                    },
+                    {
+                        "category": "Energy",
+                        "percentage": "7.3%",
+                        "investments": [
+                            {
+                                "name": "BP plc ADR (C)",
+                                "shares": 270000,
+                                "value": 13324501
+                            },
+                            {
+                                "name": "ConocoPhillips",
+                                "shares": 200000,
+                                "value": 13114000
+                            },
+                            {
+                                "name": "Exxon Mobil Corp",
+                                "shares": 130000,
+                                "value": 5330000
+                            },
+                            {
+                                "name": "Petroleum & Resources Corporation (D)",
+                                "shares": 1985996,
+                                "value": 47147557
+                            },
+                            {
+                                "name": "Schlumberger Ltd. (C)",
+                                "shares": 190000,
+                                "value": 10396800
+                            }
+                        ],
+                        "total_value": 89312858
+                    },
+                    {
+                        "category": "Financial",
+                        "subcategory": "Banking",
+                        "percentage": "11.3%",
+                        "investments": [
+                            {
+                                "name": "Bank of America Corp",
+                                "shares": 200000,
+                                "value": 16086000
+                            },
+                            {
+                                "name": "BankNorth Group, Inc",
+                                "shares": 474000,
+                                "value": 15419220
+                            },
+                            {
+                                "name": "Compass Bancshares Inc",
+                                "shares": 300000,
+                                "value": 11793000
+                            },
+                            {
+                                "name": "Fifth Third Bancorp",
+                                "shares": 155000,
+                                "value": 9160500
+                            },
+                            {
+                                "name": "Investors Financial Services Corp. (C)",
+                                "shares": 520000,
+                                "value": 19973200
+                            },
+                            {
+                                "name": "Provident Bankshares Corp",
+                                "shares": 335021,
+                                "value": 9863032
+                            },
+                            {
+                                "name": "Wachovia Corp",
+                                "shares": 370000,
+                                "value": 17238300
+                            },
+                            {
+                                "name": "Wells Fargo & Co",
+                                "shares": 400000,
+                                "value": 23556000
+                            },
+                            {
+                                "name": "Wilmington Trust Corp",
+                                "shares": 420000,
+                                "value": 15120000
+                            }
+                        ],
+                        "total_value": 138209252
+                    },
+                    {
+                        "category": "Financial",
+                        "subcategory": "Insurance",
+                        "percentage": "6.3%",
+                        "investments": [
+                            {
+                                "name": "AMBAC Financial Group, Inc",
+                                "shares": 400000,
+                                "value": 27756000
+                            },
+                            {
+                                "name": "American International Group, Inc",
+                                "shares": 738675,
+                                "value": 48959380
+                            }
+                        ],
+                        "total_value": 76715380
+                    }
+                ]
+            },
+            {
+                "table_type": "Schedule of Investments",
+                "headers": [
+                    "Sector",
+                    "Company",
+                    "Prin. Amt. or Shares",
+                    "Value (A)"
+                ],
+                "rows": [
+                    {
+                        "Sector": "Health Care",
+                        "Company": "Abbott Laboratories",
+                        "Prin. Amt. or Shares": "350,000",
+                        "Value (A)": "$16,310,000"
+                    },
+                    {
+                        "Sector": "Health Care",
+                        "Company": "Affymetrix Inc. (B)(C)",
+                        "Prin. Amt. or Shares": "210,000",
+                        "Value (A)": "$5,168,100"
+                    },
+                    {
+                        "Sector": "Health Care",
+                        "Company": "Bristol-Myers Squibb Co",
+                        "Prin. Amt. or Shares": "345,000",
+                        "Value (A)": "$9,867,000"
+                    },
+                    {
+                        "Sector": "Health Care",
+                        "Company": "Enzon Pharmaceuticals, Inc. (B)(C)",
+                        "Prin. Amt. or Shares": "100,000",
+                        "Value (A)": "$1,200,000"
+                    },
+                    {
+                        "Sector": "Health Care",
+                        "Company": "Genentech, Inc. (B)(C)",
+                        "Prin. Amt. or Shares": "145,000",
+                        "Value (A)": "$13,567,650"
+                    },
+                    {
+                        "Sector": "Health Care",
+                        "Company": "HCA Inc",
+                        "Prin. Amt. or Shares": "450,000",
+                        "Value (A)": "$19,332,000"
+                    },
+                    {
+                        "Sector": "Health Care",
+                        "Company": "Johnson & Johnson",
+                        "Prin. Amt. or Shares": "360,000",
+                        "Value (A)": "$18,597,600"
+                    },
+                    {
+                        "Sector": "Health Care",
+                        "Company": "Laboratory Corp. of America Holdings (B)(C)",
+                        "Prin. Amt. or Shares": "420,000",
+                        "Value (A)": "$15,519,000"
+                    },
+                    {
+                        "Sector": "Health Care",
+                        "Company": "MedImmune, Inc.",
+                        "Prin. Amt. or Shares": "225,000",
+                        "Value (A)": "$5,715,000"
+                    },
+                    {
+                        "Sector": "Health Care",
+                        "Company": "Medtronic Inc",
+                        "Prin. Amt. or Shares": "310,000",
+                        "Value (A)": "$15,069,100"
+                    },
+                    {
+                        "Sector": "Health Care",
+                        "Company": "Pfizer Inc",
+                        "Prin. Amt. or Shares": "1,100,000",
+                        "Value (A)": "$38,863,000"
+                    },
+                    {
+                        "Sector": "Health Care",
+                        "Company": "Wyeth Co",
+                        "Prin. Amt. or Shares": "300,000",
+                        "Value (A)": "$12,735,000"
+                    },
+                    {
+                        "Sector": "Health Care",
+                        "Company": "Zimmer Holdings Inc. (B)",
+                        "Prin. Amt. or Shares": "90,000",
+                        "Value (A)": "$6,336,000"
+                    },
+                    {
+                        "Sector": "Industrials",
+                        "Company": "Black & Decker Corp",
+                        "Prin. Amt. or Shares": "300,000",
+                        "Value (A)": "$14,796,000"
+                    },
+                    {
+                        "Sector": "Industrials",
+                        "Company": "Canadian National Railway Co",
+                        "Prin. Amt. or Shares": "170,000",
+                        "Value (A)": "$10,757,600"
+                    },
+                    {
+                        "Sector": "Industrials",
+                        "Company": "Donnelley (R.R.) & Sons Co. (C)",
+                        "Prin. Amt. or Shares": "400,000",
+                        "Value (A)": "$12,060,000"
+                    },
+                    {
+                        "Sector": "Industrials",
+                        "Company": "General Electric Co",
+                        "Prin. Amt. or Shares": "1,112,700",
+                        "Value (A)": "$34,471,447"
+                    },
+                    {
+                        "Sector": "Industrials",
+                        "Company": "Illinois Tool Works Inc",
+                        "Prin. Amt. or Shares": "92,300",
+                        "Value (A)": "$7,744,893"
+                    },
+                    {
+                        "Sector": "Industrials",
+                        "Company": "Ingersoll-Rand Co. Ltd.",
+                        "Prin. Amt. or Shares": "250,000",
+                        "Value (A)": "$16,970,000"
+                    },
+                    {
+                        "Sector": "Industrials",
+                        "Company": "Parker-Hannifin Corp",
+                        "Prin. Amt. or Shares": "275,000",
+                        "Value (A)": "$16,362,500"
+                    },
+                    {
+                        "Sector": "Industrials",
+                        "Company": "3M Co",
+                        "Prin. Amt. or Shares": "185,000",
+                        "Value (A)": "$15,730,550"
+                    },
+                    {
+                        "Sector": "Industrials",
+                        "Company": "United Parcel Service, Inc.",
+                        "Prin. Amt. or Shares": "80,000",
+                        "Value (A)": "$5,964,000"
+                    },
+                    {
+                        "Sector": "Industrials",
+                        "Company": "United Technologies Corp",
+                        "Prin. Amt. or Shares": "345,000",
+                        "Value (A)": "$32,695,650"
+                    },
+                    {
+                        "Sector": "Information Technology",
+                        "Company": "Corning Inc. (B)(C)",
+                        "Prin. Amt. or Shares": "1,170,000",
+                        "Value (A)": "$12,203,100"
+                    },
+                    {
+                        "Sector": "Information Technology",
+                        "Company": "Lucent Technologies Inc. (B)(C)",
+                        "Prin. Amt. or Shares": "2,100,000",
+                        "Value (A)": "$5,964,000"
+                    },
+                    {
+                        "Sector": "Information Technology",
+                        "Company": "Nokia Corp. ADR (C)",
+                        "Prin. Amt. or Shares": "400,000",
+                        "Value (A)": "$6,800,000"
+                    },
+                    {
+                        "Sector": "Information Technology",
+                        "Company": "BEA Systems Inc. (B)(C)",
+                        "Prin. Amt. or Shares": "800,000",
+                        "Value (A)": "$9,840,000"
+                    },
+                    {
+                        "Sector": "Information Technology",
+                        "Company": "BMC Software Inc. (B)",
+                        "Prin. Amt. or Shares": "310,000",
+                        "Value (A)": "$5,781,500"
+                    },
+                    {
+                        "Sector": "Information Technology",
+                        "Company": "Cisco Systems, Inc. (B)",
+                        "Prin. Amt. or Shares": "1,200,000",
+                        "Value (A)": "$29,148,000"
+                    },
+                    {
+                        "Sector": "Information Technology",
+                        "Company": "Dell Inc. (B)",
+                        "Prin. Amt. or Shares": "215,000",
+                        "Value (A)": "$7,301,400"
+                    },
+                    {
+                        "Sector": "Information Technology",
+                        "Company": "Diamondcluster International Inc. (B)",
+                        "Prin. Amt. or Shares": "497,500",
+                        "Value (A)": "$5,074,500"
+                    },
+                    {
+                        "Sector": "Information Technology",
+                        "Company": "Microsoft Corp",
+                        "Prin. Amt. or Shares": "800,000",
+                        "Value (A)": "$22,032,000"
+                    },
+                    {
+                        "Sector": "Information Technology",
+                        "Company": "Oracle Corp. (B)",
+                        "Prin. Amt. or Shares": "880,000",
+                        "Value (A)": "$11,616,000"
+                    },
+                    {
+                        "Sector": "Information Technology",
+                        "Company": "Sapient Corp. (B)",
+                        "Prin. Amt. or Shares": "1,150,000",
+                        "Value (A)": "$6,440,000"
+                    },
+                    {
+                        "Sector": "Information Technology",
+                        "Company": "Siebel Systems Inc. (B)",
+                        "Prin. Amt. or Shares": "800,000",
+                        "Value (A)": "$11,096,000"
+                    },
+                    {
+                        "Sector": "Information Technology",
+                        "Company": "Sun Microsystems, Inc. (B)",
+                        "Prin. Amt. or Shares": "515,000",
+                        "Value (A)": "$2,312,350"
+                    },
+                    {
+                        "Sector": "Information Technology",
+                        "Company": "Symantec Corp. 3.00% Conv. Sub. Notes due 2006 (E)",
+                        "Prin. Amt. or Shares": "$500,000",
+                        "Value (A)": "$1,025,625"
+                    },
+                    {
+                        "Sector": "Information Technology",
+                        "Company": "Symantec Corp. (B)(C)",
+                        "Prin. Amt. or Shares": "310,000",
+                        "Value (A)": "$10,741,500"
+                    }
+                ]
+            },
+            {
+                "table_type": "Schedule of Investments",
+                "headers": [
+                    "Category",
+                    "Security",
+                    "Prin. Amt. or Shares",
+                    "Value (A)"
+                ],
+                "rows": [
+                    {
+                        "Category": "Electronics",
+                        "Security": "Intel Corp.",
+                        "Prin. Amt. or Shares": "325,000",
+                        "Value (A)": "$10,465,000"
+                    },
+                    {
+                        "Category": "Electronics",
+                        "Security": "Solectron Corp. (B)(C)",
+                        "Prin. Amt. or Shares": "2,000,000",
+                        "Value (A)": "$11,820,000"
+                    },
+                    {
+                        "Category": "Materials",
+                        "Security": "Air Products and Chemicals, Inc.",
+                        "Prin. Amt. or Shares": "150,000",
+                        "Value (A)": "$7,924,500"
+                    },
+                    {
+                        "Category": "Materials",
+                        "Security": "Albemarle Corp.",
+                        "Prin. Amt. or Shares": "225,400",
+                        "Value (A)": "$6,755,238"
+                    },
+                    {
+                        "Category": "Materials",
+                        "Security": "Rohm & Haas Co.",
+                        "Prin. Amt. or Shares": "400,000",
+                        "Value (A)": "$17,084,000"
+                    },
+                    {
+                        "Category": "Telecom Services",
+                        "Security": "Alltel Corp.",
+                        "Prin. Amt. or Shares": "350,000",
+                        "Value (A)": "$16,303,000"
+                    },
+                    {
+                        "Category": "Telecom Services",
+                        "Security": "BellSouth Corp.",
+                        "Prin. Amt. or Shares": "415,000",
+                        "Value (A)": "$11,744,500"
+                    },
+                    {
+                        "Category": "Telecom Services",
+                        "Security": "SBC Communications Inc.",
+                        "Prin. Amt. or Shares": "595,000",
+                        "Value (A)": "$15,511,650"
+                    },
+                    {
+                        "Category": "Telecom Services",
+                        "Security": "Vodafone Group plc ADS (C)",
+                        "Prin. Amt. or Shares": "492,613",
+                        "Value (A)": "$12,335,042"
+                    },
+                    {
+                        "Category": "Utilities",
+                        "Security": "Black Hills Corp.",
+                        "Prin. Amt. or Shares": "374,500",
+                        "Value (A)": "$11,171,335"
+                    },
+                    {
+                        "Category": "Utilities",
+                        "Security": "CINergy Corp.",
+                        "Prin. Amt. or Shares": "440,000",
+                        "Value (A)": "$17,076,400"
+                    },
+                    {
+                        "Category": "Utilities",
+                        "Security": "Duke Energy Corp. 8.25% Conv. Pfd. due 2004 (C)",
+                        "Prin. Amt. or Shares": "400,000",
+                        "Value (A)": "$5,536,000"
+                    },
+                    {
+                        "Category": "Utilities",
+                        "Security": "Duke Energy Corp. (C)",
+                        "Prin. Amt. or Shares": "355,000",
+                        "Value (A)": "$7,259,750"
+                    },
+                    {
+                        "Category": "Utilities",
+                        "Security": "Keyspan Corp.",
+                        "Prin. Amt. or Shares": "400,000",
+                        "Value (A)": "$14,720,000"
+                    },
+                    {
+                        "Category": "Utilities",
+                        "Security": "MDU Resources Group, Inc.",
+                        "Prin. Amt. or Shares": "675,000",
+                        "Value (A)": "$16,071,750"
+                    },
+                    {
+                        "Category": "Utilities",
+                        "Security": "Philadelphia Suburban Corp.",
+                        "Prin. Amt. or Shares": "1,093,750",
+                        "Value (A)": "$24,171,875"
+                    },
+                    {
+                        "Category": "Utilities",
+                        "Security": "TECO Energy, Inc. (C)",
+                        "Prin. Amt. or Shares": "650,000",
+                        "Value (A)": "$9,366,500"
+                    }
+                ],
+                "total": {
+                    "Description": "Total Stocks and Convertible Securities (Cost $887,680,870) (F)",
+                    "Value (A)": "$1,170,380,800"
+                }
+            },
+            {
+                "table_type": "Schedule of Investments",
+                "headers": [
+                    "Description",
+                    "Principal Amount",
+                    "Value"
+                ],
+                "rows": [
+                    {
+                        "Description": "U.S. Treasury Bills, 0.91%, due 2/19/04",
+                        "Principal Amount": "$35,000,000",
+                        "Value": "$34,957,125"
+                    },
+                    {
+                        "Description": "American General Finance, Inc., 1.06%, due 1/8/04",
+                        "Principal Amount": "$1,750,000",
+                        "Value": "$1,749,639"
+                    },
+                    {
+                        "Description": "General Electric Capital Services, Inc., 1.04%, due 1/13/04",
+                        "Principal Amount": "$6,900,000",
+                        "Value": "$6,897,608"
+                    },
+                    {
+                        "Description": "Toyota Motor Credit Corp., 1.02%, due 1/20/04",
+                        "Principal Amount": "$4,170,000",
+                        "Value": "$4,167,755"
+                    },
+                    {
+                        "Description": "Total Short-Term Investments (Cost $47,772,127)",
+                        "Principal Amount": "",
+                        "Value": "$47,772,127"
+                    },
+                    {
+                        "Description": "CS First Boston, 1.03%, due 1/2/04",
+                        "Principal Amount": "",
+                        "Value": "$37,446,234"
+                    },
+                    {
+                        "Description": "Countrywide Securities Corp., 1.08%, due 1/2/04",
+                        "Principal Amount": "",
+                        "Value": "$6,986,629"
+                    },
+                    {
+                        "Description": "Deutsche Bank Securities, Inc., 1.03%, due 1/2/04",
+                        "Principal Amount": "",
+                        "Value": "$56,458,278"
+                    },
+                    {
+                        "Description": "Toronto Dominion Yankee, 1.12%, due 1/5/04",
+                        "Principal Amount": "",
+                        "Value": "$702,592"
+                    },
+                    {
+                        "Description": "Atlantic Asset Securitization, 1.10%, due 1/14/04",
+                        "Principal Amount": "",
+                        "Value": "$4,997,860"
+                    },
+                    {
+                        "Description": "Starbird Funding, 1.10%, due 1/16/04",
+                        "Principal Amount": "",
+                        "Value": "$4,997,620"
+                    },
+                    {
+                        "Description": "Wachovia Credit Card Master Trust, ABS, 1.17%, due 3/15/04",
+                        "Principal Amount": "",
+                        "Value": "$6,005,602"
+                    },
+                    {
+                        "Description": "Total Securities Lending Collateral (Cost $117,594,815)",
+                        "Principal Amount": "",
+                        "Value": "$117,594,815"
+                    },
+                    {
+                        "Description": "Total Investments -- 109.5% (Cost $1,053,047,812)",
+                        "Principal Amount": "",
+                        "Value": "$1,335,747,742"
+                    },
+                    {
+                        "Description": "Cash, receivables and other assets, less liabilities -- (9.5)%",
+                        "Principal Amount": "",
+                        "Value": "($116,885,286)"
+                    },
+                    {
+                        "Description": "Net Assets -- 100.0%",
+                        "Principal Amount": "",
+                        "Value": "$1,218,862,456"
+                    }
+                ]
+            },
+            {
+                "table_type": "Schedule of Investments",
+                "sections": [
+                    {
+                        "title": "COVERED CALLS",
+                        "headers": [
+                            "Contracts (100 shares each)",
+                            "Security",
+                            "Strike Price",
+                            "Expiration Date",
+                            "Appreciation/(Depreciation)"
+                        ],
+                        "rows": [
+                            {
+                                "Contracts": 250,
+                                "Security": "American International Group, Inc.",
+                                "Strike Price": 100,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": 26249
+                            },
+                            {
+                                "Contracts": 150,
+                                "Security": "Ingersoll-Rand Co. Ltd.",
+                                "Strike Price": 65,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": -37951
+                            },
+                            {
+                                "Contracts": 150,
+                                "Security": "Intel Corp.",
+                                "Strike Price": 25,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": -92101
+                            },
+                            {
+                                "Contracts": 150,
+                                "Security": "Investors Financial Services Corp.",
+                                "Strike Price": 40,
+                                "Expiration Date": "Feb 04",
+                                "Appreciation/(Depreciation)": -1501
+                            },
+                            {
+                                "Contracts": 100,
+                                "Security": "Genentech, Inc.",
+                                "Strike Price": 100,
+                                "Expiration Date": "Mar 04",
+                                "Appreciation/(Depreciation)": -16801
+                            },
+                            {
+                                "Contracts": 250,
+                                "Security": "Nokia Corp.",
+                                "Strike Price": 20,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": 25624
+                            },
+                            {
+                                "Contracts": 200,
+                                "Security": "Symantec Corp.",
+                                "Strike Price": 30,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": -81800
+                            },
+                            {
+                                "Contracts": 200,
+                                "Security": "3M Co.",
+                                "Strike Price": 75,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": -188000
+                            },
+                            {
+                                "Contracts": 100,
+                                "Security": "United Technologies Corp.",
+                                "Strike Price": 75,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": -168502
+                            },
+                            {
+                                "Contracts": 150,
+                                "Security": "United Technologies Corp.",
+                                "Strike Price": 80,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": -199501
+                            },
+                            {
+                                "Contracts": 150,
+                                "Security": "United Technologies Corp.",
+                                "Strike Price": 85,
+                                "Expiration Date": "Feb 04",
+                                "Appreciation/(Depreciation)": -136426
+                            }
+                        ],
+                        "total_contracts": 1850,
+                        "total_appreciation/(depreciation)": -870710
+                    },
+                    {
+                        "title": "COLLATERALIZED PUTS",
+                        "headers": [
+                            "Contracts (100 shares each)",
+                            "Security",
+                            "Strike Price",
+                            "Expiration Date",
+                            "Appreciation/(Depreciation)"
+                        ],
+                        "rows": [
+                            {
+                                "Contracts": 250,
+                                "Security": "Air Products and Chemicals, Inc.",
+                                "Strike Price": 50,
+                                "Expiration Date": "Mar 04",
+                                "Appreciation/(Depreciation)": 404
+                            },
+                            {
+                                "Contracts": 100,
+                                "Security": "Bank of America Corp.",
+                                "Strike Price": 65,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": 10699
+                            },
+                            {
+                                "Contracts": 100,
+                                "Security": "Bank of America Corp.",
+                                "Strike Price": 70,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": 16549
+                            },
+                            {
+                                "Contracts": 100,
+                                "Security": "Bank of America Corp.",
+                                "Strike Price": 75,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": 20099
+                            },
+                            {
+                                "Contracts": 150,
+                                "Security": "Dell Inc.",
+                                "Strike Price": 32.5,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": 18299
+                            },
+                            {
+                                "Contracts": 150,
+                                "Security": "Dell Inc.",
+                                "Strike Price": 30,
+                                "Expiration Date": "Feb 04",
+                                "Appreciation/(Depreciation)": 10049
+                            },
+                            {
+                                "Contracts": 150,
+                                "Security": "Fifth Third Bancorp.",
+                                "Strike Price": 45,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": 11324
+                            },
+                            {
+                                "Contracts": 100,
+                                "Security": "Fifth Third Bancorp.",
+                                "Strike Price": 50,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": 18574
+                            },
+                            {
+                                "Contracts": 250,
+                                "Security": "Gannett Co., Inc.",
+                                "Strike Price": 65,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": 32748
+                            },
+                            {
+                                "Contracts": 250,
+                                "Security": "Illinois Tool Works Inc.",
+                                "Strike Price": 70,
+                                "Expiration Date": "Mar 04",
+                                "Appreciation/(Depreciation)": 22599
+                            },
+                            {
+                                "Contracts": 250,
+                                "Security": "Johnson & Johnson",
+                                "Strike Price": 45,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": 31873
+                            },
+                            {
+                                "Contracts": 150,
+                                "Security": "Johnson & Johnson",
+                                "Strike Price": 45,
+                                "Expiration Date": "Apr 04",
+                                "Appreciation/(Depreciation)": 8099
+                            },
+                            {
+                                "Contracts": 100,
+                                "Security": "MedImmune, Inc.",
+                                "Strike Price": 22.5,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": 7855
+                            },
+                            {
+                                "Contracts": 250,
+                                "Security": "MedImmune, Inc.",
+                                "Strike Price": 22.5,
+                                "Expiration Date": "Mar 04",
+                                "Appreciation/(Depreciation)": 4229
+                            },
+                            {
+                                "Contracts": 250,
+                                "Security": "Medtronic Inc.",
+                                "Strike Price": 45,
+                                "Expiration Date": "Jan 04",
+                                "Appreciation/(Depreciation)": 27498
+                            },
+                            {
+                                "Contracts": 250,
+                                "Security": "Parker-Hannifin Corp.",
+                                "Strike Price": 40,
+                                "Expiration Date": "Feb 04",
+                                "Appreciation/(Depreciation)": 26124
+                            },
+                            {
+                                "Contracts": 150,
+                                "Security": "Wyeth Co.",
+                                "Strike Price": 35,
+                                "Expiration Date": "Apr 04",
+                                "Appreciation/(Depreciation)": 10049
+                            },
+                            {
+                                "Contracts": 100,
+                                "Security": "Wyeth Co.",
+                                "Strike Price": 30,
+                                "Expiration Date": "Jul 04",
+                                "Appreciation/(Depreciation)": 6200
+                            }
+                        ],
+                        "total_contracts": 3100,
+                        "total_appreciation/(depreciation)": 283271
+                    }
+                ],
+                "net_appreciation/(depreciation)": -587439
+            },
+            {
+                "table_type": "Schedule of Investments",
+                "headers": [
+                    "Company",
+                    "Additions",
+                    "Reductions",
+                    "Held Dec. 31, 2003"
+                ],
+                "rows": [
+                    {
+                        "Company": "Air Products and Chemicals, Inc.",
+                        "Additions": "150,000",
+                        "Reductions": "",
+                        "Held Dec. 31, 2003": "150,000"
+                    },
+                    {
+                        "Company": "Bank of America Corp.",
+                        "Additions": "25,000",
+                        "Reductions": "",
+                        "Held Dec. 31, 2003": "200,000"
+                    },
+                    {
+                        "Company": "BEA Systems Inc.",
+                        "Additions": "60,000",
+                        "Reductions": "",
+                        "Held Dec. 31, 2003": "800,000"
+                    },
+                    {
+                        "Company": "Compass Bancshares Inc.",
+                        "Additions": "20,000",
+                        "Reductions": "",
+                        "Held Dec. 31, 2003": "300,000"
+                    },
+                    {
+                        "Company": "Dell Inc.",
+                        "Additions": "135,000",
+                        "Reductions": "",
+                        "Held Dec. 31, 2003": "215,000"
+                    },
+                    {
+                        "Company": "Illinois Tool Works Inc.",
+                        "Additions": "92,300",
+                        "Reductions": "",
+                        "Held Dec. 31, 2003": "92,300"
+                    },
+                    {
+                        "Company": "Lucent Technologies Inc.",
+                        "Additions": "1,700,000",
+                        "Reductions": "",
+                        "Held Dec. 31, 2003": "2,100,000"
+                    },
+                    {
+                        "Company": "Mattel, Inc.",
+                        "Additions": "575,000",
+                        "Reductions": "",
+                        "Held Dec. 31, 2003": "575,000"
+                    },
+                    {
+                        "Company": "MDU Resources Group, Inc.",
+                        "Additions": "225,000/(1)/",
+                        "Reductions": "",
+                        "Held Dec. 31, 2003": "675,000"
+                    },
+                    {
+                        "Company": "MedImmune, Inc.",
+                        "Additions": "225,000",
+                        "Reductions": "",
+                        "Held Dec. 31, 2003": "225,000"
+                    },
+                    {
+                        "Company": "Medtronic Inc.",
+                        "Additions": "85,000",
+                        "Reductions": "",
+                        "Held Dec. 31, 2003": "310,000"
+                    },
+                    {
+                        "Company": "Newell Rubbermaid Inc.",
+                        "Additions": "515,000",
+                        "Reductions": "",
+                        "Held Dec. 31, 2003": "515,000"
+                    },
+                    {
+                        "Company": "Philadelphia Suburban Corp.",
+                        "Additions": "218,750/(1)/",
+                        "Reductions": "",
+                        "Held Dec. 31, 2003": "1,093,750"
+                    },
+                    {
+                        "Company": "Siebel Systems Inc.",
+                        "Additions": "30,000",
+                        "Reductions": "",
+                        "Held Dec. 31, 2003": "800,000"
+                    },
+                    {
+                        "Company": "Symantec Corp.",
+                        "Additions": "155,000/(1)/",
+                        "Reductions": "20,000",
+                        "Held Dec. 31, 2003": "310,000"
+                    },
+                    {
+                        "Company": "Cisco Systems, Inc.",
+                        "Additions": "",
+                        "Reductions": "225,000",
+                        "Held Dec. 31, 2003": "1,200,000"
+                    },
+                    {
+                        "Company": "Donnelley (R.R.) & Sons Co.",
+                        "Additions": "",
+                        "Reductions": "100,000",
+                        "Held Dec. 31, 2003": "400,000"
+                    },
+                    {
+                        "Company": "Intel Corp.",
+                        "Additions": "",
+                        "Reductions": "60,000",
+                        "Held Dec. 31, 2003": "325,000"
+                    },
+                    {
+                        "Company": "Lilly (Eli) & Co.",
+                        "Additions": "",
+                        "Reductions": "30,000",
+                        "Held Dec. 31, 2003": "--"
+                    },
+                    {
+                        "Company": "Nokia Corp. ADR",
+                        "Additions": "",
+                        "Reductions": "200,000",
+                        "Held Dec. 31, 2003": "400,000"
+                    },
+                    {
+                        "Company": "3M Co.",
+                        "Additions": "",
+                        "Reductions": "15,000",
+                        "Held Dec. 31, 2003": "185,000"
+                    },
+                    {
+                        "Company": "United Technologies Corp.",
+                        "Additions": "",
+                        "Reductions": "10,000",
+                        "Held Dec. 31, 2003": "345,000"
+                    },
+                    {
+                        "Company": "Wachovia Corp.",
+                        "Additions": "",
+                        "Reductions": "10,000",
+                        "Held Dec. 31, 2003": "370,000"
+                    }
+                ]
+            },
+            {
+                "table_type": "Other",
+                "headers": [
+                    "Description",
+                    "Fee"
+                ],
+                "rows": [
+                    {
+                        "Description": "Initial Enrollment and Optional Cash Investments Service Fee",
+                        "Fee": "$2.50 per investment"
+                    },
+                    {
+                        "Description": "Brokerage Commission",
+                        "Fee": "$0.05 per share"
+                    },
+                    {
+                        "Description": "Reinvestment of Dividends* Service Fee",
+                        "Fee": "2% of amount invested (maximum of $2.50 per investment)"
+                    },
+                    {
+                        "Description": "Brokerage Commission",
+                        "Fee": "$0.05 per share"
+                    },
+                    {
+                        "Description": "Sale of Shares Service Fee",
+                        "Fee": "$10.00"
+                    },
+                    {
+                        "Description": "Brokerage Commission",
+                        "Fee": "$0.05 per share"
+                    }
+                ]
+            },
+            {
+                "table_type": "Other",
+                "headers": [
+                    "Description",
+                    "Amount"
+                ],
+                "rows": [
+                    {
+                        "Description": "Deposit of Certificates for safekeeping",
+                        "Amount": "$7.50"
+                    },
+                    {
+                        "Description": "Book to Book Transfers",
+                        "Amount": "Included"
+                    },
+                    {
+                        "Description": "To transfer shares to another participant or to a new participant",
+                        "Amount": ""
+                    }
+                ],
+                "notes": "Fees are subject to change at any time."
+            },
+            {
+                "table_type": "Other",
+                "headers": [
+                    "Description",
+                    "Amount"
+                ],
+                "rows": [
+                    {
+                        "Description": "Initial minimum investment (non-holders)",
+                        "Amount": "$500.00"
+                    },
+                    {
+                        "Description": "Minimum optional investment (existing holders)",
+                        "Amount": "$50.00"
+                    },
+                    {
+                        "Description": "Electronic Funds Transfer (monthly minimum)",
+                        "Amount": "$50.00"
+                    },
+                    {
+                        "Description": "Maximum per transaction",
+                        "Amount": "$25,000.00"
+                    },
+                    {
+                        "Description": "Maximum per year",
+                        "Amount": "NONE"
+                    }
+                ]
+            },
+            {
+                "table_type": "Other",
+                "headers": [
+                    "Dec. 31",
+                    "Net Assets",
+                    "Shares Outstanding*",
+                    "Net Asset Value Per Share*",
+                    "Dividends From Net Investment Income Per Share*",
+                    "Distributions From Net Realized Gains Per Share*"
+                ],
+                "rows": [
+                    {
+                        "Dec. 31": "1989",
+                        "Net Assets": "$550,091,129",
+                        "Shares Outstanding*": "44,974,408",
+                        "Net Asset Value Per Share*": "$12.23",
+                        "Dividends From Net Investment Income Per Share*": "$.47",
+                        "Distributions From Net Realized Gains Per Share*": "$.91"
+                    },
+                    {
+                        "Dec. 31": "1990",
+                        "Net Assets": "$529,482,769",
+                        "Shares Outstanding*": "47,219,010",
+                        "Net Asset Value Per Share*": "11.21",
+                        "Dividends From Net Investment Income Per Share*": ".44",
+                        "Distributions From Net Realized Gains Per Share*": ".71"
+                    },
+                    {
+                        "Dec. 31": "1991",
+                        "Net Assets": "$661,895,779",
+                        "Shares Outstanding*": "49,121,246",
+                        "Net Asset Value Per Share*": "13.47",
+                        "Dividends From Net Investment Income Per Share*": ".36",
+                        "Distributions From Net Realized Gains Per Share*": ".73"
+                    },
+                    {
+                        "Dec. 31": "1992",
+                        "Net Assets": "$696,924,779",
+                        "Shares Outstanding*": "51,039,938",
+                        "Net Asset Value Per Share*": "13.65",
+                        "Dividends From Net Investment Income Per Share*": ".31",
+                        "Distributions From Net Realized Gains Per Share*": ".77"
+                    },
+                    {
+                        "Dec. 31": "1993",
+                        "Net Assets": "$840,610,252",
+                        "Shares Outstanding*": "63,746,498",
+                        "Net Asset Value Per Share*": "13.19",
+                        "Dividends From Net Investment Income Per Share*": ".30",
+                        "Distributions From Net Realized Gains Per Share*": ".79"
+                    },
+                    {
+                        "Dec. 31": "1994",
+                        "Net Assets": "$798,297,600",
+                        "Shares Outstanding*": "66,584,985",
+                        "Net Asset Value Per Share*": "11.99",
+                        "Dividends From Net Investment Income Per Share*": ".33",
+                        "Distributions From Net Realized Gains Per Share*": ".73"
+                    },
+                    {
+                        "Dec. 31": "1995",
+                        "Net Assets": "$986,230,914",
+                        "Shares Outstanding*": "69,248,276",
+                        "Net Asset Value Per Share*": "14.24",
+                        "Dividends From Net Investment Income Per Share*": ".35",
+                        "Distributions From Net Realized Gains Per Share*": ".76"
+                    },
+                    {
+                        "Dec. 31": "1996",
+                        "Net Assets": "$1,138,760,396",
+                        "Shares Outstanding*": "72,054,792",
+                        "Net Asset Value Per Share*": "15.80",
+                        "Dividends From Net Investment Income Per Share*": ".35",
+                        "Distributions From Net Realized Gains Per Share*": ".80"
+                    },
+                    {
+                        "Dec. 31": "1997",
+                        "Net Assets": "$1,424,170,425",
+                        "Shares Outstanding*": "74,923,859",
+                        "Net Asset Value Per Share*": "19.01",
+                        "Dividends From Net Investment Income Per Share*": ".29",
+                        "Distributions From Net Realized Gains Per Share*": "1.01"
+                    },
+                    {
+                        "Dec. 31": "1998",
+                        "Net Assets": "$1,688,080,336",
+                        "Shares Outstanding*": "77,814,977",
+                        "Net Asset Value Per Share*": "21.69",
+                        "Dividends From Net Investment Income Per Share*": ".30",
+                        "Distributions From Net Realized Gains Per Share*": "1.10"
+                    },
+                    {
+                        "Dec. 31": "1999",
+                        "Net Assets": "$2,170,801,875",
+                        "Shares Outstanding*": "80,842,241",
+                        "Net Asset Value Per Share*": "26.85",
+                        "Dividends From Net Investment Income Per Share*": ".26",
+                        "Distributions From Net Realized Gains Per Share*": "1.37"
+                    },
+                    {
+                        "Dec. 31": "2000",
+                        "Net Assets": "$1,951,562,978",
+                        "Shares Outstanding*": "82,292,262",
+                        "Net Asset Value Per Share*": "23.72",
+                        "Dividends From Net Investment Income Per Share*": ".22",
+                        "Distributions From Net Realized Gains Per Share*": "1.63"
+                    },
+                    {
+                        "Dec. 31": "2001",
+                        "Net Assets": "$1,368,366,316",
+                        "Shares Outstanding*": "85,233,262",
+                        "Net Asset Value Per Share*": "16.05",
+                        "Dividends From Net Investment Income Per Share*": ".26",
+                        "Distributions From Net Realized Gains Per Share*": "1.39"
+                    },
+                    {
+                        "Dec. 31": "2002",
+                        "Net Assets": "$1,024,810,092",
+                        "Shares Outstanding*": "84,536,250",
+                        "Net Asset Value Per Share*": "12.12",
+                        "Dividends From Net Investment Income Per Share*": ".19",
+                        "Distributions From Net Realized Gains Per Share*": ".57"
+                    },
+                    {
+                        "Dec. 31": "2003",
+                        "Net Assets": "$1,218,862,456",
+                        "Shares Outstanding*": "84,886,412",
+                        "Net Asset Value Per Share*": "14.36",
+                        "Dividends From Net Investment Income Per Share*": ".17",
+                        "Distributions From Net Realized Gains Per Share*": ".61"
+                    }
+                ]
+            },
+            {
+                "table_type": "Other",
+                "headers": [
+                    "Personal Information",
+                    "Position Held with the Fund",
+                    "Term of Office",
+                    "Length of Time Served",
+                    "Principal Occupations During the Last 5 Years",
+                    "Number of Portfolios in Fund Complex Overseen by Director"
+                ],
+                "rows": [
+                    {
+                        "Personal Information": "Enrique R. Arzac, Ph.D.\n7 St. Paul Street,\nSuite 1140\nBaltimore, MD 21202\nAge 62",
+                        "Position Held with the Fund": "Director",
+                        "Term of Office": "One Year",
+                        "Length of Time Served": "Since 1983",
+                        "Principal Occupations During the Last 5 Years": "Professor of Finance and Economics, formerly Vice Dean of Academic Affairs of the Graduate School of Business, Columbia University.",
+                        "Number of Portfolios in Fund Complex Overseen by Director": "Two"
+                    },
+                    {
+                        "Personal Information": "Phyllis O. Bonanno\n7 St. Paul Street,\nSuite 1140\nBaltimore, MD 21202\nAge 60",
+                        "Position Held with the Fund": "Director",
+                        "Term of Office": "One Year",
+                        "Length of Time Served": "Since Nov. 2003",
+                        "Principal Occupations During the Last 5 Years": "President & CEO of International Trade Solutions, Inc. (consultants). Formerly, President of Columbia College, Columbia, South Carolina, and Vice President of Warnaco Inc. (apparel).",
+                        "Number of Portfolios in Fund Complex Overseen by Director": "Two"
+                    },
+                    {
+                        "Personal Information": "Daniel E. Emerson\n7 St. Paul Street,\nSuite 1140\nBaltimore, MD 21202\nAge 79",
+                        "Position Held with the Fund": "Director",
+                        "Term of Office": "One Year",
+                        "Length of Time Served": "Since 1982",
+                        "Principal Occupations During the Last 5 Years": "Chairman, The National YMCA Fund Inc. Retired Executive Vice President of NYNEX Corp., (communications), Retired Chairman of The Board of both NYNEX Information Resources Co. and NYNEX Mobile Communications Co. Previously Executive Vice President and Director of New York Telephone Company.",
+                        "Number of Portfolios in Fund Complex Overseen by Director": "Two"
+                    },
+                    {
+                        "Personal Information": "Edward J. Kelly, III, J.D.\n7 St. Paul Street,\nSuite 1140\nBaltimore, MD 21202\nAge 50",
+                        "Position Held with the Fund": "Director",
+                        "Term of Office": "One Year",
+                        "Length of Time Served": "Since 2001",
+                        "Principal Occupations During the Last 5 Years": "President and Chief Executive Officer of Mercantile Bankshares Corporation. Formerly Managing Director with J.P. Morgan Chase & Co. (investment bank and global financial institution).",
+                        "Number of Portfolios in Fund Complex Overseen by Director": "Two"
+                    },
+                    {
+                        "Personal Information": "Thomas H. Lenagh\n7 St. Paul Street,\nSuite 1140\nBaltimore, MD 21202\nAge 85",
+                        "Position Held with the Fund": "Director",
+                        "Term of Office": "One Year",
+                        "Length of Time Served": "Since 1968",
+                        "Principal Occupations During the Last 5 Years": "Financial Advisor, Chairman of the Board, Photonics Product Group (crystals). Formerly Chairman of the Board and CEO of Greiner Engineering Inc. (formerly Systems Planning Corp.) (consultants). Formerly Treasurer and Chief Investment Officer of the Ford Foundation (charitable foundation).",
+                        "Number of Portfolios in Fund Complex Overseen by Director": "Two"
+                    },
+                    {
+                        "Personal Information": "W. D. MacCallan\n7 St. Paul Street,\nSuite 1140\nBaltimore, MD 21202\nAge 76",
+                        "Position Held with the Fund": "Director",
+                        "Term of Office": "One Year",
+                        "Length of Time Served": "Since 1971",
+                        "Principal Occupations During the Last 5 Years": "Retired Chairman of the Board and CEO of the Company (since 1991) and Petroleum & Resources Corporation (since 1991). Formerly consultant to the Company and Petroleum & Resources Corporation.",
+                        "Number of Portfolios in Fund Complex Overseen by Director": "Two"
+                    }
+                ]
+            },
+            {
+                "table_type": "Other",
+                "headers": [
+                    "Personal Information",
+                    "Other Directorships"
+                ],
+                "rows": [
+                    {
+                        "Personal Information": "Enrique R. Arzac, Ph.D.\n7 St. Paul Street, Suite 1140\nBaltimore, MD 21202\nAge 62",
+                        "Other Directorships": "Director of Petroleum & Resources Corporation and Credit Suisse Asset Management Funds (8 funds) (investment companies)."
+                    },
+                    {
+                        "Personal Information": "Phyllis O. Bonanno\n7 St. Paul Street, Suite 1140\nBaltimore, MD 21202\nAge 60",
+                        "Other Directorships": "Director of Petroleum & Resources Corporation (investment company), Borg-Warner Inc. (industrial), The Canadian-American Business Council, and Board of Advisors for APTE, Inc. (software)."
+                    },
+                    {
+                        "Personal Information": "Daniel E. Emerson\n7 St. Paul Street, Suite 1140\nBaltimore, MD 21202\nAge 79",
+                        "Other Directorships": "Director of Petroleum & Resources Corporation (investment company)."
+                    },
+                    {
+                        "Personal Information": "Edward J. Kelly, III, J.D.\n7 St. Paul Street, Suite 1140\nBaltimore, MD 21202\nAge 50",
+                        "Other Directorships": "Director of Petroleum & Resources Corporation (investment company), AXIS Specialty Limited (insurance), Hartford Financial Services Group, Constellation Energy Group, CIT Group (commercial finance), and CSX Corp. (transportation); and member of Board of Trustees of Johns Hopkins University."
+                    },
+                    {
+                        "Personal Information": "Thomas H. Lenagh\n7 St. Paul Street, Suite 1140\nBaltimore, MD 21202\nAge 85",
+                        "Other Directorships": "Director of Cornerstone Funds, Inc. (3 funds), Investors First Fund, and Petroleum & Resources Corporation (investment companies)."
+                    },
+                    {
+                        "Personal Information": "W. D. MacCallan\n7 St. Paul Street, Suite 1140\nBaltimore, MD 21202\nAge 76",
+                        "Other Directorships": "Director of Petroleum & Resources Corporation (investment company)."
+                    }
+                ]
+            },
+            {
+                "table_type": "Other",
+                "headers": [
+                    "Personal Information",
+                    "Position Held with the Fund",
+                    "Term of Office",
+                    "Length of Time Served",
+                    "Principal Occupations During the Last 5 Years",
+                    "Number of Portfolios in Fund Complex Overseen by Director",
+                    "Other Directorships"
+                ],
+                "rows": [
+                    {
+                        "Personal Information": "Kathleen T. McGahran, Ph.D., J.D., C.P.A.",
+                        "Position Held with the Fund": "Director",
+                        "Term of Office": "One Year",
+                        "Length of Time Served": "Since Nov. 2003",
+                        "Principal Occupations During the Last 5 Years": "Principal & Director of Pelham Associates, Inc. (executive education). Adjunct Associate Professor, Columbia Executive Education, Graduate School of Business, Columbia University. Formerly Associate Dean and Director of Executive Education, and Associate Professor, Columbia University.",
+                        "Number of Portfolios in Fund Complex Overseen by Director": "Two",
+                        "Other Directorships": "Director of Petroleum & Resources Corporation (investment company)."
+                    },
+                    {
+                        "Personal Information": "W. Perry Neff, J.D.",
+                        "Position Held with the Fund": "Director",
+                        "Term of Office": "One Year",
+                        "Length of Time Served": "Since 1987",
+                        "Principal Occupations During the Last 5 Years": "Private Financial Consultant. Retired Executive Vice President of Chemical Bank.",
+                        "Number of Portfolios in Fund Complex Overseen by Director": "Two",
+                        "Other Directorships": "Director of Petroleum & Resources Corporation (investment company)."
+                    },
+                    {
+                        "Personal Information": "Landon Peters",
+                        "Position Held with the Fund": "Director",
+                        "Term of Office": "One Year",
+                        "Length of Time Served": "Since 1974",
+                        "Principal Occupations During the Last 5 Years": "Private Investor. Former Investment Manager, YMCA Retirement Fund. Formerly Executive Vice President and Treasurer and prior thereto Senior Vice President and Treasurer of The Bank of New York.",
+                        "Number of Portfolios in Fund Complex Overseen by Director": "Two",
+                        "Other Directorships": "Director of Petroleum & Resources Corporation (investment company)."
+                    },
+                    {
+                        "Personal Information": "John J. Roberts",
+                        "Position Held with the Fund": "Director",
+                        "Term of Office": "One Year",
+                        "Length of Time Served": "Since 1976",
+                        "Principal Occupations During the Last 5 Years": "Senior Advisor, formerly Vice-Chairman External Affairs, American International Group, Inc. (insurance). Formerly Chairman and CEO of American International Underwriters Corporation. Previously President of American International Underwriters Corporation-U.S./Overseas Operations.",
+                        "Number of Portfolios in Fund Complex Overseen by Director": "Two",
+                        "Other Directorships": "Honorary Director of American International Group, Inc. and Director of Petroleum & Resources Corporation (investment company)."
+                    },
+                    {
+                        "Personal Information": "Susan C. Schwab, Ph.D.",
+                        "Position Held with the Fund": "Director",
+                        "Term of Office": "One Year",
+                        "Length of Time Served": "Since 2000",
+                        "Principal Occupations During the Last 5 Years": "Professor, School of Public Affairs at the University of Maryland, College Park. Formerly Director of Corporate Business Development at Motorola, Inc. (electronics).",
+                        "Number of Portfolios in Fund Complex Overseen by Director": "Two",
+                        "Other Directorships": "Director of Petroleum & Resources Corporation (investment company) and Calpine Corp. (energy)."
+                    },
+                    {
+                        "Personal Information": "Robert J. M. Wilson",
+                        "Position Held with the Fund": "Director",
+                        "Term of Office": "One Year",
+                        "Length of Time Served": "Since 1975",
+                        "Principal Occupations During the Last 5 Years": "Retired President of the Company (since 1986) and retired President of Petroleum & Resources Corporation (since 1986).",
+                        "Number of Portfolios in Fund Complex Overseen by Director": "Two",
+                        "Other Directorships": "Director of Petroleum & Resources Corporation (investment company)."
+                    },
+                    {
+                        "Personal Information": "Douglas G. Ober",
+                        "Position Held with the Fund": "Director, Chairman and CEO",
+                        "Term of Office": "One Year",
+                        "Length of Time Served": "Director since 1989; Chairman of the Board since 1991",
+                        "Principal Occupations During the Last 5 Years": "Chairman & CEO of the Company and Petroleum & Resources Corporation.",
+                        "Number of Portfolios in Fund Complex Overseen by Director": "Two",
+                        "Other Directorships": "Director of Petroleum & Resources Corporation (investment company)."
+                    }
+                ]
+            }
+        ]
+    }
+]

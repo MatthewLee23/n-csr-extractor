@@ -1,0 +1,2855 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GgyluoOYoPNv7knjfcOAlcwUUX/pnnWC1eM5bcHp6hWRv+ziYLQsU9po1VYBRkPN
+ HhtSwIryLMk16yB0F9a6vg==
+
+<SEC-DOCUMENT>0000002230-08-000027.txt : 20080228
+<SEC-HEADER>0000002230-08-000027.hdr.sgml : 20080228
+<ACCEPTANCE-DATETIME>20080228144329
+ACCESSION NUMBER:		0000002230-08-000027
+CONFORMED SUBMISSION TYPE:	N-CSR
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20071231
+FILED AS OF DATE:		20080228
+DATE AS OF CHANGE:		20080228
+EFFECTIVENESS DATE:		20080228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADAMS EXPRESS CO
+		CENTRAL INDEX KEY:			0000002230
+		IRS NUMBER:				134912740
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		N-CSR
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-00248
+		FILM NUMBER:		08649945
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SEVEN ST PAUL ST STE 1140
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21202
+		BUSINESS PHONE:		4107525900
+
+	MAIL ADDRESS:	
+		STREET 1:		7 ST PAUL STREET SUITE 1140
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-CSR
+<SEQUENCE>1
+<FILENAME>adxncsr12312007.txt
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   FORM N-CSR
+
+                   CERTIFIED SHAREHOLDER REPORT OF REGISTERED
+                         MANAGEMENT INVESTMENT COMPANIES
+
+                 Investment Company Act file number: 811-00248
+                 ---------------------------------------------
+
+                            THE ADAMS EXPRESS COMPANY
+
+- --------------------------------------------------------------------------------
+               (Exact name of Registrant as specified in charter)
+
+           7 Saint Paul Street, Suite 1140, Baltimore, Maryland 21202
+- --------------------------------------------------------------------------------
+               (Address of principal executive offices) (Zip code)
+
+                            Lawrence L. Hooper, Jr.
+                          The Adams Express Company
+                             7 Saint Paul Street
+                                 Suite 1140
+                           Baltimore, Maryland  21202
+
+
+Registrant's telephone number, including area code: 410-752-5900
+
+Date of fiscal year end:  December 31, 2007
+
+Date of reporting period: December 31, 2007
+
+
+Item 1. Reports to Stockholders.
+
+<PAGE>
+
+Generation after generation -
+
+
+
+
+
+
+
+
+
+
+
+                                        [Graphic]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                   we grow with you.TM
+
+
+
+INVEST   PROTECT   GROW                         The Adams Express Company
+                                                       Annual Report 2007
+
+
+
+
+
+<PAGE>
+
+                               2007 AT A GLANCE
+- --------------------------------------------------------------------------------
+
+The Company
+
+.. a closed-end equity investment company
+.. objectives: preservation of capital
+             reasonable income
+             opportunity for capital gain
+.. internally-managed
+.. low expense ratio
+.. low turnover
+Stock Data (12/31/07)
+
+<TABLE>
+                          <S><C>
+                          NYSE Symbol............. ADX
+                          Market Price......... $14.12
+                          52-Week Range. $13.01-$15.38
+                          Discount.............. 10.2%
+                          Shares Outstanding87,668,847
+</TABLE>
+
+Summary Financial Information
+
+<TABLE>
+<CAPTION>
+                                                      Year Ended December 31
+                                                       2007            2006
+     -----------------------------------------------------------------------
+     <S>                                     <C>             <C>
+     Net asset value per share               $        15.72  $        15.86
+     Total net assets                         1,378,479,527   1,377,418,310
+     Unrealized appreciation                    410,454,970     418,756,256
+     Net investment income                       25,884,799      19,691,488
+     Total realized gain                         60,426,376      56,553,881
+     Total return (based on market value)              9.4%           17.9%
+     Total return (based on net asset value)           6.5%           15.0%
+     Expense ratio                                    0.44%           0.50%
+
+     -----------------------------------------------------------------------
+</TABLE>
+
+2007 Dividends and Distributions
+
+<TABLE>
+<CAPTION>
+                                 Amount
+             Paid              (per share) Type
+             -----------------------------------------------------
+             <S>               <C>         <C>
+             March 1, 2007        $0.01    Short-term capital gain
+             March 1, 2007         0.04    Investment income
+             June 1, 2007          0.05    Investment income
+             September 1, 2007     0.05    Investment income
+             December 27, 2007     0.63    Long-term capital gain
+             December 27, 2007     0.07    Short-term capital gain
+             December 27, 2007     0.18    Investment income
+
+             -----------------------------------------------------
+                                  $1.03
+
+             -----------------------------------------------------
+</TABLE>
+
+2008 Annual Meeting of Stockholders
+
+Location: The Tremont Grand, Baltimore, Maryland
+Date: March 13, 2008
+Time: 9:00 a.m.
+
+
+<PAGE>
+
+                               PORTFOLIO REVIEW
+- --------------------------------------------------------------------------------
+
+                                  (unaudited)
+
+
+  Ten Largest Portfolio Holdings (12/31/07)
+
+<TABLE>
+<CAPTION>
+                                           Market Value % of Net Assets
+                                           ------------ ---------------
+        <S>                                <C>          <C>
+        Petroleum & Resources Corporation* $ 84,540,683       6.1
+        General Electric Co.                 51,453,160       3.7
+        Microsoft Corp.                      42,008,000       3.1
+        Schlumberger Ltd.                    37,380,600       2.7
+        PepsiCo, Inc.                        30,360,000       2.2
+        Bank of America Corp.                30,119,800       2.2
+        American International Group, Inc.   29,150,000       2.1
+        State Street Corp.                   26,300,274       1.9
+        ConocoPhillips                       26,048,500       1.9
+        Pfizer Inc.                          25,457,600       1.9
+                                           ------------      ----
+          Total                            $382,818,617      27.8%
+        ---------------------------------------------------------------
+</TABLE>
+  *Non-controlled affiliate
+
+
+  Sector Weightings (12/31/07)
+
+                                    [CHART]
+
+Consumer                    17.4%
+Energy                      14.2%
+Financial                   14.1%
+Health Care                 10.7%
+Industrials                 14.9%
+Information Technology      11.4%
+Materials                    5.2%
+Telecom Services             1.5%
+Utilities                    3.8%
+Short-Term Investments       6.6%
+
+
+                                                                             1
+
+<PAGE>
+
+                           THE ADAMS EXPRESS COMPANY
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+
+         Calendar  Market   Cumulative    Cumulative  Total   Total net
+           year    value   market value  market value market    asset
+           end       of     of capital    of income   value     value
+                  original     gains      dividends
+                   shares  distributions   taken in
+                             taken in       shares
+                              shares
+         --------------------------------------------------------------
+         <S>      <C>      <C>           <C>          <C>     <C>
+           1993   $ 8,902     $   589       $  197    $ 9,688  $10,720
+           1994     7,781       1,113          422      9,316   10,723
+           1995     9,211       2,014          824     12,049   13,916
+           1996     9,836       2,957        1,225     14,018   16,820
+           1997    12,046       4,721        1,877     18,644   21,979
+           1998    13,259       6,535        2,428     22,222   27,155
+           1999    16,714      10,077        3,433     30,224   36,270
+           2000    15,687      11,572        3,478     30,737   34,718
+           2001    10,623       9,860        2,669     23,152   26,131
+           2002     7,896       8,233        2,242     18,371   21,064
+           2003     9,270      10,776        2,940     22,986   26,598
+           2004     9,801      12,602        3,599     26,002   29,806
+           2005     9,375      13,319        3,860     26,554   31,124
+           2006    10,361      16,123        4,810     31,294   35,783
+           2007    10,548      18,052        5,611     34,211   38,087
+</TABLE>
+                          Illustration of an assumed
+                         15 year investment of $10,000
+                                  (unaudited)
+
+Investment income dividends and capital gains distributions are taken in
+additional shares. This chart covers the years 1993-2007. Fees for the
+reinvestment of interim dividends are assumed as 2% of the amount reinvested
+(maximum of $2.50) and commissions of $0.05 per share. There is no charge for
+reinvestment of year-end distributions. No adjustment has been made for any
+income taxes payable by stockholders on income dividends or on capital gains
+distributions, or the sale of any shares. These results should not be
+considered representative of the dividend income or capital gain or loss which
+may be realized in the future.
+
+                              [CHART]
+
+
+2
+
+<PAGE>
+
+                            LETTER TO STOCKHOLDERS
+- --------------------------------------------------------------------------------
+
+
+The Year in Review
+We are pleased to report that the Fund generated a 6.5% total return on net
+assets in 2007 despite a challenging investment climate. This return
+outperformed the 5.5% return of the S&P 500 Index and the 5.8% return of the
+Lipper Large Cap Core Mutual Fund Average for the year.
+
+Our holdings in energy, consumer staples, telecom services and technology were
+the principal contributors to the Fund's return in 2007. Overweight positions
+(a higher percentage of assets than the S&P 500 Index) in energy and consumer
+staples and underweightings in financials and consumer discretionary stocks
+augmented our returns relative to the benchmark. The health care, industrial,
+and materials holdings in the portfolio did not perform as well as their
+corresponding sectors of the index.
+
+The Fund's total return on market price was 9.4%. A portion of this return
+resulted from trading late in the day on December 31. Without the effect of
+these trades, the total market return would have been approximately 1.7% lower.
+It should be noted that we were not in the market buying back any of our shares
+during the final six business days of the year.
+
+At the beginning of the year, we expected that returns would reflect a
+generally improved earnings outlook, but the credit crisis in the U.S.
+financial system that surfaced in the summer dramatically impacted those
+expectations. The Federal Reserve cut short-term interest rates by 1/2% in
+September and by the end of the year cut them another 1/2%. Massive amounts of
+liquidity have been injected into U.S. and overseas money markets and billions
+of dollars worth of collateralized debt obligation investments have been
+written down by banks, hedge funds, and other investors. So far, most of the
+problems have related to low quality "subprime" home mortgages, but banks have
+indicated that credit quality is also deteriorating in home equity, auto, and
+credit card loans.
+
+The trauma in credit markets spilled over into the equity markets in the fourth
+quarter of the year, as the huge write-offs at homebuilders and financial
+institutions threw assumptions about the strength of the rest of the economy
+into question. Steadily rising gasoline and food prices finally began to take
+their toll on consumers, and what had been relatively tame inflation figures
+started to worsen. The holiday retail selling season was the worst since 2003
+as consumers tightened their belts and spent only modestly and principally at
+the sale counters. The stock market reflected investor disappointment with
+these conditions and other areas of weakness with the S&P 500 Index returning
+- -3.3% in the final quarter. We were pleased that the Fund's return for the year
+as a whole remained a full percentage point above that of the index.
+
+Investment Results
+At the end of 2007, our net assets were $1,378,479,527 or $15.72 per share on
+87,668,847 shares outstanding. This compares with $1,377,418,310 or $15.86 per
+share on 86,838,223 shares outstanding a year earlier.
+
+Net investment income for 2007 was $25,884,799 compared to $19,691,488 for
+2006. These earnings are equal to $0.30 and $0.23 per share, respectively, on
+the average number of shares outstanding throughout each year. Our 0.44%
+expense ratio (expenses to average net assets) in 2007 was once again very low
+compared to the fund industry in general.
+
+Net realized gains amounted to $60,426,376 during the year, while the
+unrealized appreciation on investments decreased from $418,756,256 at December
+31, 2006 to $410,454,970 at year end.
+
+Dividends and Distributions
+The total dividends and distributions paid in 2007 were $1.03 per share
+compared to $0.90 in 2006. The table on page 19 shows the history of our
+dividends and distributions over the past fifteen years, including the annual
+rate of distribution as a percentage of the average daily market price of the
+Company's Common Stock. In 2007, the annual rate of distribution was 7.15%
+compared to 6.80% in 2006. As announced on November 8, 2007, a year-end
+distribution consisting of investment income of $0.18 per share and capital
+gains of $0.70 per share was made on December 27, 2007, both realized and
+taxable in 2007. On January 10, 2008, an additional distribution of $0.05 per
+
+[PHOTO]
+
+
+                               Douglas G. Ober,
+                              Chairman and Chief
+                               Executive Officer
+
+                                                                             3
+
+<PAGE>
+
+                            LETTER TO STOCKHOLDERS
+- --------------------------------------------------------------------------------
+
+share was declared to shareholders of record on February 14, 2008, payable
+March 1, 2008, representing the balance of undistributed net investment income
+and capital gains earned during 2007 and an initial distribution from 2008 net
+investment income, all taxable to shareholders in 2008.
+
+Outlook for 2008
+The long-anticipated slowing in U.S. economic growth appears to have begun as a
+result of the turmoil in the housing and credit markets, combined with higher
+energy and food costs. Real gross domestic product (GDP) growth swung from 2.1%
+in the final quarter of 2006 to 0.6% in the first quarter of 2007 to 4.9% in
+the third quarter and is likely to show 0.6% growth or less for the fourth
+quarter. A recession, defined as two consecutive quarters of negative growth in
+GDP, is certainly a possibility in 2008, though if one occurred, we would not
+expect it to be long or deep. The Federal Reserve reduced interest rates and is
+expected to continue to do so, while keeping a close eye on inflation. The
+level of so-called "core" inflation, excluding food and energy, has been within
+the range with which the Fed is comfortable. At some point, however, overall
+inflation and its impact on consumers must be considered.
+
+One of the other effects of lower interest rates is generally a weaker dollar
+relative to other currencies. The dollar has been declining for some time now
+and is expected to continue while interest rates are being brought down. This
+should result in improved exports as U.S. goods become more competitive
+overseas. While the economies of our trading partners are likely to weaken
+somewhat in response to a slower economy here, they are still expected to
+experience better growth than the U.S. The combination of lower interest rates,
+a weaker dollar, and stronger economies overseas should result in a fairly
+rapid recovery from the expected period of little or no growth. The recovery
+could be derailed, however, by the development of a full-fledged banking crisis
+out of the current "subprime" and collateralized debt problem.
+
+If the economy recovers late in 2008, the stock market should follow suit.
+Analysts are now beginning to lower earnings estimates for many companies and
+their stock prices are already reacting strongly. Investor concern about
+financial conditions is resulting in knee-jerk reactions to bad news. While
+this can present some interesting opportunities, we believe there will be
+equally attractive ones when there is less question as to the severity of the
+decline. Our current portfolio is broadly diversified across industries with an
+emphasis on companies with large exposures to economies worldwide. We have also
+added several foreign companies to the portfolio to take further advantage of
+economic strength overseas. With declining domestic growth in the near term,
+the Fund is invested primarily in large, financially-strong companies with
+leading market shares in their industries. As the recovery takes shape, we
+expect to add companies with smaller capitalizations which are more highly
+leveraged to economic growth, while maintaining the low risk profile of the
+portfolio as a whole.
+
+Share Repurchase Program
+On December 13, 2007, the Board of Directors authorized the repurchase by
+management of up to 5% of the outstanding shares of the Company over the
+ensuing year. The repurchase program is subject to the same restriction as in
+the past, namely that shares can be repurchased when the discount of the market
+price of the shares from the net asset value is 10% or greater.
+
+From the beginning of 2008 through January 25, 2008, a total of 129,376 shares
+have been repurchased at a total cost of $1,633,325 and a weighted average
+discount from net asset value of 13.2%.
+
+4
+
+<PAGE>
+
+                            LETTER TO STOCKHOLDERS
+- --------------------------------------------------------------------------------
+
+
+We are pleased to announce that Mr. Kenneth J. Dale was appointed to the Board
+of Directors of the Company, effective January 10, 2008. Mr. Dale is Senior
+Vice President and Chief Financial Officer of The Associated Press. Prior to
+joining the AP he was an investment banker for J. P. Morgan & Company, Inc.,
+advising clients on capital structure, equity offerings, debt issuances, and
+mergers and acquisitions activity. His extensive investment background combined
+with his global perspective make him a valuable addition to the Board of
+Directors.
+
+                               -----------------
+
+This Annual Report, along with the proxy statement for the Annual Meeting of
+Stockholders to be held in Baltimore on March 13, 2008, are expected to be
+mailed on or about February 19, 2008.
+
+By order of the Board of Directors,
+
+<TABLE>
+                   <S>                   <C>
+
+                   /s/ Douglas G. Ober   /s/ Joseph M. Truta
+                   Douglas G. Ober,      Joseph M. Truta,
+
+                   Chairman and Chief    President
+                   Executive Officer
+</TABLE>
+
+January 30, 2008
+
+                                                                             5
+
+<PAGE>
+
+                      STATEMENT OF ASSETS AND LIABILITIES
+- --------------------------------------------------------------------------------
+
+                               December 31, 2007
+
+
+<TABLE>
+<S>                                                                              <C>            <C>
+Assets
+Investments* at value:
+  Common stocks and convertible securities
+    (cost $839,581,870)                                                          $1,200,243,088
+  Non-controlled affiliate, Petroleum & Resources Corporation
+    (cost $34,735,404)                                                               84,540,683
+  Short-term investments (cost $91,540,289)                                          91,540,289
+  Securities lending collateral (cost $37,702,913)                                   37,702,913 $1,414,026,973
+- ------------------------------------------------------------------------------------------------
+Cash                                                                                                   377,065
+Dividends receivable                                                                                 1,409,993
+Prepaid pension cost                                                                                 3,012,286
+Prepaid expenses and other assets                                                                    2,423,057
+- ---------------------------------------------------------------------------------------------------------------
+      Total Assets                                                                               1,421,249,374
+- ---------------------------------------------------------------------------------------------------------------
+
+Liabilities
+Investment securities purchased                                                                        558,138
+Open written option contracts at value (proceeds $392,318)                                             403,845
+Obligations to return securities lending collateral                                                 37,702,913
+Accrued expenses and other liabilities                                                               4,104,951
+- ---------------------------------------------------------------------------------------------------------------
+      Total Liabilities                                                                             42,769,847
+- ---------------------------------------------------------------------------------------------------------------
+      Net Assets                                                                                $1,378,479,527
+- ---------------------------------------------------------------------------------------------------------------
+
+Net Assets
+Common Stock at par value $0.001 per share, authorized 150,000,000 shares;
+  issued and outstanding 87,668,847 shares (includes 76,164 restricted
+  shares, 6,000 restricted stock units, and 5,307 deferred stock units) (Note 6)                $       87,669
+Additional capital surplus                                                                         965,797,273
+Accumulated other comprehensive income (Note 5)                                                     (1,980,163)
+Undistributed net investment income                                                                  3,033,710
+Undistributed net realized gain on investments                                                       1,086,068
+Unrealized appreciation on investments                                                             410,454,970
+- ---------------------------------------------------------------------------------------------------------------
+      Net Assets Applicable to Common Stock                                                     $1,378,479,527
+- ---------------------------------------------------------------------------------------------------------------
+      Net Asset Value Per Share of Common Stock                                                         $15.72
+- ---------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+*See schedule of investments on pages 14 through 16.
+
+The accompanying notes are an integral part of the financial statements.
+
+6
+
+<PAGE>
+
+                            STATEMENT OF OPERATIONS
+- --------------------------------------------------------------------------------
+
+                         Year Ended December 31, 2007
+
+<TABLE>
+<S>                                                                <C>
+Investment Income
+  Income:
+    Dividends:
+      From unaffiliated issuers                                    $26,953,331
+      From non-controlled affiliate                                  1,158,990
+    Interest and other income                                        4,013,456
+- -------------------------------------------------------------------------------
+        Total income                                                32,125,777
+- -------------------------------------------------------------------------------
+  Expenses:
+    Investment research                                              2,768,507
+    Administration and operations                                    1,585,714
+    Directors' fees                                                    320,778
+    Reports and stockholder communications                             324,841
+    Transfer agent, registrar and custodian expenses                   310,662
+    Auditing and accounting services                                   170,826
+    Legal services                                                      52,553
+    Occupancy and other office expenses                                345,059
+    Travel, telephone and postage                                       89,104
+    Other                                                              272,934
+- -------------------------------------------------------------------------------
+        Total expenses                                               6,240,978
+- -------------------------------------------------------------------------------
+        Net Investment Income                                       25,884,799
+- -------------------------------------------------------------------------------
+Other Comprehensive Income (Note 5)                                   (156,058)
+- -------------------------------------------------------------------------------
+
+Realized Gain and Change in Unrealized Appreciation on Investments
+  Net realized gain on security transactions                        52,160,370
+  Net realized gain distributed by regulated investment company
+    (non-controlled affiliate)                                       8,266,006
+  Change in unrealized appreciation on investments                  (8,301,286)
+- -------------------------------------------------------------------------------
+        Net Gain on Investments                                     52,125,090
+- -------------------------------------------------------------------------------
+Change in Net Assets Resulting from Operations                     $77,853,831
+- -------------------------------------------------------------------------------
+</TABLE>
+
+The accompanying notes are an integral part of the financial statements.
+
+                                                                             7
+
+<PAGE>
+
+                      STATEMENTS OF CHANGES IN NET ASSETS
+- --------------------------------------------------------------------------------
+
+
+<TABLE>
+<CAPTION>
+                                                                         For the Year Ended
+                                                                   ------------------------------
+                                                                    Dec. 31, 2007   Dec. 31, 2006
+- --------------------------------------------------------------------------------------------------
+<S>                                                                <C>             <C>
+From Operations:
+  Net investment income                                            $   25,884,799  $   19,691,488
+  Net realized gain on investments                                     60,426,376      56,553,881
+  Change in unrealized appreciation on investments                     (8,301,286)    102,278,889
+  Change in accumulated other comprehensive income (Note 5)              (156,058)    (1,824,105)
+- --------------------------------------------------------------------------------------------------
+        Change in net assets resulting from operations                 77,853,831     176,700,153
+- --------------------------------------------------------------------------------------------------
+
+Distributions to Stockholders From:
+  Net investment income                                               (27,409,018)    (19,554,259)
+  Net realized gain from investment transactions                      (60,607,292)    (56,771,240)
+- --------------------------------------------------------------------------------------------------
+        Decrease in net assets from distributions                     (88,016,310)    (76,325,499)
+- --------------------------------------------------------------------------------------------------
+
+From Capital Share Transactions:
+  Value of shares issued in payment of distributions                   33,223,573      31,661,698
+  Cost of shares purchased (Note 4)                                   (22,516,525)    (21,770,315)
+  Deferred compensation (Notes 4, 6)                                      516,648         423,621
+- --------------------------------------------------------------------------------------------------
+        Change in net assets from capital share transactions           11,223,696      10,315,004
+- --------------------------------------------------------------------------------------------------
+        Total Increase in Net Assets                                    1,061,217     110,689,658
+
+Net Assets:
+  Beginning of year                                                 1,377,418,310   1,266,728,652
+- --------------------------------------------------------------------------------------------------
+  End of year (including undistributed net investment
+    income of $3,033,710 and $4,632,588, respectively)             $1,378,479,527  $1,377,418,310
+- --------------------------------------------------------------------------------------------------
+</TABLE>
+
+The accompanying notes are an integral part of the financial statements.
+
+8
+
+<PAGE>
+
+                         NOTES TO FINANCIAL STATEMENTS
+- --------------------------------------------------------------------------------
+
+1. Significant Accounting Policies
+
+The Adams Express Company (the Company) is registered under the Investment
+Company Act of 1940 as a diversified investment company. The Company is an
+internally-managed fund whose investment objectives are preservation of
+capital, the attainment of reasonable income from investments, and an
+opportunity for capital appreciation.
+
+Security Valuation -- Investments in securities traded on a national security
+exchange are valued at the last reported sale price on the day of valuation.
+Over-the-counter and listed securities for which a sale price is not available
+are valued at the last quoted bid price. Short-term investments (excluding
+purchased options) are valued at amortized cost. Purchased and written options
+are valued at the last quoted asked price.
+
+Affiliated Companies -- Investments in companies 5% or more of whose
+outstanding voting securities are held by the Company are defined as
+"Affiliated Companies" in Section 2(a)(3) of the Investment Company Act of 1940.
+
+Security Transactions and Investment Income -- Investment transactions are
+accounted for on the trade date. Gain or loss on sales of securities and
+options is determined on the basis of identified cost. Dividend income and
+distributions to shareholders are recognized on the ex-dividend date, and
+interest income is recognized on the accrual basis.
+
+2. Federal Income Taxes
+
+The Company's policy is to distribute all of its taxable income to its
+shareholders in compliance with the requirements of the Internal Revenue Code
+applicable to regulated investment companies. Therefore, no federal income tax
+provision is required. For federal income tax purposes, the identified cost of
+securities at December 31, 2007 was $1,003,073,225, and net unrealized
+appreciation aggregated $410,953,748, of which the related gross unrealized
+appreciation and depreciation were $495,432,734 and $84,478,986, respectively.
+As of December 31, 2007, the tax basis of distributable earnings was $1,962,008
+of undistributed ordinary income and $436,837 of undistributed long-term
+capital gain.
+
+Distributions paid by the Company during the year ended December 31, 2007 were
+classified as ordinary income of $34,249,231, and long-term capital gain of
+$53,767,079. In comparison, distributions paid by the Company during the year
+ended December 31, 2006 were classified as ordinary income of $22,964,152, and
+long-term capital gain of $53,361,347. The distributions are determined in
+accordance with income tax regulations which may differ from generally accepted
+accounting principles. Accordingly, periodic reclassifications are made within
+the Company's capital accounts to reflect income and gains available for
+distribution under income tax regulations. Any income tax-related interest or
+penalties would be classified as income tax expense.
+
+Effective June 29, 2007, the Company adopted Financial Accounting Standards
+Board (FASB) Interpretation No. 48 (FIN 48), Accounting for Uncertainty in
+Income Taxes, a clarification of FASB Statement No. 109, Accounting for Income
+Taxes. FIN 48 establishes financial reporting rules regarding recognition and
+measurement of tax positions taken or expected to be taken on a tax return. The
+adoption of FIN 48 had no impact on the Company's net assets or results of
+operations.
+
+3. Investment Transactions
+
+The Company's investment decisions are made by a committee of management, and
+recommendations to that committee are made by the research staff.
+
+Purchases and sales of portfolio securities, other than options and short-term
+investments, during the year ended December 31, 2007 were $141,227,739 and
+$222,574,654, respectively. Options may be written (sold) or purchased by the
+Company. The Company, as writer of an option, bears the risks of possible
+illiquidity of the option markets and from movements in security values. The
+risk associated with purchasing an option is limited to the premium originally
+paid. A schedule of outstanding option contracts as of December 31, 2007 can be
+found on page 17.
+
+Transactions in written covered call and collateralized put options during the
+year ended December 31, 2007 were as follows:
+
+<TABLE>
+<CAPTION>
+                                 Covered Calls     Collateralized Puts
+                              -------------------  -------------------
+                              Contracts  Premiums  Contracts  Premiums
+                              --------- ---------  --------- ---------
+        <S>                   <C>       <C>        <C>       <C>
+        Options outstanding,
+         December 31, 2006      3,745   $ 497,618    2,103   $ 220,313
+        Options written         6,547     790,853    7,535     867,718
+        Options terminated in
+         closing purchase
+         transactions          (1,630)   (207,295)    (750)   (120,248)
+        Options expired        (4,735)   (565,660)  (5,453)   (596,738)
+        Options exercised      (2,170)   (317,728)  (1,709)   (176,515)
+        ---------------------------------------------------------------
+        Options outstanding,
+         December 31, 2007      1,757     197,788    1,726     194,530
+        ---------------------------------------------------------------
+</TABLE>
+
+                                                                             9
+
+<PAGE>
+
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+- --------------------------------------------------------------------------------
+
+
+4. Capital Stock
+
+The Company has 10,000,000 authorized and unissued preferred shares, $0.001 par
+value.
+
+On December 27, 2006, the Company issued 2,301,959 shares of its Common Stock
+at a price of $13.75 per share (the average market price on December 12, 2006)
+to stockholders of record November 21, 2006 who elected to take stock in
+payment of the distribution from 2006 capital gain and investment income. In
+addition, 722 shares were issued at a weighted average price of $13.43 per
+share as dividend equivalents to holders of deferred stock units and restricted
+stock units under the 2005 Equity Incentive Compensation Plan.
+
+On December 27, 2007, the Company issued 2,381,872 shares of its Common Stock
+at a price of $13.945 per share (the average market price on December 10, 2007)
+to stockholders of record November 21, 2007 who elected to take stock in
+payment of the distribution from 2007 capital gain and investment income. In
+addition, 597 shares were issued at a weighted average price of $14.00 per
+share as dividend equivalents to holders of deferred stock units and restricted
+stock units under the 2005 Equity Incentive Compensation Plan.
+
+The Company may purchase shares of its Common Stock from time to time at such
+prices and amounts as the Board of Directors may deem advisable. Transactions
+in Common Stock for 2007 and 2006 were as follows:
+
+<TABLE>
+<CAPTION>
+                                  Shares                    Amount
+                          ----------------------  --------------------------
+                             2007        2006         2007          2006
+                          ----------  ----------  ------------  ------------
+   <S>                    <C>         <C>         <C>           <C>
+   Shares issued in
+    payment of
+    distributions          2,382,469   2,302,681  $ 33,223,573  $ 31,661,698
+   Shares purchased (at a
+    weighted average
+    discount from net
+    asset value of 13.2%
+    and 13.9%,
+    respectively)         (1,585,773) (1,623,542)  (22,516,525)  (21,770,315)
+   Net activity under the
+    2005 Equity Incentive
+    Compensation Plan         33,928      59,477       516,648       423,621
+   --------------------------------------------------------------------------
+   Net change                830,624     738,616  $ 11,223,696  $ 10,315,004
+   --------------------------------------------------------------------------
+</TABLE>
+
+5. Retirement Plans
+
+The Company's non-contributory qualified defined benefit pension plan
+("qualified plan") covers all employees with at least one year of service. In
+addition, the Company has a non-contributory nonqualified defined benefit plan
+which provides eligible employees with retirement benefits to supplement the
+qualified plan. Benefits are based on length of service and compensation during
+the last five years of employment.
+
+The funded status of the plans is recognized as an asset (overfunded plan) or a
+liability (underfunded plan) in the Statement of Assets and Liabilities.
+Changes in the prior service costs and accumulated actuarial gains and losses
+are recognized as accumulated other comprehensive income, a component of net
+assets, in the year in which the changes occur.
+
+The Company uses a December 31 measurement date for its plans.
+
+<TABLE>
+<CAPTION>
+                                                       2007         2006
+                                                   -----------  -----------
+    <S>                                            <C>          <C>
+    Change in benefit obligation
+    Benefit obligation at beginning of year        $ 9,850,091  $ 8,951,798
+    Service cost                                       487,315      460,969
+    Interest cost                                      568,495      518,015
+    Actuarial (gain)/loss                             (124,121)      70,276
+    Benefits paid                                     (150,967)    (150,967)
+    ------------------------------------------------------------------------
+    Benefit obligation at end of year              $10,630,813  $ 9,850,091
+    ------------------------------------------------------------------------
+
+    Change in plan assets
+    Fair value of plan assets at beginning of year $10,834,484  $10,063,296
+    Actual return on plan assets                       319,574      922,155
+    Employer contribution                                   --           --
+    Benefits paid                                     (150,967)    (150,967)
+    ------------------------------------------------------------------------
+    Fair value of plan assets at end of year       $11,003,091   10,834,484
+    ------------------------------------------------------------------------
+    Funded status                                  $   372,278  $   984,393
+    ------------------------------------------------------------------------
+</TABLE>
+
+Items not yet recognized as a component of net periodic pension cost:
+
+<TABLE>
+<CAPTION>
+                                                      2007       2006
+                                                   ---------- ----------
+        <S>                                        <C>        <C>
+        Prior service cost                         $  241,768 $  336,276
+        Net (gain)/loss                             1,738,395  1,487,829
+        ----------------------------------------------------------------
+        Total recognized as a charge to net assets $1,980,163 $1,824,105
+        ----------------------------------------------------------------
+</TABLE>
+
+The accumulated benefit obligation for all defined benefit pension plans was
+$9,086,788 and $8,137,314 at December 31, 2007 and 2006, respectively.
+
+<TABLE>
+<CAPTION>
+                                                    2007       2006
+                                                 ---------  ---------
+         <S>                                     <C>        <C>
+         Components of net periodic pension cost
+         Service cost                            $ 487,315  $ 460,969
+         Interest cost                             568,495    518,015
+         Expected return on plan assets           (855,553)  (794,036)
+         Amortization of prior service cost         94,508    119,776
+         Amortization of net loss                  162,625    180,764
+         -------------------------------------------------------------
+         Net periodic pension cost               $ 457,390  $ 485,488
+         -------------------------------------------------------------
+</TABLE>
+
+In 2008, the Company estimates that $95,860 of prior service cost and $185,439
+of net losses, for a total of $281,299, will be amortized from accumulated
+other comprehensive income into net periodic pension cost.
+
+10
+
+<PAGE>
+
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+- --------------------------------------------------------------------------------
+
+
+Assumptions used to determine benefit obligations are:
+
+<TABLE>
+<CAPTION>
+                                                 2007  2006
+                                                 ----- -----
+                   <S>                           <C>   <C>
+                   Discount rate                 6.00% 5.75%
+                   Rate of compensation increase 7.00% 7.00%
+</TABLE>
+
+The assumptions used to determine net periodic pension cost are:
+
+<TABLE>
+<CAPTION>
+                                                       2007  2006
+                                                       ----- -----
+              <S>                                      <C>   <C>
+              Discount rate                            5.75% 5.75%
+              Expected long-term return on plan assets 8.00% 8.00%
+              Rate of compensation increase            7.00% 7.00%
+</TABLE>
+
+The assumption for the expected long-term return on plan assets is based on the
+actual long-term historical returns realized by the plan assets, weighted
+according to the current asset mix.
+
+The asset allocations at December 31, 2007 and 2006, by asset category, are as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                       2007 2006
+                                                       ---- ----
+               <S>                                     <C>  <C>
+               Asset Category
+               Equity Securities & Equity Mutual Funds 43%  68%
+               Fixed Income Mutual Funds               57%  27%
+               Cash                                    --    5%
+</TABLE>
+
+Equity Mutual Funds include Common Stock of the Company in the amount of
+$778,577 (7% of total plan assets) and $718,924 (6% of total plan assets) at
+December 31, 2007 and 2006, respectively.
+
+The primary objective of the Company's pension plan is to provide capital
+appreciation, current income, and preservation of capital through a diversified
+portfolio of stocks and fixed income securities.
+
+The Company's policy is to contribute annually to the plans those amounts that
+can be deducted for federal income tax purposes, plus additional amounts as the
+Company deems appropriate in order to provide assets sufficient to meet
+benefits to be paid to plan participants. The Company anticipates making no
+contribution to the plans in 2008.
+
+The following benefit payments, which reflect expected future service, are
+expected to be paid:
+
+<TABLE>
+<CAPTION>
+                                        Pension Benefits
+                                        ----------------
+                        <S>             <C>
+                        2008               $  596,548
+                        2009                  585,762
+                        2010                  653,661
+                        2011                  637,801
+                        2012                  620,836
+                        Years 2013-2017     3,644,319
+</TABLE>
+
+The Company also sponsors a defined contribution plan that covers substantially
+all employees. The Company expensed contributions to this plan of $187,345 and
+$182,985 for the years ended December 31, 2007 and December 31, 2006,
+respectively. The Company does not provide postretirement medical benefits.
+
+6. Equity-Based Compensation
+
+Although the Stock Option Plan of 1985 ("1985 Plan") has been discontinued and
+no further grants will be made under this plan, unexercised grants of stock
+options and stock appreciation rights granted in 2004 and prior years remain
+outstanding. The exercise price of the unexercised options and related stock
+appreciation rights is the fair market value on date of grant, reduced by the
+per share amount of capital gains paid by the Company during subsequent years.
+All options and related stock appreciation rights terminate 10 years from date
+of grant, if not exercised.
+
+A summary of option activity under the 1985 Plan as of December 31, 2007, and
+changes during the period then ended, is presented below:
+
+<TABLE>
+<CAPTION>
+                                                  Weighted-  Weighted-
+                                                   Average    Average
+                                                  Exercise   Remaining
+                                         Options    Price   Life (Years)
+                                         -------  --------- ------------
+        <S>                              <C>      <C>       <C>
+        Outstanding at December 31, 2006 201,990   $11.81       4.79
+        Exercised                        (55,186)   10.38
+        Forfeited                           --       --
+        ----------------------------------------------------------------
+        Outstanding at December 31, 2007 146,804   $11.63       3.47
+        ----------------------------------------------------------------
+        Exercisable at December 31, 2007  80,282   $12.16       2.75
+        ----------------------------------------------------------------
+</TABLE>
+
+The options outstanding as of December 31, 2007 are set forth below:
+
+<TABLE>
+<CAPTION>
+                                                    Weighted   Weighted
+                                                    Average    Average
+                                          Options   Exercise  Remaining
+       Exercise price                   Outstanding  Price   Life (Years)
+       --------------                   ----------- -------- ------------
+       <S>                              <C>         <C>      <C>
+       $7.00-$9.24                         21,768    $ 7.67      4.19
+       $9.25-$11.49                        73,888     10.07      3.87
+       $11.50-$13.74                        --         --         --
+       $13.75-$16.00                       51,148     15.58      2.59
+       ------------------------------------------------------------------
+       Outstanding at December 31, 2007   146,804    $11.63      3.47
+       ------------------------------------------------------------------
+</TABLE>
+
+Compensation cost resulting from stock options and stock appreciation rights
+granted under the 1985 Plan is based on the intrinsic value of the award,
+recognized over the award's vesting period, and remeasured at each reporting
+date through the date of settlement. The total compensation cost recognized for
+the year ended December 31, 2007 was $129,680.
+
+The 2005 Equity Incentive Compensation Plan ("2005 Plan"), adopted at the 2005
+Annual Meeting, permits the grant of stock options, restricted stock awards and
+other stock incentives to key employees and all non-employee directors. The
+2005 Plan provides for the issuance of up to 3,413,131 shares of the Company's
+Common Stock, including both performance and nonperformance-based restricted
+stock. Performance-based restricted stock awards vest at the end of a specified
+three year period, with the ultimate number of shares earned contingent on
+
+                                                                             11
+
+<PAGE>
+
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+- --------------------------------------------------------------------------------
+
+achieving certain performance targets. If performance targets are not achieved,
+all or a portion of the performance-based restricted shares are forfeited and
+become available for future grants. Nonperformance-based restricted stock
+awards vest ratably over a three year period and nonperformance-based
+restricted stock units (granted to non-employee directors) vest over a one year
+period. It is the current intention that employee grants will be
+performance-based. The 2005 Plan provides for accelerated vesting in the event
+of death or retirement. Non-employee directors also may elect to defer a
+portion of their cash compensation, with such deferred amount to be paid by
+delivery of deferred stock units. Outstanding awards are granted at fair market
+value on grant date. The number of shares of Common Stock which remains
+available for future grants under the 2005 Plan at December 31, 2007 is
+3,298,845 shares.
+
+A summary of the status of the Company's awards granted under the 2005 Plan as
+of December 31, 2007, and changes during the period then ended, is presented
+below:
+
+<TABLE>
+<CAPTION>
+                                                      Weighted Average
+                                                      Grant-Date Fair
+          Awards                         Shares/Units      Value
+          ------                         ------------ ----------------
+          <S>                            <C>          <C>
+          Balance at December 31, 2006      70,493        $12.92
+          Granted:
+            Restricted stock                32,720          13.73
+            Restricted stock units           6,000          14.07
+            Deferred stock units             2,158          14.37
+          Vested                           (13,197)         12.99
+          Forfeited                        (10,703)         13.24
+          ------------------------------------------------------------
+          Balance at December 31, 2007
+           (includes 72,048 performance-
+           based awards and 15,423
+           nonperformance-based awards)     87,471        $ 13.29
+          ------------------------------------------------------------
+</TABLE>
+
+Compensation costs resulting from awards granted under the 2005 Plan are based
+on the fair value of the award on grant date (determined by the average of the
+high and low price on grant date) and recognized on a straight-line basis over
+the requisite service period. For those awards with performance conditions,
+compensation costs are based on the most probable outcome and, if such goals
+are not met, compensation cost is not recognized and any previously recognized
+compensation cost is reversed. The total compensation costs for restricted
+stock granted to employees for the year ended December 31, 2007 were $346,937.
+The total compensation costs for restricted stock units granted to non-employee
+directors for the year ended December 31, 2007 were $86,528. As of December 31,
+2007, there were total unrecognized compensation costs of $486,346, a component
+of additional capital surplus, related to nonvested equity-based compensation
+arrangements granted under the 2005 Plan. Those costs are expected to be
+recognized over a weighted average period of 1.48 years. The total fair value
+of shares vested during the years ended December 31, 2007 and 2006 was $187,396
+and $168,230, respectively.
+
+7. Officer and Director Compensation
+
+The aggregate remuneration paid during the year ended December 31, 2007 to
+officers and directors amounted to $2,959,345, of which $278,541 was paid to
+directors who were not officers. These amounts represent the taxable income to
+the Company's officers and directors and therefore differ from the amounts
+reported in the accompanying Statement of Operations that are recorded and
+expensed in accordance with generally accepted accounting principles.
+
+8. Portfolio Securities Loaned
+
+The Company makes loans of securities to brokers, secured by cash, U.S.
+Government securities, or bank letters of credit. The Company accounts for
+securities lending transactions as secured financing and receives compensation
+in the form of fees or retains a portion of interest on the investment of any
+cash received as collateral. The Company also continues to receive interest or
+dividends on the securities loaned. The loans are secured at all times by
+collateral of at least 102% of the fair value of the securities loaned plus
+accrued interest. At December 31, 2007, the Company had securities on loan of
+$36,873,580, and held collateral of $37,702,913, consisting of an investment
+trust fund which may invest in money market instruments, commercial paper,
+repurchase agreements, U.S. Treasury Bills, and U.S. agency obligations.
+
+9. New Accounting Pronouncements
+
+In September 2006, the FASB released Statement of Financial Accounting Standard
+No. 157, Fair Value Measurement ("FAS 157"), which provides enhanced guidance
+for using fair value to measure assets and liabilities. The standard requires
+companies to provide expanded information about the assets and liabilities
+measured at fair value and the potential effect of these fair valuations on an
+entity's financial performance. The standard does not expand the use of fair
+value in any new circumstances, but provides clarification on acceptable fair
+valuation methods and applications. Adoption of FAS 157 is required for fiscal
+years beginning after November 15, 2007. Application of the standard is not
+expected to materially impact the Company's financial statements.
+
+12
+
+<PAGE>
+
+                             FINANCIAL HIGHLIGHTS
+- --------------------------------------------------------------------------------
+
+
+<TABLE>
+<CAPTION>
+                                                                 Year Ended December 31
+                                                 ------------------------------------------------------
+                                                    2007       2006       2005       2004       2003
+- -------------------------------------------------------------------------------------------------------
+<S>                                              <C>        <C>        <C>        <C>        <C>
+Per Share Operating Performance
+  Net asset value, beginning of year                 $15.86     $14.71     $15.04     $14.36     $12.12
+- -------------------------------------------------------------------------------------------------------
+    Net investment income                             0.30*       0.23       0.22     0.23**       0.19
+    Net realized gains and increase (decrease)
+      in unrealized appreciation                       0.61       1.86       0.32       1.39       2.85
+    Change in accumulated
+      other comprehensive income                       0.00     (0.02)      --         --         --
+- -------------------------------------------------------------------------------------------------------
+  Total from investment operations                     0.91       2.07       0.54       1.62       3.04
+- -------------------------------------------------------------------------------------------------------
+  Less distributions
+    Dividends from net investment income             (0.32)     (0.23)     (0.22)     (0.24)     (0.17)
+    Distributions from net realized gains            (0.71)     (0.67)     (0.64)     (0.66)     (0.61)
+- -------------------------------------------------------------------------------------------------------
+  Total distributions                                (1.03)     (0.90)     (0.86)     (0.90)     (0.78)
+- -------------------------------------------------------------------------------------------------------
+    Capital share repurchases                          0.04       0.04       0.05       0.02       0.04
+    Reinvestment of distributions                    (0.06)     (0.06)     (0.06)     (0.06)     (0.06)
+- -------------------------------------------------------------------------------------------------------
+  Total capital share transactions                   (0.02)     (0.02)     (0.01)     (0.04)     (0.02)
+- -------------------------------------------------------------------------------------------------------
+  Net asset value, end of year                       $15.72     $15.86     $14.71     $15.04     $14.36
+- -------------------------------------------------------------------------------------------------------
+  Per share market price, end of year                $14.12     $13.87     $12.55     $13.12     $12.41
+- -------------------------------------------------------------------------------------------------------
+
+Total Investment Return
+  Based on market price                                9.4%      17.9%       2.2%      13.2%      25.2%
+  Based on net asset value                             6.5%      15.0%       4.5%      12.1%      26.3%
+
+Ratios/Supplemental Data
+  Net assets, end of year (in 000's)             $1,378,480 $1,377,418 $1,266,729 $1,295,549 $1,218,862
+  Ratio of expenses to average net assets             0.44%      0.50%      0.45%      0.43%      0.47%
+  Ratio of net investment income to
+    average net assets                                1.82%      1.50%      1.44%      1.54%      1.45%
+  Portfolio turnover                                 10.46%     10.87%     12.96%     13.43%     12.74%
+  Number of shares outstanding at
+    end of year (in 000's)                           87,669     86,838     86,100     86,135     84,886
+- -------------------------------------------------------------------------------------------------------
+</TABLE>
+
+*  In April 2007 the Company received $5,100,000 in a special cash dividend
+from Dean Foods Co., of which $2,295,000, or $0.03 per share, is considered a
+taxable dividend.
+** In 2004 the Company received $2,400,000, or $0.03 per share, in an
+extraordinary dividend from Microsoft Corp.
+
+                                                                             13
+
+<PAGE>
+
+                            SCHEDULE OF INVESTMENTS
+- --------------------------------------------------------------------------------
+
+                               December 31, 2007
+
+<TABLE>
+<CAPTION>
+                                                    Shares    Value (A)
+       ------------------------------------------------------------------
+       <S>                                         <C>       <C>
+       Stocks and Convertible Securities -- 93.2%
+         Consumer -- 17.4%
+           Consumer Discretionary -- 4.9%
+           Comcast Corp. (B)......................   525,000 $  9,586,500
+           Gannett Co., Inc.......................   112,500    4,387,500
+           Harley-Davidson, Inc...................   130,000    6,072,300
+           Lowe's Companies, Inc..................   600,000   13,572,000
+           Newell Rubbermaid Inc..................   400,000   10,352,000
+           Ryland Group Inc. (C)..................   343,500    9,463,425
+           Target Corp............................   290,000   14,500,000
+                                                             ------------
+                                                               67,933,725
+                                                             ------------
+           Consumer Staples -- 12.5%
+           Avon Products, Inc.....................   402,400   15,906,872
+           BJ's Wholesale Club, Inc. (B)(C).......   400,000   13,532,000
+           Bunge Ltd..............................   100,000   11,641,000
+           Coca-Cola Co...........................   200,000   12,274,000
+           CVS/Caremark Corp......................   208,750    8,297,813
+           Dean Foods Co..........................   340,000    8,792,400
+           Del Monte Foods Co..................... 1,300,000   12,298,000
+           PepsiCo, Inc...........................   400,000   30,360,000
+           Procter & Gamble Co....................   340,000   24,962,800
+           Safeway, Inc...........................   390,000   13,341,900
+           Unilever plc ADR.......................   550,000   20,581,000
+                                                             ------------
+                                                              171,987,785
+                                                             ------------
+         Energy -- 14.2%
+           ConocoPhillips.........................   295,000   26,048,500
+           ENSCO International, Inc...............   209,150   12,469,523
+           Exxon Mobil Corp.......................   215,000   20,143,350
+           Marathon Oil Co........................   240,000   14,606,400
+           Petroleum & Resources Corporation (D).. 2,186,774   84,540,683
+           Schlumberger Ltd.......................   380,000   37,380,600
+                                                             ------------
+                                                              195,189,056
+                                                             ------------
+         Financial -- 14.1%
+           Banking -- 12.0%
+           Bank of America Corp...................   730,000   30,119,800
+           Bank of New York Mellon Corp...........   403,775   19,688,068
+           Fifth Third Bancorp....................   280,000    7,036,400
+           Morgan Stanley.........................   190,000   10,090,900
+           PNC Financial Services Group Inc.......   200,000   13,130,000
+           Prosperity Bancshares, Inc.............   200,000    5,878,000
+           State Street Corp......................   323,895   26,300,274
+           Wachovia Corp..........................   545,000   20,726,350
+           Wells Fargo & Co.......................   650,000   19,623,500
+           Wilmington Trust Corp..................   363,000   12,777,600
+                                                             ------------
+                                                              165,370,892
+                                                             ------------
+           Insurance -- 2.1%
+           American International Group, Inc......   500,000   29,150,000
+                                                             ------------
+</TABLE>
+
+14
+
+<PAGE>
+
+                      SCHEDULE OF INVESTMENTS (CONTINUED)
+- --------------------------------------------------------------------------------
+
+                               December 31, 2007
+
+<TABLE>
+<CAPTION>
+                                                     Shares    Value (A)
+      --------------------------------------------------------------------
+      <S>                                           <C>       <C>
+        Health Care -- 10.7%
+          Abbott Laboratories......................   320,000 $ 17,968,000
+          Bristol-Myers Squibb Co..................   345,000    9,149,400
+          Genentech, Inc. (B)......................   220,000   14,755,400
+          Johnson & Johnson........................   255,000   17,008,500
+          Medtronic, Inc...........................   310,000   15,583,700
+          Pfizer Inc............................... 1,120,000   25,457,600
+          Senomyx, Inc. (B)(C).....................   984,400    7,373,155
+          Teva Pharmaceutical Industries Ltd. ADR..   370,000   17,197,600
+          Wyeth Co.................................   325,000   14,361,750
+          Zimmer Holdings, Inc. (B)................   132,400    8,758,260
+                                                              ------------
+                                                               147,613,365
+                                                              ------------
+        Industrials -- 14.9%
+          Cintas Corp..............................   300,000   10,086,000
+          Curtiss-Wright Corp......................   360,000   18,072,000
+          Emerson Electric Co......................   400,000   22,664,000
+          General Electric Co...................... 1,388,000   51,453,160
+          Illinois Tool Works Inc. (C).............   250,000   13,385,000
+          Masco Corp. (C)..........................   450,000    9,724,500
+          Oshkosh Truck Corp.......................   280,000   13,232,800
+          Spirit AeroSystems Holdings, Inc. (B)....   425,000   14,662,500
+          Tata Motors Ltd. ADR.....................   285,000    5,375,100
+          3M Co....................................   160,000   13,491,200
+          United Parcel Services, Inc..............   155,000   10,961,600
+          United Technologies Corp.................   300,000   22,962,000
+                                                              ------------
+                                                               206,069,860
+                                                              ------------
+        Information Technology -- 11.4%
+          Communication Equipment -- 0.9%
+          Corning Inc..............................   500,000   11,995,000
+                                                              ------------
+          Computer Related -- 8.5%
+          Automatic Data Processing Inc............   300,000   13,359,000
+          Cisco Systems, Inc. (B)..................   850,000   23,009,500
+          Dell Inc. (B)............................   585,000   14,338,350
+          Microsoft Corp........................... 1,180,000   42,008,000
+          Oracle Corp. (B)......................... 1,100,000   24,838,000
+                                                              ------------
+                                                               117,552,850
+                                                              ------------
+          Electronics -- 2.0%
+          Broadcom Corp. (B).......................   400,000   10,456,000
+          Intel Corp...............................   640,000   17,062,400
+                                                              ------------
+                                                                27,518,400
+                                                              ------------
+        Materials -- 5.2%
+          Air Products and Chemicals, Inc..........   230,000   22,684,900
+          du Pont (E.I.) de Nemours and Co.........   360,000   15,872,400
+          Lubrizol Corp............................   220,000   11,915,200
+          Rohm & Haas Co...........................   390,000   20,697,300
+                                                              ------------
+                                                                71,169,800
+                                                              ------------
+</TABLE>
+
+                                                                             15
+
+<PAGE>
+
+                      SCHEDULE OF INVESTMENTS (CONTINUED)
+- --------------------------------------------------------------------------------
+
+                               December 31, 2007
+
+<TABLE>
+<CAPTION>
+                                                                      Prin. Amt.
+                                                                      or Shares      Value (A)
+- -------------------------------------------------------------------------------------------------
+<S>                                                                   <C>         <C>
+  Telecom Services -- 1.5%
+    AT&T Corp........................................................     400,000 $   16,624,000
+    Windstream Corp..................................................     310,178      4,038,518
+                                                                                  --------------
+                                                                                      20,662,518
+                                                                                  --------------
+  Utilities -- 3.8%
+    Aqua America, Inc. (C)...........................................     499,000     10,578,800
+    Duke Energy Corp.................................................     611,560     12,335,165
+    MDU Resources Group, Inc.........................................     562,500     15,530,625
+    Northeast Utilities..............................................     199,000      6,230,690
+    Spectra Energy Corp..............................................     305,780      7,895,240
+                                                                                  --------------
+                                                                                      52,570,520
+                                                                                  --------------
+Total Stocks and Convertible Securities
+  (Cost $874,317,274) (E)............................................              1,284,783,771
+                                                                                  --------------
+Short-Term Investments -- 6.6%
+    U.S. Government Obligations -- 1.4%
+    U.S. Treasury Bills, 3.40%, due 2/14/08.......................... $20,000,000     19,916,889
+                                                                                  --------------
+    Time Deposit -- 0.0%
+    Wells Fargo Bank, 2.53%, due 1/2/08..............................                    255,748
+                                                                                  --------------
+    Commercial Paper -- 5.2%
+    American Express Credit Corp., 4.10-4.28%, due 1/3/08-1/22/08.... $14,700,000     14,666,022
+    American General Finance, Inc., 4.65%, due 1/8/08................ $ 2,000,000      1,998,192
+    Chevron Funding Co., 4.22%, due 1/10/08.......................... $ 1,500,000      1,498,417
+    Coca-Cola Enterprises, 4.33%, due 1/15/08........................ $ 8,000,000      7,986,528
+    General Electric Capital Corp., 4.24-4.25%, due 1/24/08-1/29/08.. $ 9,000,000      8,971,563
+    Nestle Capital Co., 4.22%, due 1/17/08........................... $10,600,000     10,580,119
+    Prudential Funding, LLC, 4.15%, due 1/10/08...................... $ 6,000,000      5,993,775
+    Toyota Motor Credit Corp., 4.18-4.29%, due 1/3/08-1/22/08........ $10,000,000      9,991,100
+    United Parcel Service of America, Inc., 4.19%, due 1/17/08....... $ 9,700,000      9,681,936
+                                                                                  --------------
+      Total Commercial Paper.........................................                 71,367,652
+                                                                                  --------------
+Total Short-Term Investments
+  (Cost $91,540,289).................................................                 91,540,289
+                                                                                  --------------
+Total Securities Lending Collateral -- 2.7%
+  (Cost $37,702,913)
+    Brown Brothers Investment Trust, 5.19%, due 1/2/08...............                 37,702,913
+                                                                                  --------------
+Total Investments -- 102.5%
+  (Cost $1,003,560,476)..............................................              1,414,026,973
+    Cash, receivables, prepaid expenses and other assets, less
+      liabilities -- (2.5)%..........................................                (35,547,446)
+                                                                                  --------------
+Net Assets -- 100.0%.................................................             $1,378,479,527
+</TABLE>
+- --------------------------------------------------------------------------------
+Notes:
+(A) See Note 1 to financial statements. Securities are listed on the New York
+    Stock Exchange, the American Stock Exchange, or the NASDAQ, except
+    restricted securities.
+(B) Presently non-dividend paying.
+(C) All or a portion of these securities are on loan. See Note 8 to Financial
+    Statements.
+(D) Non-controlled affiliate, a closed-end sector fund, registered as an
+    investment company under the Investment Company Act of 1940.
+(E) The aggregate market value of stocks held in escrow at December 31, 2007
+    covering open call option contracts written was $10,060,247. In addition,
+    the required aggregate market value of securities segregated by the
+    custodian to collateralize open put option contracts written was $8,257,500.
+
+16
+
+<PAGE>
+
+                   SCHEDULE OF OUTSTANDING OPTION CONTRACTS
+- --------------------------------------------------------------------------------
+
+                               December 31, 2007
+
+<TABLE>
+<CAPTION>
+ Contracts                                             Contract
+(100 shares                                    Strike Expiration Appreciation/
+   each)                 Security              Price     Date    (Depreciation)
+- -------------------------------------------------------------------------------
+<C>         <S>                                <C>    <C>        <C>
+
+                                 COVERED CALLS
+     200    Air Products and Chemicals, Inc... $ 110    Jan 08     $  14,399
+     250    Broadcom Corp.....................  45      Jan 08        23,000
+     100    ConocoPhillips....................  100     Jan 08        13,361
+     150    Curtiss-Wright Corp...............  65      Mar 08         7,800
+     200    Lubrizol Corp.....................  75      Mar 08        18,612
+     100    Marathon Oil Co...................  70      Jan 08        10,199
+     250    Medtronic, Inc....................  55      Jan 08        24,250
+     200    Rohm & Haas Co....................  60      Apr 08         5,400
+      57    Safeway Inc.......................  40      Mar 08         2,633
+     150    Target Corp.......................  80      Jan 08        14,749
+     100    3M Corp...........................  100     Jan 08        14,700
+   -----                                                           ---------
+   1,757                                                             149,103
+   -----                                                           ---------
+
+                              COLLATERALIZED PUTS
+     150    American International Group, Inc.  45      Jan 08        13,849
+     200    Exxon Mobil Corp..................  65      Jan 08        19,400
+     100    Morgan Stanley....................  55      Jan 08       (21,801)
+     150    Oshkosh Truck Corp................  45      Jan 08         4,800
+     100    Oshkosh Truck Corp................  35      Apr 08         4,844
+     100    Oshkosh Truck Corp................  40      Apr 08         8,700
+     100    State Street Corp.................  50      Jan 08         9,249
+     200    Target Corp.......................  40      Apr 08       (12,226)
+     250    Wachovia Corp.....................  45      Jan 08      (149,899)
+     150    Wells Fargo & Co.................. 27.50    Jan 08         7,049
+     150    Zimmer Holdings, Inc..............  60      Jan 08        13,900
+      76    Zimmer Holdings, Inc..............  75      Jan 08       (58,495)
+   -----                                                           ---------
+   1,726                                                            (160,630)
+   -----                                                           ---------
+                                                                   $ (11,527)
+</TABLE>
+- --------------------------------------------------------------------------------
+
+            REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+- --------------------------------------------------------------------------------
+
+To the Board of Directors and Stockholders of The Adams Express Company:
+
+In our opinion, the accompanying statement of assets and liabilities, including
+the schedule of investments, and the related statements of operations and of
+changes in net assets and the financial highlights present fairly, in all
+material respects, the financial position of The Adams Express Company (the
+"Company") at December 31, 2007, the results of its operations for the year
+then ended, the changes in its net assets for each of the two years in the
+period then ended and the financial highlights for each of the five years in
+the period then ended, in conformity with accounting principles generally
+accepted in the United States of America. These financial statements and
+financial highlights (hereafter referred to as "financial statements") are the
+responsibility of the Company's management; our responsibility is to express an
+opinion on these financial statements based on our audits. We conducted our
+audits of these financial statements in accordance with the auditing standards
+of the Public Company Accounting Oversight Board (United States). Those
+standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements, assessing the
+accounting principles used and significant estimates made by management, and
+evaluating the overall financial statement presentation. We believe that our
+audits, which included confirmation of securities at December 31, 2007 by
+correspondence with the custodian and brokers, provide a reasonable basis for
+our opinion.
+
+PricewaterhouseCoopers LLP
+
+Baltimore, Maryland
+February 13, 2008
+
+                                                                             17
+
+<PAGE>
+
+                        CHANGES IN PORTFOLIO SECURITIES
+- --------------------------------------------------------------------------------
+
+                During the Three Months Ended December 31, 2007
+                                  (unaudited)
+
+<TABLE>
+<CAPTION>
+                                                         Shares
+                                           ----------------------------------
+                                                                    Held
+                                           Additions Reductions Dec. 31, 2007
+   --------------------------------------------------------------------------
+   <S>                                     <C>       <C>        <C>
+   Bank of America Corp...................   20,000                 730,000
+   Harley-Davidson, Inc...................   10,000                 130,000
+   Lowe's Companies, Inc..................   25,000                 600,000
+   Lubrizol Corp..........................   20,000                 220,000
+   Morgan Stanley.........................   10,000                 190,000
+   Northeast Utilities....................   19,000                 199,000
+   Oshkosh Truck Corp.....................   10,000                 280,000
+   Senomyx, Inc...........................  424,400                 984,400
+   Spirit AeroSystems Holdings, Inc.......   25,000                 425,000
+   Tata Motors Ltd. ADR...................  285,000                 285,000
+   Wachovia Corp..........................   25,000                 545,000
+   Zimmer Holdings, Inc...................    7,400                 132,400
+   Advanced Medical Optics, Inc...........            325,000            --
+   Alltel Corp............................             40,000            --
+   AMBAC Financial Group, Inc.............            200,000            --
+   Avon Products, Inc.....................             16,000       402,400
+   BankAtlantic Bancorp, Inc..............            880,000            --
+   BEA Systems, Inc.......................            800,000            --
+   BJ's Wholesale Club, Inc...............             15,000       400,000
+   Bunge Ltd..............................             33,000       100,000
+   ConocoPhillips.........................             50,000       295,000
+   General Electric Co....................             33,000     1,388,000
+   Intel Corp.............................            160,000       640,000
+   Murphy Oil Corp........................             38,500            --
+   Rohm & Haas Co.........................             10,000       390,000
+   Teva Pharmaceutical Industries Ltd. ADR             15,000       370,000
+</TABLE>
+
+                               -----------------
+
+ This report, including the financial statements herein, is transmitted to the
+ stockholders of The Adams Express Company for their information. It is not a
+ prospectus, circular or representation intended for use in the purchase or
+ sale of shares of the Company or of any securities mentioned in the report.
+ The rates of return will vary and the principal value of an investment will
+ fluctuate. Shares, if sold, may be worth more or less than their original
+ cost. Past performance is not indicative of future investment results.
+
+18
+
+<PAGE>
+
+                        HISTORICAL FINANCIAL STATISTICS
+- --------------------------------------------------------------------------------
+
+                                  (unaudited)
+
+<TABLE>
+<CAPTION>
+                                                          Dividends  Distributions     Total
+                                                             From      From Net      Dividends
+                                    Net Asset    Market   Investment   Realized         and          Annual
+           Value Of       Shares      Value      Value      Income       Gains     Distributions    Rate of
+Dec. 31   Net Assets   Outstanding* Per Share* Per Share* Per Share*  Per Share*    Per Share*   Distribution**
+- ---------------------------------------------------------------------------------------------------------------
+<S>     <C>            <C>          <C>        <C>        <C>        <C>           <C>           <C>
+ 1993   $  840,610,252  63,746,495    $13.19     $11.92      $.30        $ .79         $1.09          8.17%
+ 1994      798,297,600  66,584,985     11.99      10.42       .33          .73          1.06          9.27
+ 1995      986,230,914  69,248,276     14.24      12.33       .35          .76          1.11          9.53
+ 1996    1,138,760,396  72,054,792     15.80      13.17       .35          .80          1.15          8.95
+ 1997    1,424,170,425  74,923,859     19.01      16.13       .29         1.01          1.30          8.65
+ 1998    1,688,080,336  77,814,977     21.69      17.75       .30         1.10          1.40          8.17
+ 1999    2,170,801,875  80,842,241     26.85      22.38       .26         1.37          1.63          8.53
+ 2000    1,951,562,978  82,292,262     23.72      21.00       .22         1.63          1.85          7.76
+ 2001    1,368,366,316  85,233,262     16.05      14.22       .26         1.39          1.65          9.44
+ 2002    1,024,810,092  84,536,250     12.12      10.57       .19          .57           .76          6.14
+ 2003    1,218,862,456  84,886,412     14.36      12.41       .17          .61           .78          6.80
+ 2004    1,295,548,900  86,135,292     15.04      13.12       .24          .66           .90          7.05
+ 2005    1,266,728,652  86,099,607     14.71      12.55       .22          .64           .86          6.65
+ 2006    1,377,418,310  86,838,223     15.86      13.87       .23          .67           .90          6.80
+ 2007    1,378,479,527  87,668,847     15.72      14.12       .32          .71          1.03          7.15
+</TABLE>
+- --------
+* Adjusted to reflect the 3-for-2 stock split effected in October 2000.
+** The annual rate of distribution is the total dividends and capital gain
+   distributions during the year divided by the average daily market price of
+   the Company's Common Stock.
+
+                           -------------------------
+
+                                 Common Stock
+                     Listed on the New York Stock Exchange
+
+                           The Adams Express Company
+            Seven St. Paul Street, Suite 1140, Baltimore, MD 21202
+                       (410) 752-5900 or (800) 638-2479
+                         Website: www.adamsexpress.com
+                       E-mail: contact@adamsexpress.com
+                      Counsel: Chadbourne & Parke L.L.P.
+   Independent Registered Public Accounting Firm: PricewaterhouseCoopers LLP
+        Transfer Agent & Registrar: American Stock Transfer & Trust Co.
+            Custodian of Securities: Brown Brothers Harriman & Co.
+
+                                                                             19
+
+<PAGE>
+
+                               OTHER INFORMATION
+- --------------------------------------------------------------------------------
+
+
+Statement on Quarterly Filing of Complete Portfolio Schedule
+In addition to publishing its complete schedule of portfolio holdings in the
+First and Third Quarter Reports to shareholders, the Company also files its
+complete schedule of portfolio holdings with the Securities and Exchange
+Commission for the first and third quarters of each fiscal year on Form N-Q.
+The Company's Forms N-Q are available on the Commission's website at
+www.sec.gov. The Company's Forms N-Q may be reviewed and copied at the
+Commission's Public Reference Room, and information on the operation of the
+Public Reference Room may be obtained by calling 1-800-SEC-0330. The Company
+also posts its Forms N-Q on its website at: www.adamsexpress.com, under the
+heading "Financial Reports".
+
+Annual Certification
+The Company's CEO has submitted to the New York Stock Exchange the annual CEO
+certification as required by Section 303A.12(a) of the NYSE Listed Company
+Manual.
+
+Proxy Voting Policies and Record
+A description of the policies and procedures that the Company uses to determine
+how to vote proxies relating to portfolio securities owned by the Company and
+information as to how the Company voted proxies relating to portfolio
+securities during the 12 month period ended June 30, 2007 are available (i)
+without charge, upon request, by calling the Company's toll free number at
+(800) 638-2479; (ii) on the Company's website by clicking on "Corporate
+Information" heading on the website; and (iii) on the Securities and Exchange
+Commission's website at www.sec.gov.
+
+Forward-Looking Statements
+This report contains "forward-looking statements" within the meaning of the
+Securities Act of 1933 and the Securities Exchange Act of 1934. By their
+nature, all forward-looking statements involve risks and uncertainties, and
+actual results could differ materially from those contemplated by the
+forward-looking statements. Several factors that could materially affect the
+Company's actual results are the performance of the portfolio of stocks held by
+the Company, the conditions in the U.S. and international financial markets,
+the price at which shares of the Company will trade in the public markets, and
+other factors discussed in the Company's periodic filings with the Securities
+and Exchange Commission.
+
+Privacy Policy
+In order to conduct its business, the Company, through its transfer agent,
+currently American Stock Transfer & Trust Company, collects and maintains
+certain nonpublic personal information about our stockholders of record with
+respect to their transactions in shares of our securities. This information
+includes the stockholder's address, tax identification or Social Security
+number, share balances, and dividend elections. We do not collect or maintain
+personal information about stockholders whose shares of our securities are held
+in "street name" by a financial institution such as a bank or broker.
+
+We do not disclose any nonpublic personal information about you, our other
+stockholders or our former stockholders to third parties unless necessary to
+process a transaction, service an account or as otherwise permitted by law.
+
+To protect your personal information internally, we restrict access to
+nonpublic personal information about our stockholders to those employees who
+need to know that information to provide services to our stockholders. We also
+maintain certain other safeguards to protect your nonpublic personal
+information.
+
+20
+
+<PAGE>
+
+                     STOCKHOLDER INFORMATION AND SERVICES
+- --------------------------------------------------------------------------------
+
+WE ARE OFTEN ASKED --
+
+How do I invest in Adams Express?
+
+Adams Express Common Stock is listed on the New York Stock Exchange. The
+stock's ticker symbol is "ADX" and may be bought and sold through registered
+investment security dealers. Your broker will be able to assist you in this
+regard. In addition, stock may be purchased through our transfer agent,
+American Stock Transfer & Trust Company's INVESTORS CHOICE Plan (see page 22).
+
+Where do I get information on the stock's price, trading and/or net asset value?
+
+The daily net asset value (NAV) per share and closing market price may be
+obtained from our website at www.adamsexpress.com. The daily NAV is also
+available on the NASDAQ Mutual Fund Quotation System under the symbol XADEX.
+The week-ending NAV is published on Saturdays in various newspapers.
+
+Adams Express daily trading is shown in the stock tables of many daily
+newspapers, often with the abbreviated form "AdaEx." Local newspapers
+determine, usually by volume of traded shares, which securities to list. If
+your paper does not carry our listing, please telephone the Company at (800)
+638-2479 or visit our website.
+
+How do I replace a lost certificate(s) or how do I correct a spelling error on
+my certificate?
+
+Your Adams Express stock certificates are valuable documents and should be kept
+in a safe place. For tax purposes, keep a record of each certificate, including
+the cost or market value of the shares it covers at the time acquired. If a
+certificate is lost, destroyed or stolen, notify the transfer agent immediately
+so a "stop transfer" order can be placed on the records to prevent an
+unauthorized transfer of your certificate. The necessary forms and requirements
+to permit the issuance of a replacement certificate will then be sent to you. A
+certificate can be replaced only after the receipt of an affidavit regarding
+the loss accompanied by an open surety bond, for which a small premium is paid
+by the stockholder.
+
+In the event a certificate is issued with the holder's name incorrectly
+spelled, a correction can only be made if the certificate is returned to the
+transfer agent with instructions for correcting the error. Transferring shares
+to another name also requires that the certificate be forwarded to the transfer
+agent with the appropriate assignment forms completed and the signature of the
+registered owner Medallion guaranteed by a bank or member firm of The New York
+Stock Exchange, Inc.
+
+Is direct deposit of my dividend checks available?
+
+Yes, our transfer agent offers direct deposit of your interim dividend and
+year-end distribution checks. You can request direct deposit with American
+Stock Transfer either on-line or by calling them at the phone number provided
+on page 22.
+
+Who do I notify of a change of address?
+
+The transfer agent.
+
+We go to Florida (Arizona) every winter. How do we get our mail from Adams
+Express?
+
+The transfer agent can program a seasonal address into its system; simply send
+the temporary address and the dates you plan to be there to the transfer agent.
+
+I want to give shares to my children, grandchildren, etc. as a gift. How do I
+go about it?
+
+Giving shares of Adams Express is simple and is handled through our transfer
+agent. The stock transfer rules are clear and precise for most forms of
+transfer. They will vary slightly depending on each transfer, so write to the
+transfer agent stating the exact intent of your gift plans and the transfer
+agent will send you the instructions and forms necessary to effect your
+transfer.
+
+How do I transfer shares held at American Stock Transfer (AST)?
+
+There are many circumstances that require the transfer of shares to new
+registrations, e.g., marriage, death, a child reaching the age of maturity, or
+giving shares as a gift. Each situation requires different forms of
+documentation to support the transfer. You may obtain transfer instructions and
+download the necessary forms from our transfer agent's website:
+www.amstock.com. Click on Shareholder Services, then General Shareholder
+Information and Transfer Instructions.
+
+                                                                             21
+
+<PAGE>
+
+               STOCKHOLDER INFORMATION AND SERVICES (CONTINUED)
+- --------------------------------------------------------------------------------
+
+
+DIVIDEND PAYMENT SCHEDULE
+
+The Company presently pays dividends four times a year, as follows: (a) three
+interim distributions on or about March 1, June 1, and September 1, and (b) a
+"year-end" distribution, payable in late December, consisting of the estimated
+balance of the net investment income for the year and the net realized capital
+gain earned through October 31. Stockholders may elect to receive the year-end
+distribution in stock or cash. In connection with this distribution, all
+stockholders of record are sent a dividend announcement notice and an election
+card in mid-November.
+
+Stockholders holding shares in "street" or brokerage accounts may make their
+election by notifying their brokerage house representative.
+
+INVESTORS CHOICE
+
+INVESTORS CHOICE is a direct stock purchase and sale plan, as well as a
+dividend reinvestment plan, sponsored and administered by our transfer agent,
+American Stock Transfer & Trust Company (AST). The Plan provides registered
+stockholders and interested first time investors an affordable alternative for
+buying, selling, and reinvesting in Adams Express shares.
+
+The costs to participants in administrative service fees and brokerage
+commissions for each type of transaction are listed below.
+
+<TABLE>
+         <S>                                     <C>
+
+         Initial Enrollment and
+          Optional Cash Investments
+           Service Fee                            $2.50 per investment
+           Brokerage Commission                        $0.05 per share
+
+         Reinvestment of Dividends*
+           Service Fee                           2% of amount invested
+                                   (maximum of $2.50 per investment)
+           Brokerage Commission                        $0.05 per share
+
+         Sale of Shares
+           Service Fee                                          $10.00
+           Brokerage Commission                        $0.05 per share
+
+         Deposit of Certificates for safekeeping
+          (waived if sold)                                       $7.50
+         Book to Book Transfers                               Included
+         To transfer shares to another participant or to a new
+         participant
+
+         Fees are subject to change at any time.
+</TABLE>
+<TABLE>
+              <S>                                      <C>
+              Minimum and Maximum Cash Investments
+              Initial minimum investment (non-holders)    $500.00
+              Minimum optional investment
+               (existing holders)                          $50.00
+              Electronic Funds Transfer
+               (monthly minimum)                           $50.00
+              Maximum per transaction                  $25,000.00
+              Maximum per year                               NONE
+</TABLE>
+
+A brochure which further details the benefits and features of INVESTORS CHOICE
+as well as an enrollment form may be obtained by contacting AST.
+
+For Non-registered Stockholders
+
+For stockholders whose stock is held by a broker in "street" name, the AST
+INVESTORS CHOICE Direct Stock Purchase and Sale Plan remains available through
+many registered investment security dealers. If your shares are currently held
+in a "street" name or brokerage account, please contact your broker for details
+about how you can participate in AST's Plan or contact AST.
+
+                                  ----------
+
+                                  The Company
+                           The Adams Express Company
+                            Lawrence L. Hooper, Jr.
+                 Vice President, General Counsel and Secretary
+            Seven St. Paul Street, Suite 1140, Baltimore, MD 21202
+                                (800) 638-2479
+                         Website: www.adamsexpress.com
+                       E-mail: contact@adamsexpress.com
+
+                              The Transfer Agent
+                    American Stock Transfer & Trust Company
+                       Address Stockholder Inquiries to:
+                       Shareholder Relations Department
+                                59 Maiden Lane
+                              New York, NY 10038
+                                (877) 260-8188
+                           Website: www.amstock.com
+                           E-mail: info@amstock.com
+
+                       Investors Choice Mailing Address:
+                       Attention: Dividend Reinvestment
+                                 P.O. Box 922
+                              Wall Street Station
+                            New York, NY 10269-0560
+                           Website: www.amstock.com
+                           E-mail: info@amstock.com
+
+*The year-end dividend and capital gain distribution will usually be made in
+newly issued shares of common stock. There are no fees or commissions in
+connection with this dividend and capital gain distribution when made in newly
+issued shares.
+
+22
+
+<PAGE>
+
+                              BOARD OF DIRECTORS
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                                    Number of
+                                                                                    portfolios
+                                                                                    in fund
+                          Position  Term   Length                                   complex
+Personal                  held with of     of time Principal Occupations            overseen    Other
+Information               the fund  office served  during the last 5 years          by director directorships
+- ---------------------------------------------------------------------------------------------------------------------------
+<S>                       <C>       <C>    <C>     <C>                              <C>         <C>
+Independent Directors
+ Enrique R. Arzac, Ph.D.  Director   One    Since  Professor of Finance and             Two     Director of Petroleum &
+ 7 St. Paul Street,                  Year   1983   Economics, formerly, Vice Dean               Resources Corporation and
+ Suite 1140                                        of Academic Affairs of the                   Credit Suisse Asset
+ Baltimore, MD 21202                               Graduate School of Business,                 Management Funds
+ Age 66                                            Columbia University.                         (28 funds) (investment
+                                                                                                companies), and Epoch
+                                                                                                Holdings Corporation (asset
+                                                                                                management).
+- ---------------------------------------------------------------------------------------------------------------------------
+ Phyllis O. Bonanno       Director   One    Since  President & CEO of International     Two     Director of Petroleum &
+ 7 St. Paul Street,                  Year   2003   Trade Solutions, Inc.                        Resources Corporation
+ Suite 1140                                        (consultants). Formerly,                     (investment company), Borg-
+ Baltimore, MD 21202                               President of Columbia College,               Warner Inc. (industrial),
+ Age 64                                            Columbia, South Carolina, and                Mohawk Industries, Inc.
+                                                   Vice President of Warnaco Inc.               (carpets and flooring).
+                                                   (apparel).
+- ---------------------------------------------------------------------------------------------------------------------------
+ Daniel E. Emerson        Director   One    Since  Retired Executive Vice               Two     Director of Petroleum &
+ 7 St. Paul Street,                  Year   1982   President of NYNEX Corp.                     Resources Corporation
+ Suite 1140                                        (communications), retired                    (investment company).
+ Baltimore, MD 21202                               Chairman of the Board of both
+ Age 83                                            NYNEX Information Resources
+                                                   Co. and NYNEX Mobile
+                                                   Communications Co. Previously
+                                                   Executive Vice President and
+                                                   Director of New York Telephone
+                                                   Company.
+- ---------------------------------------------------------------------------------------------------------------------------
+ Frederic A. Escherich    Director   One    Since  Private Investor. Formerly,          Two     Director of Petroleum &
+ 7 St. Paul Street,                  Year   2006   Managing Director and head of                Resources Corporation
+ Suite 1140                                        Mergers and Acquisitions                     (investment company).
+ Baltimore, MD 21202                               Research and the Financial
+ Age 55                                            Advisory Department with
+                                                   J.P. Morgan.
+- ---------------------------------------------------------------------------------------------------------------------------
+ Roger W. Gale, Ph.D.     Director   One    Since  President & CEO of GF Energy,        Two     Director of Petroleum &
+ 7 St. Paul Street,                  Year   2005   LLC (consultants to electric                 Resources Corporation
+ Suite 1140                                        power companies). Formerly,                  (investment company), Ormat
+ Baltimore, MD 21202                               member of management group,                  Technologies, Inc.
+ Age 61                                            PA Consulting Group (energy                  (geothermal and renewable
+                                                   consultants).                                energy), and U.S. Energy
+                                                                                                Association.
+- ---------------------------------------------------------------------------------------------------------------------------
+ Thomas H. Lenagh         Director   One    Since  Financial Advisor. Formerly,         Two     Director of Petroleum &
+ 7 St. Paul Street,                  Year   1968   Chairman of the Board and CEO                Resources Corporation,
+ Suite 1140                                        of Greiner Engineering Inc.                  Cornerstone Funds, Inc. (3
+ Baltimore, MD 21202                               (formerly Systems Planning                   funds) (investment
+ Age 89                                            Corp.) (consultants). Formerly,              companies), and Photonics
+                                                   Treasurer and Chief Investment               Product Group (crystals).
+                                                   Officer of the Ford Foundation
+                                                   (charitable foundation).
+- ---------------------------------------------------------------------------------------------------------------------------
+ Kathleen T. McGahran,    Director   One    Since  Principal & Director of Pelham       Two     Director of Petroleum &
+ Ph.D., J.D., C.P.A.                 Year   2003   Associates, Inc. (executive                  Resources Corporation
+ 7 St. Paul Street,                                education), Adjunct Associate                (investment company).
+ Suite 1140                                        Professor, Columbia Executive
+ Baltimore, MD 21202                               Education, Graduate School of
+ Age 57                                            Business, Columbia University.
+                                                   Formerly, Associate Dean and
+                                                   Director of Executive Education,
+                                                   and Associate Professor,
+                                                   Columbia University.
+- ---------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+                                                                             23
+
+<PAGE>
+
+                        BOARD OF DIRECTORS (CONTINUED)
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                                    Number of
+                                                                                    portfolios
+                                                                                    in fund
+                        Position  Term   Length                                     complex
+Personal                held with of     of time  Principal Occupations             overseen    Other
+Information             the fund  office served   during the last 5 years           by director directorships
+- ----------------------------------------------------------------------------------------------------------------------------
+<S>                     <C>       <C>    <C>      <C>                               <C>         <C>
+Independent Directors (continued)
+
+ Craig R. Smith, M.D.   Director   One   Since    President, Williston Consulting       Two     Director of Petroleum &
+ 7 St. Paul Street,                Year  2005     LLC (consultants to                           Resources Corporation
+ Suite 1140                                       pharmaceutical and                            (investment company),
+ Baltimore, MD 21202                              biotechnology industries), and                LaJolla Pharmaceutical
+ Age 61                                           Chief Operating Officer and                   Company, and Depomed, Inc.
+                                                  Director of Algenol Biofuels Inc.             (specialty pharmaceuticals).
+                                                  (ethanol manufacturing).
+                                                  Formerly, Chairman, President &
+                                                  CEO of Guilford
+                                                  Pharmaceuticals
+                                                  (pharmaceuticals &
+                                                  biotechnology).
+- ----------------------------------------------------------------------------------------------------------------------------
+
+Interested Director
+
+ Douglas G. Ober        Director,  One   Director Chairman & CEO of the                 Two     Director of Petroleum &
+ 7 St. Paul Street,     Chairman   Year  Since    Company and Petroleum &                       Resources Corporation
+ Suite 1140             and              1989;    Resources Corporation.                        (investment company).
+ Baltimore, MD 21202    CEO              Chairman
+ Age 61                                  of the
+                                         Board
+                                         Since
+                                         1991
+- ----------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+24
+
+<PAGE>
+
+                           THE ADAMS EXPRESS COMPANY
+- --------------------------------------------------------------------------------
+
+
+                              Board Of Directors
+
+             Enrique R. Arzac/1,4,5 /   Thomas H. Lenagh/2,3/
+
+             Phyllis O. Bonanno/1,4,5/  Kathleen T. McGahran/2,4/
+
+             Daniel E. Emerson/1,3,5 /  Douglas G. Ober/1/
+
+             Frederic A. Escherich/2,3/ Craig R. Smith/2,4/
+
+             Roger W. Gale/1,3,5/
+
+                       --------
+                       /1. /Member of Executive Committee
+                      /2./ Member of Audit Committee
+                      /3./ Member of Compensation Committee
+                      /4./ Member of Retirement Benefits Committee
+                      /5./ Member of Nominating and Governance Committee
+
+
+                                   Officers
+
+             Douglas G. Ober            Chairman and Chief
+                                          Executive Officer
+
+             Joseph M. Truta            President
+
+             Lawrence L. Hooper, Jr.    Vice President, General
+                                          Counsel and Secretary
+
+             Maureen A. Jones           Vice President, Chief
+                                          Financial Officer and
+                                          Treasurer
+
+             David R. Schiminger        Vice President -- Research
+
+             D. Cotton Swindell         Vice President -- Research
+
+             David D. Weaver            Vice President -- Research
+
+             Christine M. Sloan         Assistant Treasurer
+
+             Geraldine H. Pare          Assistant Secretary
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Graphic
+
+
+
+                                          THE ADAMS EXPRESS COMPANY
+
+                                            SEVEN ST.PAUL STREET
+
+                                                 SUITE 1140
+
+                                             BALTIMORE, MD  21202
+
+                                        (410)752-5900 OR (800)638-2479
+
+                                             www.adamsexpress.com
+
+
+
+Item 2. Code of Ethics.
+
+On  June 12, 2003, the Board of Directors adopted a code  of
+ethics  that  applies  to Registrant's  principal  executive
+officer and principal financial officer. The code of  ethics
+is     available     on     Registrant's     website     at:
+www.adamsexpress.com. Since the code of ethics  was  adopted
+there  have  been no amendments to it nor have  any  waivers
+from any of its provisions been granted.
+
+Item 3. Audit  Committee  Financial  Expert.
+
+The  board of directors has determined that at least one  of
+the  members  of  Registrant's  audit  committee  meets  the
+definition of audit committee financial expert as that  term
+is  defined by the Securities and Exchange Commission.   The
+director on the Registrant's audit committee whom the  board
+of   directors  has  determined  meets  such  definition  is
+Kathleen  T.  McGahran,  who  is  independent  pursuant   to
+paragraph (a)(2) of this Item.
+
+Item 4.  Principal Accountant Fees and Services.
+
+     (a)   Audit  Fees.  The aggregate fees for professional
+services    rendered    by    its   independent    auditors,
+PricewaterhouseCoopers LLP, for the audits of  the Company's
+annual  and  semi-annual financial statements for  2007  and
+2006 were $76,630 and $77,405 respectively.
+
+     (b)   Audit  Related Fees. There were no  audit-related
+fees in 2007 and 2006.
+
+     (c)   Tax  Fees.  The aggregate fees to Registrant  for
+professional services rendered by PricewaterhouseCoopers LLP
+for  the review of Registrant's excise tax calculations  and
+preparations  of federal, state and excise tax  returns  for
+2007 and 2006 were $12,070 and $11,278, respectively.
+
+     (d)   All Other Fees.  The aggregate fees to Registrant
+by  PricewaterhouseCoopers LLP other than for  the  services
+referenced above for 2007 and 2006 were $5,766 and  $10,044,
+respectively,  which related to the review of the  Company's
+procedures for calculating the amounts to be paid or granted
+to  the  Company's officers in accordance with the Company's
+cash   incentive   plan  and  the  2005   Equity   Incentive
+Compensation  Plan,  review  of the  Company's  calculations
+related to those plans, and preparation of a report  to  the
+Company's Compensation Committee.
+
+     (e)   (1)  Audit Committee Pre-Approval Policy.  As  of
+2007,  all  services  to  be  performed  for  Registrant  by
+PricewaterhouseCoopers LLP must be pre-approved by the audit
+committee.  All services performed in 2007 were pre-approved
+by the committee.
+
+     (2) Not applicable.
+
+     (f)  Not applicable.
+
+     (g)   The aggregate fees by PricewaterhouseCoopers  LLP
+for  non-audit professional services rendered to  Registrant
+for 2007 and 2006 were $17,836 and $21,322, respectively.
+
+     (h)   The  Registrant's audit committee has  considered
+the provision by PricewaterhouseCoopers LLP of the non-audit
+services  described above and found that they are compatible
+with maintaining PricewaterhouseCoopers LLP's independence.
+
+Item 5. Audit Committee of Listed Registrants.
+
+       (a)     The Registrant has a standing audit committee
+established in accordance with Section 3(a)(58)(A)   of  the
+Securities  Exchange Act of 1934. The members of  the  audit
+committee  are:  Kathleen  T.  McGahran,  Chair,  Daniel  E.
+Emerson, Frederic A. Escherich, and Craig R. Smith.
+
+      (B) Not applicable.
+
+Item  6. Schedule of Investments - This schedule is included
+as  part of the report to shareholders filed under Item 1 of
+this form.
+
+Item  7.  Disclosure of Proxy Voting Policies and Procedures
+for Closed-End Management Investment Companies.
+
+PROXY VOTING GUIDELINES
+
+The  Adams  Express  Company (Adams)  follows  long-standing
+general  guidelines  for  the voting  of  portfolio  company
+proxies and takes very seriously its responsibility to  vote
+all   such  proxies.  The  portfolio  company  proxies   are
+evaluated  by our research staff and voted by our  portfolio
+management  team,  and  we annually  provide  the  Board  of
+Directors with a report on how proxies were voted during the
+previous year. We do not use an outside service to assist us
+in voting our proxies.
+
+As  an internally-managed investment company, Adams uses its
+own  staff  of research analysts and portfolio managers.  In
+making  the  decision  to  invest  in  a  company  for   the
+portfolio,  among the factors the research team analyses  is
+the integrity and competency of the company's management. We
+must be satisfied that the companies we invest in are run by
+managers  with  integrity. Therefore, having evaluated  this
+aspect  of  our  portfolio companies' managements,  we  give
+significant  weight to the recommendations of the  company's
+management in voting on proxy issues.
+
+We vote proxies on a case-by-case basis according to what we
+deem to be the best long-term interests of our shareholders.
+The  key  over-riding principle in any proxy  vote  is  that
+stockholders  be  treated  fairly  and  equitably   by   the
+portfolio company's management. In general, on the  election
+of  directors and on routine issues that we do  not  believe
+present  the  possibility  of an  adverse  impact  upon  our
+investment,  after  reviewing whether  applicable  corporate
+governance   requirements  as   to   board   and   committee
+composition  have been met, we will vote in accordance  with
+the  recommendations  of the company's management.  When  we
+believe that the management's recommendation is not  in  the
+best  interests  of our stockholders, we will  vote  against
+that recommendation.
+
+Our general guidelines for when we will vote contrary to the
+recommendation   of   the  portfolio  company   management's
+recommendation are:
+
+Stock Options
+
+Our  general guideline is to vote against stock option plans
+that we believe are unduly dilutive of our stock holdings in
+the  company. We use a general guideline that we  will  vote
+against  any  stock option plan that results in dilution  in
+shares outstanding exceeding 4%. Most stock option plans are
+established  to  motivate and retain key  employees  and  to
+reward  them for their achievement. An analysis of  a  stock
+option plan can not be made in a vacuum but must be made  in
+the context of the company's overall compensation scheme. In
+voting  on  stock  option plans, we  give  consideration  to
+whether  the stock option plan is broad-based in the  number
+of  employees who are eligible to receive grants  under  the
+plan. We generally vote against plans that permit re-pricing
+of  grants  or the issuance of options with exercise  prices
+below the grant date value of the company's stock.
+
+Corporate Control/Governance Issues
+
+Unless  we  conclude that the proposal is favorable  to  our
+interests as a long-term shareholder in the company, we have
+a long-standing policy of voting against proposals to create
+a  staggered  board of directors. In conformance  with  that
+policy,  we  will  generally vote in  favor  of  shareholder
+proposals to eliminate the staggered election of directors.
+
+Unless  we  conclude that the proposal is favorable  to  our
+interests  as  a long-term shareholder in the  company,  our
+general  policy is to vote against amendments to a company's
+charter  that  can be characterized as blatant anti-takeover
+provisions.
+
+With  respect  to  so-called golden parachutes  and  other
+severance packages, it is our general policy to vote against
+proposals  relating  to  future  employment  contracts  that
+provide  that  compensation will be paid  to  any  director,
+officer  or  employee that is contingent upon  a  merger  or
+acquisition of the company.
+
+We generally vote for proposals to require that the majority
+of a board of directors consist of independent directors and
+vote  against proposals to establish a retirement  plan  for
+non-employee directors.
+
+We  have  found that most stockholder proposals relating  to
+social  issues focus on very narrow issues that either  fall
+within the authority of the company's management, under  the
+oversight  of its board of directors, to manage the  day-to-
+day  operations of the company or concern matters  that  are
+more  appropriate for global solutions rather than  company-
+specific ones. We consider these proposals on a case-by-case
+basis  but  usually are persuaded management's  position  is
+reasonable   and   vote  in  accordance  with   management's
+recommendation on these types of proposals.
+
+Item   8.   Portfolio  Managers  of  Closed-End   Management
+Investment Companies.
+
+(a)  (1) Douglas  G.  Ober, Chairman and  Chief  Executive
+     Officer, and Joseph M. Truta, President, comprise the 2
+     person portfolio management team for the Registrant. Mr.
+     Ober and  Mr. Truta have  served as  portfolio managers
+     for the Registrant since 1991. This information  is  as
+     of February 19,  2008.  Mr.  Ober is the lead member of
+     the portfolio management team. Mr. Ober  and Mr.  Truta
+     receive  investment  recommendations  from  a  team  of
+     research analysts and make decisions jointly  about any
+     equity transactions in  the portfolio.  Concurrence  of
+     both portfolio  managers  is required for an investment
+     recommendation to be approved.
+
+     (2)   Mr. Ober and Mr. Truta also comprised in 2007 the
+     portfolio   management  team  for   Registrant's   non-
+     controlled affiliate, Petroleum & Resources Corporation
+     (Petroleum), a registered investment company with total
+     net  assets  of $978,919,829 as of December  31,  2007.
+     Robert  E.  Sullivan was added to Petroleum's portfolio
+     management team effective January 1, 2008.  Mr. Ober is
+     Chairman,  Chief  Executive Officer  and  President  of
+     Petroleum, Mr. Truta is Executive Vice President,  and,
+     effective  January 1, 2008, Mr. Sullivan  is  Executive
+     Vice President.  This information is as of February 19,
+     2008.   The  Petroleum  fund is a non-diversified  fund
+     focusing  on  the energy and natural resources  sectors
+     and Adams is a diversified fund with a different focus,
+     and  there are few material conflicts of interest  that
+     may  arise  in connection with the portfolio  managers'
+     management of both funds.  The funds do not buy or sell
+     securities or other portfolio holdings to or  from  the
+     other,  and  procedures  and  policies  are  in   place
+     covering the sharing of expenses and the allocation  of
+     investment opportunities, including bunched orders  and
+     investments  in initial public offerings,  between  the
+     funds.
+
+     (3)   The portfolio managers are compensated through  a
+     three-component plan, consisting of salary, annual cash
+     incentive    compensation,   and    equity    incentive
+     compensation.  The value of each component in any  year
+     is  determined by the Compensation Committee, comprised
+     solely of independent director members of the Board  of
+     Directors.    Salaries   are   determined   by    using
+     appropriate industry surveys and information about  the
+     local  market as well as general inflation  statistics.
+     Cash  incentive compensation is based on a  combination
+     of  absolute and relative fund performance over one and
+     three  year  periods as well as individual  success  at
+     meeting  goals  and  objectives set  by  the  Board  of
+     Directors  at  the  beginning  of  each  year.   Target
+     incentives are set based on 80% of salary for the Chief
+     Executive  Officer and 60% of salary for the President.
+     Two-thirds  of each individual's annual cash  incentive
+     is   based  on  fund  performance  and  one  third   on
+     individual  success.  The portion based on  performance
+     is  determined using a scale in which the target can be
+     earned  by absolute fund pre- tax performance  of  10%.
+     The  scale ranges from zero to 125%  of  target.    The
+     result  is then modified by an average of the  one  and
+     three year performance relative to the S&P 500, whereby
+     each one percent outperformance or underperformance  by
+     the  fund  adds  or deducts 5% from the  percentage  of
+     target   earned  based  on  the  scale.   The   maximum
+     percentage  of target which may be earned is  200%  and
+     the  minimum  is zero.  Equity incentive  compensation,
+     based  on a plan approved by shareholders in 2005,  can
+     take  several forms.  Following approval of  the  plan,
+     grants  of  restricted stock were made to the portfolio
+     managers   in  April  2005,  with  vesting   in   equal
+     proportions over a three year period.  The size of  the
+     grants  was  determined  by the Compensation  Committee
+     with   the   assistance  of  an  outside   compensation
+     consultant.  Grants of restricted stock were also  made
+     on  January  11, 2007, and January 12,  2006,  each  of
+     which  will  vest at the end of three years thereafter,
+     but  only upon the achievement of specified performance
+     criteria.   For the 2007 grants, the target  number  of
+     restricted shares will vest on January 11, 2010, if, on
+     January  1,  2010, the Company's total three  year  net
+     asset  value ("NAV") return meets or exceeds the  three
+     year  total  NAV  return  of a  hypothetical  portfolio
+     comprised of a 50/50 blend of the S&P 500 Index and the
+     Lipper    Large   Cap   Core   Mutual   Fund    Average
+     ("Hypothetical Portfolio"), with a lesser percentage or
+     no  shares  being  earned if the  Company's  total  NAV
+     return  trails  that  of  the  Hypothetical  Portfolio,
+     depending  on  the  level of underperformance  on  that
+     date.   In  addition,  if,  on  January  1,  2010,  the
+     Company's three year total NAV return exceeds  that  of
+     the  Hypothetical  Portfolio, an additional  number  of
+     shares will be earned and vest, depending on the  level
+     of  outperformance.   For the 2006 grants,  the  target
+     number  of  restricted shares will vest at the  end  of
+     three  years, with certain percentages of shares  being
+     deemed   to   have  been  earned  based  on   achieving
+     performance  goals  over  specified  intervening   time
+     periods.   The first-one sixth of the target number  of
+     shares  were  earned on January 1,  2007,  because  the
+     Company's  one year total NAV return exceeded  that  of
+     the Hypothetical Portfolio on that date.  The next one-
+     third  of  the target number of shares were  earned  on
+     January  1, 2008, because the Company's two year  total
+     NAV  return exceeded that of the Hypothetical Portfolio
+     on  that date.  The remaining 50% of the target  number
+     of  shares  will be deemed to have been earned  if,  on
+     January  1,  2009, the Company's three year  total  NAV
+     return  meets  or  exceeds  that  of  the  Hypothetical
+     Portfolio, with a lesser percentage or no shares  being
+     earned if the Company's total NAV return trails that of
+     the  Hypothetical Portfolio, depending on the level  of
+     underperformance.   In  addition,  as  with  the   2007
+     grants,  additional shares will be earned and  vest  if
+     the  Company's three year total NAV return exceeds that
+     of  the Hypothetical Portfolio, depending on the  level
+     of  outperformance on that date.  Dividends and capital
+     gains  paid  on  the Company's shares of  Common  Stock
+     ("dividends") will be paid on all of the target  number
+     of  shares of restricted stock, when such dividends are
+     paid  on the Common Stock, except that no dividends  or
+     capital   gains  will be paid on any  shares  that  are
+     forfeited due to the failure to achieve the performance
+     criteria  described above.  The basis for the portfolio
+     managers'   cash   incentive   and   equity   incentive
+     compensation determinations for Petroleum is  the  same
+     as  for  Adams,  except that the portion  of  the  cash
+     incentive  based  upon fund performance  uses  the  Dow
+     Jones  Oil and Gas Index and the S&P 500 Index  as  the
+     benchmarks in a 80/20 ratio, over a one and three  year
+     period,  and  the  benchmarks  used  to  measure   fund
+     performance  for  equity incentive  compensation  is  a
+     hypothetical  portfolio comprised of a 80/20  blend  of
+     the  Dow Jones Oil and Gas Index and the S&P 500 Index.
+     All  of  the  above information is as of  December  31,
+     2007, except as noted.
+
+     (4)    Using a valuation date of December 31, 2007, Mr.
+     Ober  beneficially owns equity securities in Registrant
+     of over $1,000,000.  Mr. Truta beneficially owns equity
+     securities in Registrant of over $1,000,000.
+
+Item   9:  Purchases  of  Equity  Securities  by  Closed-End
+Management Investment Company and Affiliated Purchasers.
+
+                                                 Maximum
+                                     Total      Number (or
+                                   Number of   Approximate
+                                  Shares (or   Dollar Value)
+             Total                  Units)    of Shares (or
+             Number               Purchased    Units) that
+               of      Average    as Part of   May Yet Be
+             Shares     Price      Publicly     Purchased
+              (or      Paid per   Announced     Under the
+             Units)   Share (or    Plans or     Plans or
+Period(2)  Purchased    Unit)      Programs     Programs
+- --------   ---------  ---------   ---------    ---------
+Jan. 2007   158,900    $ 13.83     158,900     3,927,692
+Feb. 2007   236,055    $ 14.03     236,055     3,691,637
+Mar. 2007   409,219    $ 13.82     409,219     3,282,418
+Apr. 2007   117,050    $ 14.17     117,050     3,165,368
+May 2007          0    $     0           0     3,165,368
+June 2007    67,900    $ 15.01      67,900     3,097,468
+Jul. 2007    98,557    $ 14.96      98,557     2,998,911
+Aug. 2007   175,850    $ 14.35     175,850     2,823,061
+Sep. 2007   128,400    $ 14.74     128,400     2,694,661
+Oct. 2007   111,742    $ 14.93     111,742     2,582,919
+Nov. 2007         0    $     0           0     2,582,919
+Dec. 2007    82,100    $ 13.56      82,100     4,186,336
+- --------   ---------  ---------   ---------    ---------
+Total     1,585,773(1) $ 14.20   1,585,773(2)  4,186,336(2)
+
+
+(1)   There  were no shares purchased other than  through  a
+publicly announced plan or program.
+(2.a)  The Plan was reapproved on December 13, 2007.
+(2.b)   The   share  amount  approved  in  2007  was  5%  of
+outstanding  shares, or approximately 4,268,436 shares.
+(2.c) Unless reapproved, the  Plan will  expire on  or about
+December 11, 2008.
+(2.d) None.
+(2.e) None.
+
+Item 10. Submission of Matters to a Vote of Security Holders.
+
+There  were no material changes to the procedures  by  which
+shareholders  may  recommend nominees  to  the  Registrant's
+board  of directors made or implemented after the Registrant
+last provided disclosure in response to the requirements  of
+Item 7(d)(2)(ii)(G) of Schedule 14A (17 CFR 240.14a-101), or
+this Item.
+
+Item 11. Controls and Procedures.
+
+Conclusions  of principal officers concerning  controls  and
+procedures.
+
+  (a)   As of February 28, 2008, an evaluation was performed
+under  the  supervision and with the  participation  of  the
+officers  of  Registrant, including the principal  executive
+officer (PEO) and principal financial officer (PFO), of  the
+effectiveness   of  Registrant's  disclosure   controls  and
+procedures.   Based  on  that  evaluation, the  Registrant's
+officers, including the PEO and PFO, concluded that,  as  of
+February  28, 2008, the Registrant's disclosure controls and
+procedures  were reasonably designed so as  to  ensure  that
+material  information  relating to the  Registrant  is  made
+known to the PEO and PFO.
+
+   (b)    There  have  been no significant  changes  in  the
+Registrant's  internal control over financial  reporting (as
+defined in Rule 30a-3(d) under the Investment Company Act of
+1940   (17   CFR  270.30a-3(d))  that  occurred  during  the
+Registrant's  last  fiscal  half-year  that  has  materially
+affected, or is reasonably likely to materially affect,  the
+Registrant's internal control over financial reporting.
+
+Item 12. Exhibits attached hereto. (Attach certifications as
+exhibits)
+
+(1)  Not  applicable. See Registrant's response to  Item  2,
+above.
+
+(2)  Separate  certifications by the Registrant's  principal
+executive officer and principal financial officer,  pursuant
+to  Section  302  of  the Sarbanes-Oxley  Act  of  2002  and
+required by Rule 30a-2 under the Investment Company  Act  of
+1940, are attached.
+
+
+Signatures:
+
+Pursuant to the requirements of the Securities Exchange  Act
+of  1934  and  the  Investment  Company  Act  of  1940,  the
+Registrant has duly caused this report to be signed  on  its
+behalf by the undersigned, thereunto duly authorized.
+
+       THE ADAMS EXPRESS COMPANY
+
+BY: /s/ Douglas G. Ober
+        -----------------------
+        Douglas G. Ober
+        Chief Executive Officer
+	(Principal Executive Officer)
+
+Date:   February 28, 2008
+
+Pursuant to the requirements of the Securities Exchange  Act
+of  1934 and the Investment Company Act of 1940, this report
+has been signed below by the following persons on behalf  of
+the  Registrant  and  in the capacities  and  on  the  dates
+indicated.
+
+
+
+BY: /s/ Douglas G. Ober
+        -----------------------
+        Douglas G. Ober
+        Chief Executive Officer
+	(Principal Executive Officer)
+
+Date:   February 28, 2008
+
+
+BY: /s/ Maureen A. Jones
+        -----------------------
+        Maureen A. Jones
+        Vice President, Chief Financial Officer and Treasurer
+	(Principal Financial Officer)
+
+Date:   February 28, 2008
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.CERT
+<SEQUENCE>2
+<FILENAME>adx302ceo.txt
+<TEXT>
+
+
+
+
+
+
+
+                        CERTIFICATIONS
+                        --------------
+
+I, Douglas G. Ober, certify that:
+
+1.  I  have reviewed this report on Form N-CSR of The  Adams
+Express Company;
+
+2.   Based on my knowledge, this report does not contain any
+untrue  statement  of a material fact or  omit  to  state  a
+material  fact  necessary to make the  statements  made,  in
+light of the circumstances under which such statements  were
+made,  not misleading with respect to the period covered  by
+this report;
+
+3.    Based  on my knowledge, the financial statements,  and
+other  financial information included in this report, fairly
+present  in  all material respects the financial  condition,
+results of operations, changes in net assets, and cash flows
+(if  the  financial  statements are required  to  include  a
+statement of cash flows) of the registrant as of,  and  for,
+the periods presented in this report;
+
+4.    The registrant's other certifying officer(s) and I are
+responsible  for  establishing  and  maintaining  disclosure
+controls  and procedures (as defined in Rule 30a-3(c)  under
+the  Investment  Company Act of 1940) and  internal  control
+over  financial reporting (as defined in Rule 30a-3(d) under
+the  Investment Company Act of 1940) for the registrant  and
+have:
+
+(a)   Designed  such disclosure controls and procedures,  or
+caused  such  disclosure  controls  and  procedures  to   be
+designed  under  our  supervision, to ensure  that  material
+information  relating  to  the  registrant,  including   its
+consolidated  subsidiaries, is made known to  us  by  others
+within  those  entities, particularly during the  period  in
+which this report is being prepared;
+
+(b)    Designed   such  internal  control   over   financial
+reporting,  or  caused such internal control over  financial
+reporting  to be designed under our supervision, to  provide
+reasonable assurance regarding the reliability of  financial
+reporting  and  the preparation of financial statements  for
+external  purposes  in  accordance with  generally  accepted
+accounting principles;
+
+(c)    Evaluated  the  effectiveness  of  the   registrant's
+disclosure  controls and procedures and  presented  in  this
+report  our  conclusions  about  the  effectiveness  of  the
+disclosure controls and procedures, as of a date  within  90
+days  prior to the filing date of this report based on  such
+evaluation; and
+
+(d)  Disclosed in this report any change in the registrant's
+internal  control  over  financial reporting  that  occurred
+during  the  second fiscal quarter of the period covered  by
+this  report that has materially affected, or is  reasonably
+likely  to  materially  affect,  the  registrant's  internal
+control over financial reporting; and
+
+5.   The registrant's other certifying officer(s) and I have
+disclosed  to  the  registrant's  auditors  and  the   audit
+committee of the registrant's board of directors (or persons
+performing the equivalent functions):
+
+(a)  All significant deficiencies and material weaknesses in
+the  design or operation of internal control over  financial
+reporting  which  are reasonably likely to adversely  affect
+the  registrant's ability to record, process, summarize, and
+report financial information; and
+
+(b)   Any  fraud,  whether  or not material,  that  involves
+management or other employees who have a significant role in
+the registrant's internal control over financial reporting.
+
+
+
+Date: February 28, 2008
+
+
+  /s/ Douglas G. Ober
+      ----------------------
+      Douglas G. Ober
+      Chief Executive Officer
+      (Principal Executive Officer)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.CERT
+<SEQUENCE>3
+<FILENAME>adx302cfo.txt
+<TEXT>
+
+
+
+
+
+
+
+                        CERTIFICATIONS
+                        --------------
+
+I, Maureen A. Jones, certify that:
+
+1.  I  have reviewed this report on Form N-CSR of The  Adams
+Express Company;
+
+2.   Based on my knowledge, this report does not contain any
+untrue  statement  of a material fact or  omit  to  state  a
+material  fact  necessary to make the  statements  made,  in
+light of the circumstances under which such statements  were
+made,  not misleading with respect to the period covered  by
+this report;
+
+3.    Based  on my knowledge, the financial statements,  and
+other  financial information included in this report, fairly
+present  in  all material respects the financial  condition,
+results of operations, changes in net assets, and cash flows
+(if  the  financial  statements are required  to  include  a
+statement of cash flows) of the registrant as of,  and  for,
+the periods presented in this report;
+
+4.    The registrant's other certifying officer(s) and I are
+responsible  for  establishing  and  maintaining  disclosure
+controls  and procedures (as defined in Rule 30a-3(c)  under
+the  Investment  Company Act of 1940) and  internal  control
+over  financial reporting (as defined in Rule 30a-3(d) under
+the  Investment Company Act of 1940) for the registrant  and
+have:
+
+(a)   Designed  such disclosure controls and procedures,  or
+caused  such  disclosure  controls  and  procedures  to   be
+designed  under  our  supervision, to ensure  that  material
+information  relating  to  the  registrant,  including   its
+consolidated  subsidiaries, is made known to  us  by  others
+within  those  entities, particularly during the  period  in
+which this report is being prepared;
+
+(b)    Designed   such  internal  control   over   financial
+reporting,  or  caused such internal control over  financial
+reporting  to be designed under our supervision, to  provide
+reasonable assurance regarding the reliability of  financial
+reporting  and  the preparation of financial statements  for
+external  purposes  in  accordance with  generally  accepted
+accounting principles;
+
+(c)    Evaluated  the  effectiveness  of  the   registrant's
+disclosure  controls and procedures and  presented  in  this
+report  our  conclusions  about  the  effectiveness  of  the
+disclosure controls and procedures, as of a date  within  90
+days  prior to the filing date of this report based on  such
+evaluation; and
+
+(d)  Disclosed in this report any change in the registrant's
+internal  control  over  financial reporting  that  occurred
+during  the  second fiscal quarter of the period covered  by
+this  report that has materially affected, or is  reasonably
+likely  to  materially  affect,  the  registrant's  internal
+control over financial reporting; and
+
+5.   The registrant's other certifying officer(s) and I have
+disclosed  to  the  registrant's  auditors  and  the   audit
+committee of the registrant's board of directors (or persons
+performing the equivalent functions):
+
+(a)  All significant deficiencies and material weaknesses in
+the  design or operation of internal control over  financial
+reporting  which  are reasonably likely to adversely  affect
+the  registrant's ability to record, process, summarize, and
+report financial information; and
+
+(b)   Any  fraud,  whether  or not material,  that  involves
+management or other employees who have a significant role in
+the registrant's internal control over financial reporting.
+
+
+
+Date: February 28, 2008
+
+  /s/ Maureen A. Jones
+      ----------------------
+      Maureen A. Jones
+      Vice President, Chief Financial Officer and Treasurer
+      (Principal Financial Officer)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.906 CERT
+<SEQUENCE>4
+<FILENAME>adx906.txt
+<TEXT>
+
+
+Certification of Principal Executive Officer
+
+     In  connection with the Certified Shareholder Report of
+The  Adams Express Company (the Company) on Form N-CSR for
+the  period  ended  December 31, 2007,  as  filed  with  the
+Securities  and Exchange Commission on the date hereof  (the
+Report), I, Douglas G. Ober, Chairman and Chief  Executive
+Officer  of  the  Company, certify, pursuant  to  18  U.S.C.
+Section  1350,  as adopted pursuant to Section  906  of  the
+Sarbanes-Oxley Act of 2002, that:
+
+     (1)  The Report fully complies with the requirements of
+          Section  13(a) or 15(d) of the Securities Exchange
+          Act of 1934; and
+     (2)  The  information  contained in the  Report  fairly
+          presents, in all material respects, the financial
+          condition and results of operations of the Company.
+
+Date: February 28, 2008
+
+  /s/ Douglas G. Ober
+      -----------------------
+      Douglas G. Ober
+      Chief Executive Officer
+      (Principal Executive Officer)
+
+     A signed original of this written statement required by
+Section    906,    or    other   document    authenticating,
+acknowledging,  or  otherwise adopting  the  signature  that
+appears  in typed form with the electronic version  of  this
+written statement required by Section 906, has been provided
+to  the  Company  and will be retained by  the  Company  and
+furnished to the Securities and Exchange Commission  or  its
+staff upon request.
+
+
+Certification of Principal Financial Officer
+
+     In  connection with the Certified Shareholder Report of
+The  Adams Express Company (the Company) on Form N-CSR for
+the  period  ended  December 31, 2007,  as  filed  with  the
+Securities  and Exchange Commission on the date hereof  (the
+Report),  I,  Maureen A. Jones, Vice President, Chief
+Financial  Officer and Treasurer of the Company, certify,
+pursuant  to  18 U.S.C.  Section 1350, as adopted pursuant
+to Section 906  of the Sarbanes-Oxley Act of 2002, that:
+
+     (1)  The Report fully complies with the requirements of
+          Section  13(a) or 15(d) of the Securities Exchange
+          Act of 1934; and
+     (2)  The  information  contained in the  Report  fairly
+          presents, in all material respects, the financial
+          condition and results of operations of the Company.
+
+Date: February 28, 2008
+
+  /s/ Maureen A. Jones
+      -----------------------
+      Maureen A. Jones
+      Vice President, Chief Financial Officer and Treasurer
+      (Principal Financial Officer)
+
+     A signed original of this written statement required by
+Section    906,    or    other   document    authenticating,
+acknowledging,  or  otherwise adopting  the  signature  that
+appears  in typed form with the electronic version  of  this
+written statement required by Section 906, has been provided
+to  the  Company  and will be retained by  the  Company  and
+furnished to the Securities and Exchange Commission  or  its
+staff upon request.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

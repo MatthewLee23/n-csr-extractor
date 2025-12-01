@@ -1,0 +1,1320 @@
+[
+    {
+        "filename": "0000002230-03-000010.txt",
+        "extracted_tables": [
+            {
+                "table_type": "Balance Sheet",
+                "total_assets": "1253973815",
+                "total_liabilities": "171568113",
+                "net_assets": "1082405702",
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Income Statement",
+                "total_income": 9820688,
+                "total_expenses": 2704827,
+                "net_investment_income": 7115861,
+                "net_realized_gain_on_security_transactions": 8084307,
+                "net_realized_gain_distributed_by_regulated_investment_company": 178740,
+                "change_in_unrealized_appreciation_on_investments": 68301321,
+                "net_gain_on_investments": 76564368,
+                "change_in_net_assets_resulting_from_operations": 83680229,
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Operations and Net Assets Summary",
+                "total_assets": null,
+                "total_liabilities": null,
+                "net_assets": {
+                    "beginning_of_period": {
+                        "June_30_2003": 1024810092,
+                        "December_31_2002": 1368366316
+                    },
+                    "end_of_period": {
+                        "June_30_2003": 1082405702,
+                        "December_31_2002": 1024810092
+                    }
+                },
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Options Activity",
+                "covered_calls": {
+                    "options_outstanding_dec_31_2002": {
+                        "contracts": 6047,
+                        "premiums": 564056
+                    },
+                    "options_written": {
+                        "contracts": 5300,
+                        "premiums": 711310
+                    },
+                    "options_terminated_in_closing_purchase_transactions": {
+                        "contracts": -2100,
+                        "premiums": -208348
+                    },
+                    "options_expired": {
+                        "contracts": -4097,
+                        "premiums": -390956
+                    },
+                    "options_exercised": {
+                        "contracts": -700,
+                        "premiums": -103220
+                    },
+                    "options_outstanding_june_30_2003": {
+                        "contracts": 4450,
+                        "premiums": 572842
+                    }
+                },
+                "collateralized_puts": {
+                    "options_outstanding_dec_31_2002": {
+                        "contracts": 6195,
+                        "premiums": 663944
+                    },
+                    "options_written": {
+                        "contracts": 12150,
+                        "premiums": 1306501
+                    },
+                    "options_terminated_in_closing_purchase_transactions": {
+                        "contracts": -750,
+                        "premiums": -88454
+                    },
+                    "options_expired": {
+                        "contracts": -9265,
+                        "premiums": -924898
+                    },
+                    "options_exercised": {
+                        "contracts": -580,
+                        "premiums": -64902
+                    },
+                    "options_outstanding_june_30_2003": {
+                        "contracts": 7750,
+                        "premiums": 892191
+                    }
+                },
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "unknown",
+                "data": [],
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Per Share Operating Performance",
+                "net_assets": {
+                    "June 30, 2003": 1082406,
+                    "June 30, 2002": 1170807,
+                    "December 31, 2002": 1024810,
+                    "December 31, 2001": 1368366,
+                    "December 31, 2000": 1951563,
+                    "December 31, 1999": 2170802,
+                    "December 31, 1998": 1688080
+                },
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Investment Portfolio",
+                "stocks_and_convertible_securities": {
+                    "consumer": {
+                        "consumer_discretionary": {
+                            "BJ's Wholesale Club, Inc.": 7530000,
+                            "Black & Decker Corp.": 13035000,
+                            "Brinker International Inc.": 18550300,
+                            "Gannett Co., Inc.": 6720875,
+                            "Target Corp.": 17406400,
+                            "total_value": 63242575
+                        },
+                        "consumer_staples": {
+                            "Coca-Cola Co.": 9282000,
+                            "Dean Foods Co.": 17718750,
+                            "Hershey Foods Corp.": 4876200,
+                            "PepsiCo, Inc.": 19580000,
+                            "Procter & Gamble Co.": 15160600,
+                            "Safeway, Inc.": 8654580,
+                            "total_value": 75272130
+                        }
+                    },
+                    "energy": {
+                        "BP plc ADR": 11345401,
+                        "ConocoPhillips": 10960000,
+                        "Exxon Mobil Corp.": 4668300,
+                        "Petroleum & Resources Corporation": 40911528,
+                        "Schlumberger Ltd.": 3329900,
+                        "total_value": 71215129
+                    },
+                    "financials": {
+                        "banking": {
+                            "BankNorth Group, Inc.": 12096480,
+                            "Compass Bancshares Inc.": 7335300,
+                            "Federal Home Loan Mortgage Corp.": 8123200,
+                            "Fifth Third Bancorp": 5734000,
+                            "Investors Financial Services Corp.": 15085200,
+                            "Provident Bankshares Corp.": 8512895,
+                            "Wachovia Corp.": 15184800,
+                            "Wells Fargo & Co.": 20160000,
+                            "Wilmington Trust Corp.": 12327000,
+                            "total_value": 104558875
+                        },
+                        "insurance": {
+                            "AMBAC Financial Group, Inc.": 26500000,
+                            "American International Group, Inc.": 42139587,
+                            "total_value": 68639587
+                        }
+                    }
+                },
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Investment Portfolio",
+                "data": [
+                    {
+                        "sector": "Health Care",
+                        "percentage": "13.7%",
+                        "holdings": [
+                            {
+                                "name": "Abbott Laboratories",
+                                "shares": 350000,
+                                "value": 15316000
+                            },
+                            {
+                                "name": "Affymetrix Inc. (B)(D)",
+                                "shares": 210000,
+                                "value": 4139100
+                            },
+                            {
+                                "name": "Bristol-Myers Squibb Co.",
+                                "shares": 345000,
+                                "value": 9366750
+                            },
+                            {
+                                "name": "Enzon Pharmaceuticals, Inc. (B)(D)",
+                                "shares": 100000,
+                                "value": 1252000
+                            },
+                            {
+                                "name": "Genentech, Inc. (B)(D)",
+                                "shares": 225000,
+                                "value": 16227000
+                            },
+                            {
+                                "name": "GlaxoSmithKline plc ADR",
+                                "shares": 175000,
+                                "value": 7094500
+                            },
+                            {
+                                "name": "HCA Inc. (D)",
+                                "shares": 450000,
+                                "value": 14418000
+                            },
+                            {
+                                "name": "Johnson & Johnson",
+                                "shares": 360000,
+                                "value": 18612000
+                            },
+                            {
+                                "name": "Laboratory Corp. of America Holdings (B)(D)",
+                                "shares": 335000,
+                                "value": 10100250
+                            },
+                            {
+                                "name": "Lilly (Eli) & Co. (D)",
+                                "shares": 60000,
+                                "value": 4138200
+                            },
+                            {
+                                "name": "Pfizer Inc.",
+                                "shares": 1000960,
+                                "value": 34182785
+                            },
+                            {
+                                "name": "Wyeth Co.",
+                                "shares": 300000,
+                                "value": 13665000
+                            }
+                        ],
+                        "total_value": 148511585
+                    },
+                    {
+                        "sector": "Industrials",
+                        "percentage": "11.7%",
+                        "holdings": [
+                            {
+                                "name": "Boeing Co.",
+                                "shares": 300000,
+                                "value": 10296000
+                            },
+                            {
+                                "name": "Canadian National Railway Co.",
+                                "shares": 170000,
+                                "value": 8204200
+                            },
+                            {
+                                "name": "General Electric Co.",
+                                "shares": 1177500,
+                                "value": 33770700
+                            },
+                            {
+                                "name": "Ingersoll-Rand Co. Ltd.",
+                                "shares": 250000,
+                                "value": 11830000
+                            },
+                            {
+                                "name": "R.R. Donnelley & Sons Co.",
+                                "shares": 500000,
+                                "value": 13070000
+                            },
+                            {
+                                "name": "3M Co. (D)",
+                                "shares": 135000,
+                                "value": 17412300
+                            },
+                            {
+                                "name": "United Parcel Service, Inc. (D)",
+                                "shares": 80000,
+                                "value": 5096000
+                            },
+                            {
+                                "name": "United Technologies Corp. (D)",
+                                "shares": 380000,
+                                "value": 26915400
+                            }
+                        ],
+                        "total_value": 126594600
+                    }
+                ],
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Investment Portfolio",
+                "investments": [
+                    {
+                        "category": "Information Technology",
+                        "sub_category": "Communication Equipment",
+                        "holdings": [
+                            {
+                                "name": "Corning Inc.",
+                                "shares": 1170000,
+                                "value": 8646300
+                            },
+                            {
+                                "name": "Lucent Technologies Inc.",
+                                "shares": 400000,
+                                "value": 812000
+                            },
+                            {
+                                "name": "Nokia Corp. ADR",
+                                "shares": 640000,
+                                "value": 10515200
+                            }
+                        ],
+                        "total_value": 19973500
+                    },
+                    {
+                        "category": "Information Technology",
+                        "sub_category": "Computer Related",
+                        "holdings": [
+                            {
+                                "name": "BEA Systems Inc.",
+                                "shares": 740000,
+                                "value": 8036400
+                            },
+                            {
+                                "name": "BMC Software Inc.",
+                                "shares": 310000,
+                                "value": 5062300
+                            },
+                            {
+                                "name": "Cisco Systems, Inc.",
+                                "shares": 1755000,
+                                "value": 29115450
+                            },
+                            {
+                                "name": "DiamondCluster International Inc.",
+                                "shares": 497500,
+                                "value": 1845725
+                            },
+                            {
+                                "name": "Microsoft Corp.",
+                                "shares": 785000,
+                                "value": 20103850
+                            },
+                            {
+                                "name": "Oracle Corp.",
+                                "shares": 880000,
+                                "value": 10577600
+                            },
+                            {
+                                "name": "Sapient Corp.",
+                                "shares": 1150000,
+                                "value": 3185500
+                            },
+                            {
+                                "name": "Siebel Systems Inc.",
+                                "shares": 770000,
+                                "value": 7345800
+                            },
+                            {
+                                "name": "Sun Microsystems Inc.",
+                                "shares": 515000,
+                                "value": 2369000
+                            },
+                            {
+                                "name": "Symantec Corp. 3.00% Conv. Sub. Notes due 2006",
+                                "principal_amount": 500000,
+                                "value": 705938
+                            },
+                            {
+                                "name": "Symantec Corp.",
+                                "shares": 200000,
+                                "value": 8772000
+                            }
+                        ],
+                        "total_value": 97119563
+                    },
+                    {
+                        "category": "Information Technology",
+                        "sub_category": "Electronics",
+                        "holdings": [
+                            {
+                                "name": "Intel Corp.",
+                                "shares": 510000,
+                                "value": 10599840
+                            },
+                            {
+                                "name": "Solectron Corp.",
+                                "shares": 2000000,
+                                "value": 7480000
+                            }
+                        ],
+                        "total_value": 18079840
+                    }
+                ],
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Investment Holdings",
+                "holdings": [
+                    {
+                        "category": "Materials",
+                        "percentage": "1.7%",
+                        "items": [
+                            {
+                                "name": "Albemarle Corp.",
+                                "principal_amount_or_shares": "225400",
+                                "value": "6304438"
+                            },
+                            {
+                                "name": "Rohm & Haas Co.",
+                                "principal_amount_or_shares": "400000",
+                                "value": "12412000"
+                            }
+                        ],
+                        "total_value": "18716438"
+                    },
+                    {
+                        "category": "Telecom Services",
+                        "percentage": "4.9%",
+                        "items": [
+                            {
+                                "name": "Alltel Corp.",
+                                "principal_amount_or_shares": "350000",
+                                "value": "16877000"
+                            },
+                            {
+                                "name": "BellSouth Corp.",
+                                "principal_amount_or_shares": "415000",
+                                "value": "11051450"
+                            },
+                            {
+                                "name": "SBC Communications Inc.",
+                                "principal_amount_or_shares": "595000",
+                                "value": "15202250"
+                            },
+                            {
+                                "name": "Vodafone Group plc ADS",
+                                "principal_amount_or_shares": "492614",
+                                "value": "9679855"
+                            }
+                        ],
+                        "total_value": "52810555"
+                    },
+                    {
+                        "category": "Utilities",
+                        "percentage": "9.2%",
+                        "items": [
+                            {
+                                "name": "Black Hills Corp.",
+                                "principal_amount_or_shares": "374500",
+                                "value": "11497150"
+                            },
+                            {
+                                "name": "CINergy Corp.",
+                                "principal_amount_or_shares": "440000",
+                                "value": "16187600"
+                            },
+                            {
+                                "name": "Duke Energy Corp. 8.25% Conv. Pfd. due 2004",
+                                "principal_amount_or_shares": "400000",
+                                "value": "6344000"
+                            },
+                            {
+                                "name": "Duke Energy Corp.",
+                                "principal_amount_or_shares": "355000",
+                                "value": "7082250"
+                            },
+                            {
+                                "name": "Keyspan Corp.",
+                                "principal_amount_or_shares": "400000",
+                                "value": "14180000"
+                            },
+                            {
+                                "name": "MDU Resources Group, Inc.",
+                                "principal_amount_or_shares": "450000",
+                                "value": "15070500"
+                            },
+                            {
+                                "name": "Northwestern Corp.",
+                                "principal_amount_or_shares": "41800",
+                                "value": "83600"
+                            },
+                            {
+                                "name": "Philadelphia Suburban Corp.",
+                                "principal_amount_or_shares": "875000",
+                                "value": "21332500"
+                            },
+                            {
+                                "name": "TECO Energy, Inc.",
+                                "principal_amount_or_shares": "650000",
+                                "value": "7793500"
+                            }
+                        ],
+                        "total_value": "99571100"
+                    }
+                ],
+                "total_stocks_and_convertible_securities": {
+                    "cost": "801555901",
+                    "value": "964305477"
+                },
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Investment Portfolio",
+                "investments": [
+                    {
+                        "category": "U.S. Government Obligations",
+                        "percentage": "3.2%",
+                        "items": [
+                            {
+                                "description": "U.S. Treasury Bills, 0.94%, due 8/21/03",
+                                "principal_amount": "35000000",
+                                "value": "34953392"
+                            }
+                        ]
+                    },
+                    {
+                        "category": "Certificates of Deposit",
+                        "percentage": "1.4%",
+                        "items": [
+                            {
+                                "description": "Mercantile-Safe Deposit & Trust Co., 1.00%, due 7/22/03-7/25/03",
+                                "principal_amount": "15000000",
+                                "value": "15000000"
+                            }
+                        ]
+                    },
+                    {
+                        "category": "Commercial Paper",
+                        "percentage": "5.9%",
+                        "items": [
+                            {
+                                "description": "AIG Funding, Inc., 0.92%, due 7/15/03",
+                                "principal_amount": "2365000",
+                                "value": "2364154"
+                            },
+                            {
+                                "description": "American General Finance Corp., 1.22%, due 7/3/03",
+                                "principal_amount": "12600000",
+                                "value": "12599146"
+                            },
+                            {
+                                "description": "Chevron UK, 1.21%, due 7/15/03",
+                                "principal_amount": "15000000",
+                                "value": "14992942"
+                            },
+                            {
+                                "description": "GMAC New Center Asset Trust, 1.03%, due 7/17/03",
+                                "principal_amount": "7375000",
+                                "value": "7371624"
+                            },
+                            {
+                                "description": "General Electric Capital Corp., 0.99-1.24%, due 7/8/03-8/5/03",
+                                "principal_amount": "14695000",
+                                "value": "14688381"
+                            },
+                            {
+                                "description": "Toyota Motor Credit Corp., 1.18%, due 7/17/03",
+                                "principal_amount": "6550000",
+                                "value": "6548321"
+                            },
+                            {
+                                "description": "Wells Fargo & Co., 1.01%, due 7/31/03",
+                                "principal_amount": "4705000",
+                                "value": "4701040"
+                            }
+                        ],
+                        "total_value": "63265608"
+                    }
+                ],
+                "total_short_term_investments": {
+                    "cost": "113219000",
+                    "value": "113219000"
+                },
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Balance Sheet",
+                "total_assets": "1244502023",
+                "total_liabilities": "162096321",
+                "net_assets": "1082405702",
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Contracts",
+                "covered_calls": [
+                    {
+                        "contracts": 250,
+                        "security": "Affymetrix Inc.",
+                        "strike_price": 35,
+                        "expiration_date": "Aug 03",
+                        "appreciation_depreciation": 23124
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "American International Group, Inc.",
+                        "strike_price": 60,
+                        "expiration_date": "Aug 03",
+                        "appreciation_depreciation": 11379
+                    },
+                    {
+                        "contracts": 150,
+                        "security": "American International Group, Inc.",
+                        "strike_price": 65,
+                        "expiration_date": "Aug 03",
+                        "appreciation_depreciation": 12149
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "American International Group, Inc.",
+                        "strike_price": 100,
+                        "expiration_date": "Jan 04",
+                        "appreciation_depreciation": 26249
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Federal Home Loan Mortgage Corp.",
+                        "strike_price": 60,
+                        "expiration_date": "Oct 03",
+                        "appreciation_depreciation": 2623
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Federal Home Loan Mortgage Corp.",
+                        "strike_price": 65,
+                        "expiration_date": "Oct 03",
+                        "appreciation_depreciation": 7300
+                    },
+                    {
+                        "contracts": 350,
+                        "security": "Genentech, Inc.",
+                        "strike_price": 60,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": -410901
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Genentech, Inc.",
+                        "strike_price": 60,
+                        "expiration_date": "Sep 03",
+                        "appreciation_depreciation": -318502
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "GlaxoSmithKline, plc ADR",
+                        "strike_price": 42.5,
+                        "expiration_date": "Aug 03",
+                        "appreciation_depreciation": 3874
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Hershey Foods Corp.",
+                        "strike_price": 75,
+                        "expiration_date": "Aug 03",
+                        "appreciation_depreciation": 6549
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Johnson & Johnson",
+                        "strike_price": 65,
+                        "expiration_date": "Oct 03",
+                        "appreciation_depreciation": 26498
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Nokia Corp.",
+                        "strike_price": 20,
+                        "expiration_date": "Jan 04",
+                        "appreciation_depreciation": 9374
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Procter & Gamble Co.",
+                        "strike_price": 90,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 1600
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Procter & Gamble Co.",
+                        "strike_price": 95,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 9000
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Procter & Gamble Co.",
+                        "strike_price": 100,
+                        "expiration_date": "Oct 03",
+                        "appreciation_depreciation": 7000
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Symantec Corp.",
+                        "strike_price": 50,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 14499
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Symantec Corp.",
+                        "strike_price": 55,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 16099
+                    },
+                    {
+                        "contracts": 200,
+                        "security": "Symantec Corp.",
+                        "strike_price": 55,
+                        "expiration_date": "Oct 03",
+                        "appreciation_depreciation": 21098
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "3M Co.",
+                        "strike_price": 135,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 6600
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "3M Co.",
+                        "strike_price": 150,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 26384
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "3M Co.",
+                        "strike_price": 150,
+                        "expiration_date": "Oct 03",
+                        "appreciation_depreciation": 9999
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "United Technologies Corp.",
+                        "strike_price": 75,
+                        "expiration_date": "Aug 03",
+                        "appreciation_depreciation": 17499
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "United Technologies Corp.",
+                        "strike_price": 75,
+                        "expiration_date": "Jan 04",
+                        "appreciation_depreciation": -2501
+                    },
+                    {
+                        "contracts": 150,
+                        "security": "United Technologies Corp.",
+                        "strike_price": 90,
+                        "expiration_date": "Jan 04",
+                        "appreciation_depreciation": -1501
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Wachovia Corp.",
+                        "strike_price": 42.5,
+                        "expiration_date": "Oct 03",
+                        "appreciation_depreciation": 600
+                    }
+                ],
+                "collateralized_puts": [
+                    {
+                        "contracts": 100,
+                        "security": "Albemarle Corp.",
+                        "strike_price": 22.5,
+                        "expiration_date": "Dec 03",
+                        "appreciation_depreciation": 5100
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Alltel Corp.",
+                        "strike_price": 35,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 30249
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Alltel Corp.",
+                        "strike_price": 40,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 37699
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "BEA Systems Inc.",
+                        "strike_price": 10,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 17749
+                    },
+                    {
+                        "contracts": 350,
+                        "security": "BEA Systems Inc.",
+                        "strike_price": 7.5,
+                        "expiration_date": "Sep 03",
+                        "appreciation_depreciation": 26424
+                    },
+                    {
+                        "contracts": 150,
+                        "security": "Boeing Co.",
+                        "strike_price": 22.5,
+                        "expiration_date": "Aug 03",
+                        "appreciation_depreciation": 12150
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Canadian National Railway Co.",
+                        "strike_price": 35,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 17624
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "ConocoPhillips",
+                        "strike_price": 47.5,
+                        "expiration_date": "Aug 03",
+                        "appreciation_depreciation": 18999
+                    },
+                    {
+                        "contracts": 150,
+                        "security": "ConocoPhillips",
+                        "strike_price": 50,
+                        "expiration_date": "Aug 03",
+                        "appreciation_depreciation": 10574
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "ConocoPhillips",
+                        "strike_price": 45,
+                        "expiration_date": "Nov 03",
+                        "appreciation_depreciation": 17749
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "ConocoPhillips",
+                        "strike_price": 50,
+                        "expiration_date": "Nov 03",
+                        "appreciation_depreciation": -1
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Fifth Third Bancorp",
+                        "strike_price": 50,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 8100
+                    },
+                    {
+                        "contracts": 150,
+                        "security": "Fifth Third Bancorp",
+                        "strike_price": 45,
+                        "expiration_date": "Aug 03",
+                        "appreciation_depreciation": 23249
+                    },
+                    {
+                        "contracts": 200,
+                        "security": "Fifth Third Bancorp",
+                        "strike_price": 40,
+                        "expiration_date": "Nov 03",
+                        "appreciation_depreciation": 13449
+                    },
+                    {
+                        "contracts": 150,
+                        "security": "Fifth Third Bancorp",
+                        "strike_price": 45,
+                        "expiration_date": "Jan 04",
+                        "appreciation_depreciation": 2324
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Fifth Third Bancorp",
+                        "strike_price": 50,
+                        "expiration_date": "Jan 04",
+                        "appreciation_depreciation": 4074
+                    },
+                    {
+                        "contracts": 200,
+                        "security": "Federal Home Loan Mortgage Corp.",
+                        "strike_price": 45,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 24725
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Gannett Co., Inc.",
+                        "strike_price": 60,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 32499
+                    },
+                    {
+                        "contracts": 150,
+                        "security": "Gannett Co., Inc.",
+                        "strike_price": 70,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 12749
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Gannett Co., Inc.",
+                        "strike_price": 55,
+                        "expiration_date": "Oct 03",
+                        "appreciation_depreciation": 22499
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Gannett Co., Inc.",
+                        "strike_price": 60,
+                        "expiration_date": "Oct 03",
+                        "appreciation_depreciation": 15599
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Gannett Co., Inc.",
+                        "strike_price": 65,
+                        "expiration_date": "Oct 03",
+                        "appreciation_depreciation": 9349
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Gannett Co., Inc.",
+                        "strike_price": 70,
+                        "expiration_date": "Oct 03",
+                        "appreciation_depreciation": 6999
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Gannett Co., Inc.",
+                        "strike_price": 65,
+                        "expiration_date": "Jan 04",
+                        "appreciation_depreciation": -4751
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Hershey Foods Corp.",
+                        "strike_price": 55,
+                        "expiration_date": "Aug 03",
+                        "appreciation_depreciation": 8100
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Investors Financial Services Corp.",
+                        "strike_price": 22.5,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 25099
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Investors Financial Services Corp.",
+                        "strike_price": 20,
+                        "expiration_date": "Oct 03",
+                        "appreciation_depreciation": 14474
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Laboratory Corp. of America Holdings",
+                        "strike_price": 25,
+                        "expiration_date": "Aug 03",
+                        "appreciation_depreciation": 16374
+                    },
+                    {
+                        "contracts": 500,
+                        "security": "Microsoft Corp.",
+                        "strike_price": 17.5,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 27624
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Microsoft Corp.",
+                        "strike_price": 23.75,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 21499
+                    }
+                ],
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Collateralized Puts",
+                "data": [
+                    {
+                        "contracts": 150,
+                        "security": "Microsoft Corp.",
+                        "strike_price": 25,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 8399
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Microsoft Corp.",
+                        "strike_price": 22.5,
+                        "expiration_date": "Oct 03",
+                        "appreciation_depreciation": 14999
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Procter & Gamble Co.",
+                        "strike_price": 65,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 27499
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Rohm & Haas Co.",
+                        "strike_price": 25,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 7099
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Rohm & Haas Co.",
+                        "strike_price": 30,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 5099
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "Schlumberger Ltd.",
+                        "strike_price": 45,
+                        "expiration_date": "Aug 03",
+                        "appreciation_depreciation": 999
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "Target Corp.",
+                        "strike_price": 22.5,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 21499
+                    },
+                    {
+                        "contracts": 250,
+                        "security": "United Parcel Service, Inc.",
+                        "strike_price": 50,
+                        "expiration_date": "Jul 03",
+                        "appreciation_depreciation": 31249
+                    },
+                    {
+                        "contracts": 100,
+                        "security": "United Parcel Service, Inc.",
+                        "strike_price": 45,
+                        "expiration_date": "Oct 03",
+                        "appreciation_depreciation": 10500
+                    },
+                    {
+                        "contracts": 150,
+                        "security": "Wyeth Co.",
+                        "strike_price": 35,
+                        "expiration_date": "Oct 03",
+                        "appreciation_depreciation": 7499
+                    }
+                ],
+                "total_contracts": 7750,
+                "total_appreciation_depreciation": 613191,
+                "net_appreciation_depreciation": 139283,
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Shares",
+                "data": [
+                    {
+                        "company": "BEA Systems Inc.",
+                        "additions": "305000",
+                        "reductions": "",
+                        "held_june_30_2003": "740000"
+                    },
+                    {
+                        "company": "Compass Bancshares Inc.",
+                        "additions": "35000",
+                        "reductions": "",
+                        "held_june_30_2003": "210000"
+                    },
+                    {
+                        "company": "ConocoPhillips",
+                        "additions": "200000",
+                        "reductions": "",
+                        "held_june_30_2003": "200000"
+                    },
+                    {
+                        "company": "Dean Foods Co.",
+                        "additions": "212500",
+                        "reductions": "127400",
+                        "held_june_30_2003": "562500"
+                    },
+                    {
+                        "company": "Fifth Third Bancorp",
+                        "additions": "100000",
+                        "reductions": "",
+                        "held_june_30_2003": "100000"
+                    },
+                    {
+                        "company": "Investors Financial Services Corp.",
+                        "additions": "25000",
+                        "reductions": "",
+                        "held_june_30_2003": "520000"
+                    },
+                    {
+                        "company": "Laboratory Corp. of America Holdings",
+                        "additions": "10000",
+                        "reductions": "",
+                        "held_june_30_2003": "335000"
+                    },
+                    {
+                        "company": "Microsoft Corp",
+                        "additions": "470000",
+                        "reductions": "",
+                        "held_june_30_2003": "785000"
+                    },
+                    {
+                        "company": "Pfizer Inc.",
+                        "additions": "516460",
+                        "reductions": "",
+                        "held_june_30_2003": "1000960"
+                    },
+                    {
+                        "company": "Safeway, Inc.",
+                        "additions": "8000",
+                        "reductions": "",
+                        "held_june_30_2003": "423000"
+                    },
+                    {
+                        "company": "Schlumberger Ltd.",
+                        "additions": "70000",
+                        "reductions": "",
+                        "held_june_30_2003": "70000"
+                    },
+                    {
+                        "company": "Genentech, Inc.",
+                        "additions": "",
+                        "reductions": "75000",
+                        "held_june_30_2003": "225000"
+                    },
+                    {
+                        "company": "General Electric Co.",
+                        "additions": "",
+                        "reductions": "5000",
+                        "held_june_30_2003": "1177500"
+                    },
+                    {
+                        "company": "GlaxoSmithKline plc ADR",
+                        "additions": "",
+                        "reductions": "75360",
+                        "held_june_30_2003": "175000"
+                    },
+                    {
+                        "company": "Lilly (Eli) & Co.",
+                        "additions": "",
+                        "reductions": "130000",
+                        "held_june_30_2003": "60000"
+                    },
+                    {
+                        "company": "Nokia Corp. ADR",
+                        "additions": "",
+                        "reductions": "410000",
+                        "held_june_30_2003": "640000"
+                    },
+                    {
+                        "company": "Northwestern Corp.",
+                        "additions": "",
+                        "reductions": "458200",
+                        "held_june_30_2003": "41800"
+                    },
+                    {
+                        "company": "Pharmacia Corp.",
+                        "additions": "",
+                        "reductions": "368900",
+                        "held_june_30_2003": ""
+                    },
+                    {
+                        "company": "3M Co.",
+                        "additions": "",
+                        "reductions": "10000",
+                        "held_june_30_2003": "135000"
+                    },
+                    {
+                        "company": "Vertex Pharmaceuticals Inc.",
+                        "additions": "",
+                        "reductions": "70000",
+                        "held_june_30_2003": ""
+                    }
+                ],
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Dividends and Distributions",
+                "data": [
+                    {
+                        "date": "December 31, 1993",
+                        "net_assets": "840610252",
+                        "shares_outstanding": "63746498",
+                        "nav_per_share": "13.19",
+                        "dividends_from_net_income": "0.30",
+                        "distributions_from_net_realized_gains": "0.79"
+                    },
+                    {
+                        "date": "December 31, 1994",
+                        "net_assets": "798297600",
+                        "shares_outstanding": "66584985",
+                        "nav_per_share": "11.99",
+                        "dividends_from_net_income": "0.33",
+                        "distributions_from_net_realized_gains": "0.73"
+                    },
+                    {
+                        "date": "December 31, 1995",
+                        "net_assets": "986230914",
+                        "shares_outstanding": "69248276",
+                        "nav_per_share": "14.24",
+                        "dividends_from_net_income": "0.35",
+                        "distributions_from_net_realized_gains": "0.76"
+                    },
+                    {
+                        "date": "December 31, 1996",
+                        "net_assets": "1138760396",
+                        "shares_outstanding": "72054792",
+                        "nav_per_share": "15.80",
+                        "dividends_from_net_income": "0.35",
+                        "distributions_from_net_realized_gains": "0.80"
+                    },
+                    {
+                        "date": "December 31, 1997",
+                        "net_assets": "1424170425",
+                        "shares_outstanding": "74923859",
+                        "nav_per_share": "19.01",
+                        "dividends_from_net_income": "0.29",
+                        "distributions_from_net_realized_gains": "1.01"
+                    },
+                    {
+                        "date": "December 31, 1998",
+                        "net_assets": "1688080336",
+                        "shares_outstanding": "77814977",
+                        "nav_per_share": "21.69",
+                        "dividends_from_net_income": "0.30",
+                        "distributions_from_net_realized_gains": "1.10"
+                    },
+                    {
+                        "date": "December 31, 1999",
+                        "net_assets": "2170801875",
+                        "shares_outstanding": "80842241",
+                        "nav_per_share": "26.85",
+                        "dividends_from_net_income": "0.26",
+                        "distributions_from_net_realized_gains": "1.37"
+                    },
+                    {
+                        "date": "December 31, 2000",
+                        "net_assets": "1951562978",
+                        "shares_outstanding": "82292262",
+                        "nav_per_share": "23.72",
+                        "dividends_from_net_income": "0.22",
+                        "distributions_from_net_realized_gains": "1.63"
+                    },
+                    {
+                        "date": "December 31, 2001",
+                        "net_assets": "1368366316",
+                        "shares_outstanding": "85233262",
+                        "nav_per_share": "16.05",
+                        "dividends_from_net_income": "0.26",
+                        "distributions_from_net_realized_gains": "1.39"
+                    },
+                    {
+                        "date": "December 31, 2002",
+                        "net_assets": "1024810092",
+                        "shares_outstanding": "84536250",
+                        "nav_per_share": "12.12",
+                        "dividends_from_net_income": "0.19",
+                        "distributions_from_net_realized_gains": "0.57"
+                    },
+                    {
+                        "date": "June 30, 2003",
+                        "net_assets": "1082405702",
+                        "shares_outstanding": "82909150",
+                        "nav_per_share": "13.06",
+                        "dividends_from_net_income": "0.12",
+                        "distributions_from_net_realized_gains": "0.03"
+                    }
+                ],
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Fee Schedule",
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "unknown",
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Minimum and Maximum Cash Investments",
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "unknown",
+                "validation_status": "passed",
+                "attempts_needed": 1
+            },
+            {
+                "table_type": "Income Statement",
+                "data": {
+                    "from_investment_income": "0.12",
+                    "from_net_realized_gains": "0.03",
+                    "total": "0.15"
+                },
+                "validation_status": "passed",
+                "attempts_needed": 1
+            }
+        ]
+    }
+]
